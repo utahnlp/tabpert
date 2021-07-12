@@ -1,0 +1,51 @@
+{
+  "Associated acts": [
+    { "The Oak Ridge Boys": "0110000" },
+    { "Gnarkill": "0010000" },
+    { "Steel Train": "0000000" },
+    { "St. Vincent": "0010000" },
+    { "How to Dress Well": "0000000" },
+    { "Jazze Pha": "0110000" },
+    { "Taking Back Sunday": "1010000" },
+    { "St. Vincent": "0000000" },
+    { "Taylor Swift": "0000000" },
+    { "Art Pepper ": "0010000" }
+  ],
+  "Birth name": [{ "Jack Michael Antonoff": "0000000" }],
+  "Born": [
+    {
+      "( 1976-09-06 ) 6 September 1976  Clunie, Perthshire, Scotland": "0110010"
+    }
+  ],
+  "Genres": [
+    { "Rock ": "0110000" },
+    { "Action/adventure": "1111000" },
+    { "new wave": "0000000" },
+    { "Art rock": "1110000" },
+    {
+      "Indie rock, experimental rock, soul music, noise pop, post-rock": "1010000"
+    },
+    { "power pop": "0000000" }
+  ],
+  "Instruments": [
+    { "Vocals": "1010000" },
+    { "Vocals": "1110000" },
+    { "Guitar": "0010000" },
+    { "guitar": "1010000" },
+    { "bass guitar": "0000000" },
+    { "Vocals": "0110000" }
+  ],
+  "Labels": [
+    { "Jive": "1111000" },
+    { "Capitol": "0110000" },
+    { "Epic": "0111000" }
+  ],
+  "Occupation(s)": [
+    { "Actress": "0111000" },
+    { "Songwriter": "1110000" },
+    { "singer": "0111000" },
+    { "musician": "0000000" }
+  ],
+  "Years active": [{ "2000 - present": "0000010" }],
+  "title": ["Jack Antonoff"]
+}

@@ -1,0 +1,14 @@
+{
+  "Birth name": [{ "Charlie Zipernowsky": "0000010" }],
+  "Born": [{ "11 June 1853  Saint-Andre-de-Cubzac, France": "1010010" }],
+  "Died": [{ "5 December 1917   Marnes-la-Coquette, France": "1110010" }],
+  "Education": [{ "Technical University of Budapest": "0000100" }],
+  "Institutions": [{ "University of Massachusetts Boston": "0111000" }],
+  "Nationality": [{ "English": "1010010" }, { "Austrian": "0000000" }],
+  "Occupation": [{ "Singer": "0111000" }],
+  "Projects": [
+    { "transformer": "0000000" },
+    { "alternating current": "1010010" }
+  ],
+  "title": ["Karoly Zipernowsky"]
+}

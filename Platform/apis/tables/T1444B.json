@@ -1,0 +1,22 @@
+{
+  "Associated acts": [
+    { "Noel Fielding": "0000000" },
+    { "Steel Mill": "1110000" },
+    { "Jess Glynne": "1010000" }
+  ],
+  "Genres": [
+    { "Gothic rock": "1010000" },
+    { "worldbeat": "0010000" },
+    { "electronic rock": "0000000" },
+    { "Mandopop": "0111000" }
+  ],
+  "Labels": [
+    { "Impact Wrestling Music": "0010000" },
+    { "Fan Bingbing Studio ": "0111000" },
+    { "Atco": "1010000" }
+  ],
+  "Origin": [{ "Britain": "1110000" }],
+  "Website": [{ "kasabian .co .uk": "0000000" }],
+  "Years active": [{ "2001-present": "0111010" }],
+  "title": ["Kasabian"]
+}

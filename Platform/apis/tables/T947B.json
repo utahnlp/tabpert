@@ -1,0 +1,29 @@
+{
+  "Capitaland largest city": [{ "Gaborone , -24.6583; 25.9083": "0000100" }],
+  "Demonym(s)": [
+    { "Batswana (plural)": "0000000" },
+    { "Yerevantsi(s), Yerevanite(s)": "1110000" }
+  ],
+  "Ethnic groups": [
+    { "3% Basarwa": "0000100" },
+    { "80% Kalanga": "0000110" },
+    { "10% Tswana": "0000110" },
+    { "3% White": "0000000" },
+    { "0.4% Chinese": "0111000" },
+    { "4% Other (including Shona and Kgalagadi)": "0000100" },
+    { "Over 300 ethnic groups": "0010000" }
+  ],
+  "Government": [{ "Unitary presidential constitutional republic": "0010100" }],
+  "Legislature": [{ "National Assembly": "0000000" }],
+  "Official languages": [{ "English": "0000000" }, { " Setswana": "0000000" }],
+  "President": [{ "Mokgweetsi Masisi": "0000000" }],
+  "Religion": [
+    { "79% African traditional religion": "0000110" },
+    { "4.1% Christian": "0000110" },
+    { "11.4% Other (includes  Islam, Rastafarian)": "0000110" },
+    { "15.2% None/no religion": "0000100" },
+    { "0.3% Unspecified (2011 est.)": "0000100" }
+  ],
+  "Vice-President": [{ "Tadamori Oshima": "0111000" }],
+  "title": ["Republic of Botswana Lefatshe la Botswana  (Tswana)"]
+}

@@ -1,0 +1,24 @@
+{
+  "Capitaland largest city": [],
+  "Demonym(s)": [
+    { "Catanesi": "0110000" },
+    { "Motswana (singular)": "0000000" }
+  ],
+  "Ethnic groups": [
+    { "15% Tswana": "0000110" },
+    { "Over 300 ethnic groups": "0010000" },
+    { "3% White": "0000000" },
+    { "81.3% Maori": "1111000" }
+  ],
+  "Government": [{ "Unitary parliamentary republic": "0000100" }],
+  "Legislature": [{ "Council of Representatives": "0010000" }],
+  "Official languages": [{ "English": "0000000" }, { "Dutch": "1010000" }],
+  "President": [{ "Jair Bolsonaro": "1010000" }],
+  "Religion": [
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    }
+  ],
+  "Vice-President": [{ "Justin Simien": "0111000" }],
+  "title": ["Republic of Botswana Lefatshe la Botswana  (Tswana)"]
+}

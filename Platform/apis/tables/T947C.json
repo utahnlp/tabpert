@@ -1,0 +1,28 @@
+{
+  "Capitaland largest city": [{ "Havana , 23.133; -82.383": "0010100" }],
+  "Demonym(s)": [
+    { "Catanesi": "0110000" },
+    { "Motswana (singular)": "0000000" }
+  ],
+  "Ethnic groups": [
+    { "80% Tswana": "0000000" },
+    { "11.9% other": "1111000" },
+    { "Over 300 ethnic groups": "0010000" },
+    { "4% Other (including Shona and Kgalagadi)": "0000000" }
+  ],
+  "Government": [{ "Monarchy": "0010000" }],
+  "Legislature": [{ "National Assembly": "0000000" }],
+  "Official languages": [{ "Somali": "1111000" }, { " Setswana": "0000000" }],
+  "President": [{ "Hassan Rouhani": "1010000" }],
+  "Religion": [
+    { "79% Christian": "0000000" },
+    { "4.1% African traditional religion": "0000100" },
+    { "11.4% Other (includes Baha'i, Islam, Rastafarian)": "0000110" },
+    { "15.2% None/no religion": "0000000" },
+    { "1.7% Hinduism": "0010000" }
+  ],
+  "Vice-President": [
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1111000" }
+  ],
+  "title": ["Republic of Botswana Lefatshe la Botswana  (Tswana)"]
+}
