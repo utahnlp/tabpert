@@ -1,0 +1,29 @@
+{
+  "Nickname(s)": [
+    { "\"Chaos\" (callsign)": "0000000" },
+    { "Canelo  (\"Cinnamon\")": "1110000" },
+    { "\"Mad Dog\"": "0000000" }
+  ],
+  "Years of service": [{ "1898-1911, 1914-1919": "0010000" }],
+  "Commands": [
+    { "U.S. Central Command": "0000000" },
+    { " I Marine Expeditionary Force ": "1010000" },
+    { "Supreme Allied Commander Transformation": "0000000" },
+    { " 1st Marine Division ": "1010000" },
+    { "U.S. Marine Forces Central Command": "0000000" },
+    { " 1st Marine Division ": "1010000" },
+    { " 1st Marine Division ": "1010000" },
+    { "1st Marine Expeditionary Brigade": "0000000" },
+    { " 1st Marine Expeditionary Brigade ": "1010000" },
+    { "1st Battalion, 7th Marines": "0000000" }
+  ],
+  "Battles/wars": [
+    { "World War I": "1010000" },
+    { "War in Afghanistan": "0000000" },
+    { "World War II": "0010000" },
+    { "Napoleonic Wars": "1010000" },
+    { "World War II": "0010000" },
+    { "World War II": "0010000" }
+  ],
+  "title": ["Jim Mattis"]
+}

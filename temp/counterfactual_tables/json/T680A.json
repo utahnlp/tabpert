@@ -1,0 +1,39 @@
+{
+  "Also known as": [
+    { "Club Colectiv tragedy": "0110000" },
+    { "Code Orange Kids  (2008-2014)": "0010000" }
+  ],
+  "Origin": [{ "Britain": "1110000" }],
+  "Genres": [
+    { "rockabilly": "0010000" },
+    { "folk rock": "1010000" },
+    { "stoner metal": "0000000" },
+    { "pop rock": "0010000" }
+  ],
+  "Years active": [{ "1997-present": "0110000" }],
+  "Labels": [
+    { "Nuclear Blast, Spinefarm, Century Media": "0010000" },
+    { "Pernod Ricard": "1111000" },
+    { "Parlophone": "1110000" },
+    { "Elektra": "1010000" },
+    { "Roadrunner": "0000000" },
+    { "Wagram, MVKA, Le Plan Recordings": "0010000" },
+    { "SG  Shogakukan Asia": "0111000" },
+    { "One Way Records": "1010000" }
+  ],
+  "Associated acts": [
+    { "Exo": "1110000" },
+    { "Jazze Pha": "0110000" },
+    { "Innosense": "0110000" },
+    { "Noonie Bao": "1110000" },
+    { "Lilith": "0010000" },
+    { "The Carpenters": "1010000" },
+    { "Game Grumps": "1110000" },
+    { "The Statler Brothers": "0110000" },
+    { "PeroxWhy?Gen": "0010000" },
+    {
+      "James Taylor , The Simon Sisters , Elephant's Memory , Jimmy Webb , Hall & Oates , Russ Kunkel , Andreas Vollenweider , Carole Bayer Sager , Marvin Hamlisch , Richard Perry , Cat Stevens": "1110000"
+    }
+  ],
+  "title": ["CKY"]
+}

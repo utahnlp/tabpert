@@ -1,0 +1,52 @@
+{
+  "Born": [{ "February 1936 Shanghai, China": "0110000" }],
+  "Origin": [{ "Kowloon, British Hong Kong": "1110000" }],
+  "Genres": [
+    { "soul": "1110000" },
+    { "Rock ": "0110000" },
+    { "pop": "1110000" },
+    { "Board game": "1111000" },
+    { "Rock ": "0110000" }
+  ],
+  "Occupation(s)": [
+    { "songwriter": "0010000" },
+    { "rapper": "1010000" },
+    { "designer": "1110000" },
+    { "record producer": "0000000" },
+    { "Show dog": "0111000" },
+    { "record producer": "0010000" },
+    { "Inventor": "0111000" },
+    { "filmmaker": "0000000" }
+  ],
+  "Instruments": [
+    { "Vocals": "0110000" },
+    { "Vocals  guitar": "1010000" },
+    { "Vocals": "1010000" },
+    { "keyboards": "1010000" },
+    { "Vocals": "1110000" },
+    { "bass ": "1010000" },
+    { " turntables": "1010000" },
+    { "Vocals": "1110000" },
+    { "Vocals": "1110000" },
+    { "bass guitar": "1010000" },
+    { "Vocals": "1110000" },
+    { "guitar": "1110000" },
+    { "Vocals": "0110000" }
+  ],
+  "Years active": [{ "1971-present": "0000000" }],
+  "Labels": [
+    { "Epic": "0110000" },
+    { "Skam": "1010000" },
+    { "Nonesuch": "0000000" },
+    { "SM Entertainment": "1110000" },
+    { "Juddmonte Farms": "0111000" },
+    { "Sho'nuff": "0110000" }
+  ],
+  "Associated acts": [
+    { "The Blue Velvets": "1010000" },
+    { "Ty Dolla Sign": "0010000" },
+    { "St. Vincent": "0000000" }
+  ],
+  "Website": [{ "brianmay .com": "0010000" }],
+  "title": ["David Byrne"]
+}

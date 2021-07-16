@@ -1,0 +1,40 @@
+{
+  "Directed by": [{ "Steven Spielberg": "0010000" }],
+  "Produced by": [
+    { "Erik Rommesmo": "1010000" },
+    { "  Masahito Yoshioka": "1110000" },
+    { "Jon Jashni": "0000000" },
+    { "Haile Selassie I  (last) (1930-1974)": "1111000" }
+  ],
+  "Written by": [
+    { "Takahiro Arai": "0010000" },
+    { "Matthew Robbins": "0000000" }
+  ],
+  "Starring": [
+    {
+      "Leslie Cheung , Andy Lau , Maggie Cheung , Carina Lau , Jacky Cheung": "1010000"
+    },
+    { "Enzo Staiola": "1010000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Jodie Foster": "1010000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" }
+  ],
+  "Music by": [{ "Fernando Vel\u00e1zquez": "0000000" }],
+  "Cinematography": [{ "Ronald J. Daniels": "1111000" }],
+  "Edited by": [{ "Kim Hui-su": "1110000" }],
+  "Productioncompany": [
+    { "Warner Bros. - First National Pictures": "0010000" },
+    { "Mercury": "1111000" }
+  ],
+  "Distributed by": [{ "Registered charity No. SC000470": "0111000" }],
+  "Release date": [
+    { "April 13, 1960 (1960-04-13)": "1110000" },
+    { "EU: 1978": "0110000" }
+  ],
+  "Running time": [{ "119 minutes": "0000000" }],
+  "Country": [{ "Great Britain": "0110000" }],
+  "Language": [{ "English": "1110000" }],
+  "Budget": [{ "$2,481,760": "1111000" }],
+  "Box office": [{ "$231.4 million": "1010000" }],
+  "title": ["Crimson Peak"]
+}

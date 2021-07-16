@@ -1,0 +1,14 @@
+{
+  "Country": [{ "Romania": "0110000" }],
+  "State": [{ "Colorado": "0000000" }],
+  "City and County": [
+    {
+      "Willemstad , 12\u00b07\u2032N 68\u00b056\u2032W\ufeff / \ufeff12.117\u00b0N 68.933\u00b0W\ufeff / 12.117; -68.933": "1111000"
+    }
+  ],
+  "Founded": [{ "June 29, 1848": "1010000" }],
+  "Incorporated": [{ "c. 1610": "0111000" }],
+  "Consolidated": [{ "July 26, 1998": "1111000" }],
+  "Named for": [{ "James W. Denver": "0000000" }],
+  "title": ["Denver, Colorado"]
+}

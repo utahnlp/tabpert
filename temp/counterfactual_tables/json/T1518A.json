@@ -1,0 +1,37 @@
+{
+  "Directed by": [{ "Steven Spielberg": "0000000" }],
+  "Produced by": [{ "August Kekule ": "0111000" }, { "Nira Park": "0010000" }],
+  "Screenplay by": [
+    { "James V. Hart": "1010000" },
+    { "Samuel Taylor": "1010000" }
+  ],
+  "Based on": [{ "Jurassic Park  by Michael Crichton": "0000000" }],
+  "Starring": [
+    { "Lene Moyell Johansen": "0111000" },
+    { "James Fox": "0010000" },
+    { "Brian Hallisay ( m.  2013)": "0111000" },
+    { "Helena Bonham Carter": "0010000" },
+    { "Daniel Radcliffe": "0010000" },
+    { "Jean-Claude Killy , Dani\u00e8le Gaubert , Cliff Potts": "1010000" },
+    { "Toshiro Mifune": "1010000" },
+    { "Pedro I of Brazil": "1111000" },
+    { "Wayne Knight": "0000000" },
+    { "Jean-Michel Laprise": "0111000" },
+    { "Ariana Richards": "0000000" }
+  ],
+  "Music by": [{ "4, including O'Shea Jackson Jr.": "1111000" }],
+  "Cinematography": [{ "Robert Richardson": "1010000" }],
+  "Edited by": [{ "Dan Lebental": "1010000" }],
+  "Distributed by": [{ "Columbia Pictures": "0010000" }],
+  "Release date": [
+    { "August 2011 - September 2013": "1111000" },
+    { "EU: 1978": "0110000" }
+  ],
+  "Running time": [{ "127 minutes": "0000000" }],
+  "Country": [{ "United States": "0010000" }],
+  "Language": [{ "English": "0010000" }],
+  "Budget": [{ "$63 million": "0000000" }],
+  "Box office": [{ "$665 million (2017)": "1111000" }],
+  "Production company": [{ "Liverpool and Manchester Railway": "0111000" }],
+  "title": ["Jurassic Park"]
+}

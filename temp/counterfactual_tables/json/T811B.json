@@ -1,0 +1,26 @@
+{
+  "Released": [{ "19 November 1977": "1111000" }],
+  "Recorded": [{ "July 2016 - January 2017": "0010000" }],
+  "Genre": [
+    { "Nu metal": "0000000" },
+    { "Progressive rock": "1010000" },
+    { "Dark comedy": "0110000" },
+    { " soul": "0111000" },
+    { "Dark comedy": "0110000" },
+    { "Science fiction": "1110000" },
+    { "Baroque pop": "0010000" }
+  ],
+  "Length": [{ "37:41": "1010000" }, { "45:01  (DVD)": "0000000" }],
+  "Label": [
+    { "Roc-A-Fella": "0000000" },
+    { "Machine Shop": "0000000" },
+    { "Warner Bros.": "0000000" },
+    { "Geffen, Black Frog": "1010000" }
+  ],
+  "Producer": [
+    { "Gorillaz": "1010000" },
+    { "Skyler Skjelset": "0010000" },
+    { "Scum": "0010000" }
+  ],
+  "title": ["Collision Course"]
+}

@@ -1,0 +1,17 @@
+{
+  "Species": [{ "Dog": "0000000" }],
+  "Other names": [{ "Zeb": "0110000" }],
+  "Breed": [{ "Yorkshire Terrier": "0010000" }],
+  "Born": [{ "1 November 1991": "1111000" }],
+  "Died": [
+    { "19 October 1875(1875-10-19) (aged 73) , Paris, France": "1110000" }
+  ],
+  "Resting place": [{ "Ashes scattered into the Pacific Ocean": "1110000" }],
+  "Occupation": [{ "Ship's mascot": "0000000" }],
+  "Employer": [{ "Australian Army": "1010000" }],
+  "Years active": [{ "1955-2003": "0110000" }],
+  "Known for": [{ "Pet of Michael Jackson": "1010000" }],
+  "Appearance": [{ "Brown Fur": "1010000" }],
+  "Awards": [{ "List of awards and nominations": "0110000" }],
+  "title": ["Judy"]
+}

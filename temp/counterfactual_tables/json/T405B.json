@@ -1,0 +1,27 @@
+{
+  "Capital": [{ "Yes": "1110000" }],
+  "Largest city": [{ "Bujumbura": "1010000" }],
+  "Ethinic groups": [
+    { "85% Hutu ": "0000000" },
+    { "14% Tutsi   ": "0000000" },
+    { "2.8% others": "1111000" },
+    { "11.9% other": "1111000" },
+    { "6.7% part-Maori": "1111000" }
+  ],
+  "Official languages": [
+    { "English": "0111000" },
+    { "Arabic ( official and court language; lingua franca )": "1111000" },
+    { "English": "1111000" }
+  ],
+  "Demonym(s)": [{ "Cook Islander": "1010000" }],
+  "Government": [{ "Unitary presidential constitutional republic": "0010000" }],
+  "President ": [{ "Juan Orlando Hernandez": "1010000" }],
+  "1st Vice-President ": [{ "Gautham Vasudev Menon": "1111000" }],
+  "2nd Vice-President ": [{ "Joseph Butore": "0000000" }],
+  "Legislature": [{ "Orszaggyules": "1010000" }],
+  "Upper house": [{ "Legislative Council": "1010000" }],
+  "Lower house": [{ "People's Representative Council (DPR)": "0010000" }],
+  "title": [
+    "Republic of Burundi   (Republika y'Uburundi   (Kirundi)    Republique du Burundi   (French))"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Birth name": [{ "Kaya Rose Humphrey": "0110000" }],
+  "Born": [{ "4 December 1982": "1111000" }],
+  "Died": [
+    { "24 March 1776 (1776-03-24)  (aged 82)  London, England": "0110000" }
+  ],
+  "Genres": [
+    { "noise rock": "1010000" },
+    { "new wave": "0010000" },
+    { "Mandopop": "0111000" }
+  ],
+  "Occupation(s)": [
+    { "Singer": "1010000" },
+    { "Video game composer": "1110000" }
+  ],
+  "Instruments": [
+    { "Vocals": "0010000" },
+    { "vocals ": "0000000" },
+    { "Guitar, vocals": "1010000" }
+  ],
+  "Years active": [{ "Irn-Bru XS": "1111000" }],
+  "Labels": [{ "Pacific Jazz, RCA, Epic": "0000000" }],
+  "Associated acts": [
+    { "The Mamas & the Papas": "1110000" },
+    { "Art Pepper ": "0000000" },
+    { "Peter Gabriel": "1010000" }
+  ],
+  "title": ["Chet Baker"]
+}

@@ -1,0 +1,45 @@
+{
+  "Directed by": [{ "Steven Spielberg": "0010000" }],
+  "Produced by": [
+    { "George \u021aucudean": "0111000" },
+    { "Yekuno Amlak  (first) (1270)": "1111000" },
+    { "Gary Hamilton": "0000000" },
+    { "Mark Lazarus": "0000000" },
+    { "Paldo": "1110000" },
+    { "Chris Meledandri": "0010000" }
+  ],
+  "Screenplay by": [{ "Justin Monjo": "0000000" }],
+  "Based on": [{ "Jungle  by Yossi Ghinsberg": "0000000" }],
+  "Starring": [
+    { "James Thomas Fallon": "0111000" },
+    { "Rex Harrison , Jeanne Moreau": "1010000" },
+    {
+      "Vittorio De Sica , Cesare Zavattini , Suso Cecchi d'Amico , Gherardo Gherardi , Oreste Biancoli , Adolfo Franci": "1111000"
+    },
+    { "Yasmin Kassim": "0000000" },
+    { "Godolphin Racing": "0111000" },
+    { "Jacek Koman": "0000000" }
+  ],
+  "Music by": [{ "Johnny Klimek": "0000000" }],
+  "Cinematography": [{ "Stefan Duscio": "0000000" }],
+  "Edited by": [{ "Elizabeth II": "1111000" }],
+  "Distributed by": [{ "Rogue Pictures  (United States)": "0010000" }],
+  "Release date": [
+    { "Jerusalem": "0111000" },
+    { "November 9, 2017 ( 2017-11-09 )  (Australia)": "0000000" }
+  ],
+  "Running time": [{ "122 minutes": "0010000" }],
+  "Country": [
+    { "Florida City , Everglades City": "1111000" },
+    { "Romania": "0110000" }
+  ],
+  "Language": [{ "Korean": "1110000" }],
+  "Box office": [{ "$50.7 billion (2017) [update]": "1111000" }],
+  "Production company": [
+    { "SG  Shogakukan Asia": "0111000" },
+    { "Cutting Edge Group": "0000000" },
+    { "Columbia Pictures": "0111000" },
+    { "Universal Pictures": "0111000" }
+  ],
+  "title": ["Jungle"]
+}

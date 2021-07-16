@@ -1,0 +1,15 @@
+{
+  "Type": [{ "Coffee Liqueur": "1010000" }],
+  "Manufacturer": [{ "The Coca-Cola Company": "1010000" }],
+  "Introduced": [{ "2001": "0000000" }],
+  "Variants": [
+    { "Caffeine-Free Diet Coke": "1010000" },
+    { "Kas Fruit": "0010000" },
+    { "Diet Coke with Lime ": "0010000" },
+    { "Burn Blue ": "0000000" },
+    { " Diet Coke with Citrus Zest": "0010000" },
+    { "Chibuku Super": "1010000" },
+    { "Kas Fruit": "0010000" }
+  ],
+  "title": ["Burn Energy"]
+}

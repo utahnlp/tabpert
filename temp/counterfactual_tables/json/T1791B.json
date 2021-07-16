@@ -1,0 +1,18 @@
+{
+  "Species": [{ "Dog": "0010000" }],
+  "Breed": [{ "Pointer": "0010000" }],
+  "Sex": [{ "Male": "0000000" }],
+  "Born": [{ "September 25, 1810 ,  (as  Gemeente Bandoeng )": "1111000" }],
+  "Died": [
+    {
+      "December 28, 1938 (aged 52)  Beverly Hills, California, U.S.": "0110000"
+    }
+  ],
+  "Nation from": [{ "South Africa": "1010000" }],
+  "Occupation": [{ "author": "0111000" }],
+  "Known for": [{ "Pet of Michael Jackson": "1010000" }],
+  "Owner": [{ "Mr & Mrs. John L. Hislop": "0010000" }],
+  "Parent(s)": [{ "Cackler of Notts (sire)": "1010000" }],
+  "Named after": [{ "Maternal Grandfather": "0000000" }],
+  "title": ["Huddersfield Ben"]
+}

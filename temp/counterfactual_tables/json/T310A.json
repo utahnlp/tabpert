@@ -1,0 +1,28 @@
+{
+  "Island": [{ "South Island": "0000000" }],
+  "Region": [{ "Canterbury": "0000000" }],
+  "Territorial authority": [{ "Christchurch City Council": "0000000" }],
+  "Wards": [
+    { "101": "1010000" },
+    { "Burwood ": "0000000" },
+    { "Cashmere ": "0000000" },
+    { "Central ": "0000000" },
+    { "Langbourn": "0110000" },
+    { "Fendalton ": "0000000" },
+    { "Halswell ": "0000000" },
+    { "101": "1010000" },
+    { "Atlanta, Georgia, U.S. , Riverdale, Georgia, U.S.": "0111000" },
+    { "Denver": "0111000" },
+    { "United Kingdom": "1111000" },
+    { "Singapore": "1111000" },
+    { "101": "1010000" },
+    { "Newfoundland and Labrador, Canada": "0111000" },
+    { "Muscogee": "0111000" },
+    { "Broad Street": "0110000" }
+  ],
+  "Settled by the UK": [{ "January 26, 1970": "1111000" }],
+  "Named for": [
+    { "Miami-Illinois:  shikaakwa   (wild onion or wild garlic)": "1110000" }
+  ],
+  "title": ["Christchurch  (Otautahi   (Maori))"]
+}

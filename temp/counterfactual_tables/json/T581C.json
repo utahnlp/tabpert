@@ -1,0 +1,14 @@
+{
+  "Type": [{ "Vodka": "0000000" }],
+  "Manufacturer": [{ "The Kennedy/Marshall Company": "1111000" }],
+  "Country of origin": [{ "France": "0010000" }],
+  "Introduced": [{ "1999": "1110000" }],
+  "Alcohol by volume": [
+    {
+      "4.2% 'Light Beers'. BeerAdvocate.com, Inc. 2001-10-03. Archived from the original on June 24, 2006. Retrieved 2006-12-13": "1010000"
+    }
+  ],
+  "Proof (US)": [{ "70-80": "0010000" }],
+  "Related products": [{ "Maps, Travel guides, Car batteries": "0111000" }],
+  "title": ["Cracovia"]
+}

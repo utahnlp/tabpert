@@ -1,0 +1,52 @@
+{
+  "Born": [
+    { "( 1935-09-29 )  September 29": "0000000" },
+    {
+      "Cherilyn Sarkisian ,  (1946-05-20) May 20, 1946 (age 72) , El Centro, California, U.S.": "1010000"
+    }
+  ],
+  "Genres": [
+    { "Rock and roll": "0000000" },
+    { "Mandopop": "0111000" },
+    { "R&B": "1110000" },
+    { "Pop": "0110000" },
+    { "Hip hop": "0111000" },
+    { "jazz": "0110000" }
+  ],
+  "Occupation(s)": [
+    { "Singer": "1010000" },
+    { "Former arms dealer": "0111000" },
+    { "Singer": "1110000" },
+    {
+      "Singer-songwriter, guitarist, producer, actor, author, talent manager": "1010000"
+    },
+    { "actor": "0000000" }
+  ],
+  "Instruments": [
+    { "keyboards": "1010000" },
+    { "piano": "0000000" },
+    { "Vocals": "0110000" }
+  ],
+  "Years active": [{ "1 November 1991": "1111000" }],
+  "Labels": [
+    { "Tre Pounds": "0111000" },
+    { "Question Everything": "1010000" },
+    { "Earache": "1010000" },
+    { "Shawn Carter  (exec.)": "0111000" },
+    { " Cinq": "1110000" },
+    { "Columbia": "0110000" }
+  ],
+  "Associated acts": [
+    { "Dave Tozer": "1010000" },
+    { "Ne-Yo": "1110000" },
+    { "Symmetry": "1010000" },
+    { "Buddy Holly": "0000000" },
+    { "Bruce Springsteen, Southside Johnny, Steel Mill": "0010000" },
+    { "Robbie Williams": "0010000" },
+    { "Innosense": "0110000" },
+    { "Nine Inch Nails": "1010000" },
+    { "Bruce Springsteen, Southside Johnny, Steel Mill": "0010000" }
+  ],
+  "Website": [{ "joerogan .com": "0010000" }],
+  "title": ["Jerry Lee Lewis"]
+}

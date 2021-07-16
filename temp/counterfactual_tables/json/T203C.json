@@ -1,0 +1,36 @@
+{
+  "Capital and largest city": [{ "Burwood ": "0111000" }],
+  "Official languages": [{ "Spanish": "0010000" }],
+  "National language": [{ "English": "0111000" }],
+  "Demonym(s)": [{ "Italian": "1010000" }],
+  "Government": [
+    { "Unitary parliamentary constitutional monarchy": "0000000" }
+  ],
+  "Ethnic groups (2011)": [
+    { "14% Tutsi   ": "0111000" },
+    { "61% Persian": "1111000" },
+    { "0.4% Chinese": "0000000" },
+    { "6.7% part-Maori": "1010000" }
+  ],
+  "Religion": [
+    { "Church of England": "1010000" },
+    { "Roman Catholicism": "0010000" },
+    { "Roman Catholicism": "1110000" },
+    { "Church of the Faroe Islands": "0010000" },
+    { "Church of the Faroe Islands": "0010000" },
+    { "22.6% Irreligious": "1010000" }
+  ],
+  "Emperor ": [{ "Lee Beom-seon": "1111000" }],
+  "Crown Prince ": [{ "George \u021aucudean": "0111000" }],
+  "Prime Minister ": [{ "Shinzo Abe": "0000000" }],
+  "Deputy Prime Minister ": [{ "Mike Posey": "0111000" }],
+  "Speaker of the House of Representatives ": [
+    { "Tadamori Oshima": "0000000" }
+  ],
+  "President of the House of Councillors ": [{ "Chuichi Date": "0000000" }],
+  "Chief Justice ": [{ "Geoffrey Ma": "1010000" }],
+  "Legislature": [{ "Legislative Assembly": "1010000" }],
+  "Upper house": [{ "Federal Senate": "1010000" }],
+  "Lower house": [{ "House of Keys": "1010000" }],
+  "title": ["Japan  (Nippon/Nihon)"]
+}

@@ -1,0 +1,35 @@
+{
+  "Also known as": [{ "Force": "0000000" }],
+  "Origin": [{ "Bonn, North Rhine-Westphalia, Germany": "1010000" }],
+  "Genres": [
+    { "Hard rock": "0000000" },
+    { "Indie pop": "1010000" },
+    { "soul": "1110000" }
+  ],
+  "Years active": [
+    {
+      "October 12, 1997 (1997-10-12)  (aged 53)  Monterey Bay, California, U.S.": "1111000"
+    },
+    { "2005 - present": "0010000" },
+    { "1977-2012": "1010000" }
+  ],
+  "Labels": [
+    { "Epic ": "0000000" },
+    { "Laika": "1111000" },
+    { "Impact Wrestling Music": "0010000" },
+    { "earMusic ": "0000000" },
+    { "Marrakesh": "0010000" }
+  ],
+  "Associated acts": [
+    { "Exo-K": "1110000" },
+    { "Higher Brothers ": "0010000" },
+    { "Nigel Godrich": "1010000" },
+    { "Glenn Hughes ": "0000000" },
+    { "Innosense": "0110000" },
+    { "Madlib": "1010000" },
+    { "Innosense": "0110000" },
+    { "Coke Studio  ": "0110000" }
+  ],
+  "Website": [{ "europetheband .com": "0000000" }],
+  "title": ["Europe"]
+}

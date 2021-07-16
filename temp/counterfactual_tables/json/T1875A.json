@@ -1,0 +1,19 @@
+{
+  "Publisher": [{ "DC Comics": "0000000" }],
+  "Schedule": [{ "Monthly": "1110000" }],
+  "Format": [{ "Test cricket": "1110000" }],
+  "Genre": [{ "Country pop": "0110000" }],
+  "Publication date": [{ "1 May 2004": "0111000" }],
+  "No. of issues": [{ "60": "1010000" }],
+  "Main character(s)": [
+    { "Office abolished": "1111000" },
+    { "Green Arrow": "0000000" },
+    { "Esther Hayut": "1111000" },
+    { "Lyn Semeta": "0111000" },
+    {
+      "Darkseid , Donna Troy , Jimmy Olsen , Mary Marvel , Jason Todd , Harley Quinn , Holly Robinson , Karate Kid , Kyle Rayner , Superman-Prime , Monarch , Ray Palmer , Pied Piper , Triplicate Girl , Forager , Trickster , Duela Dent": "1010000"
+    },
+    { "Cheryl Fernandez-Versini": "1111000" }
+  ],
+  "title": ["Identity Crisis"]
+}

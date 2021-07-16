@@ -1,0 +1,18 @@
+{
+  "Born": [{ "1865 Huddersfield, England": "0110000" }],
+  "Birth name": [{ "Over 1600 Fellows": "0111000" }],
+  "Died": [
+    {
+      "November 28, 1994 (1994-11-28)  (aged 34)  Columbia Correctional Institution, Portage, Wisconsin, U.S.": "1010000"
+    }
+  ],
+  "Nationality": [{ "Hungarian": "0000000" }, { "American": "0010000" }],
+  "Education": [{ "University of Manchester (M.A.)": "1010000" }],
+  "Occupation": [{ "Actor": "1110000" }],
+  "Institutions": [{ "Wadham College, Oxford": "1111000" }],
+  "Projects": [
+    { "transformer": "0000000" },
+    { "L'Aviation Militaire": "1010000" }
+  ],
+  "title": ["Karoly Zipernowsky"]
+}

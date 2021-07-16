@@ -1,0 +1,15 @@
+{
+  "Country": [{ "United States": "1110000" }],
+  "Province": [{ "Canterbury": "1110000" }],
+  "Metropolitan Corporation": [{ "2011": "0000000" }],
+  "City Council": [{ "Medhat al-Mahmoud": "0111000" }],
+  "Districts": [
+    { "Sangareddy": "1010000" },
+    { "11": "1110000" },
+    { "7": "1010000" },
+    { "West Karachi": "0000000" },
+    { "16": "1010000" },
+    { "16": "1010000" }
+  ],
+  "title": ["Karachi"]
+}

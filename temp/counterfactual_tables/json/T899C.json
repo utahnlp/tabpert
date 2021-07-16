@@ -1,0 +1,12 @@
+{
+  "Prefecture-level & Sub-provincial city": [
+    { "14,378.18 sq km  (5,551.45 sq mi)": "0000000" }
+  ],
+  "Urban (2018)": [{ "4,020,000": "0010000" }],
+  "Metro": [{ "4,715.1 sq km  (1,820.5 sq mi)": "0110000" }],
+  "Downtown": [{ "465.88 km 2  (179.88 sq mi)": "1010000" }],
+  "Elevation": [{ "900 m (3,000 ft)": "0110000" }],
+  "Highest elevation": [{ "490 m (1,610 ft)": "1111000" }],
+  "Lowest elevation": [{ "4 m (13.2 ft)": "1111000" }],
+  "title": ["Chengdu"]
+}

@@ -1,0 +1,14 @@
+{
+  "Artist": [{ "Gretchen Wilson": "1110000" }],
+  "Year": [{ "1896": "1111000" }],
+  "Medium": [{ "podcast": "0110000" }],
+  "Dimensions": [
+    { "147\u00d7123\u00d777 mm (5.8\u00d74.8\u00d73.0 in)": "1110000" }
+  ],
+  "Location": [
+    {
+      "The National Gallery, London and The National Gallery of Scotland, Edinburgh": "1010000"
+    }
+  ],
+  "title": ["David with the Head of Goliath"]
+}

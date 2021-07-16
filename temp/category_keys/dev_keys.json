@@ -1,0 +1,2331 @@
+{
+  "Person": {
+    "tables": [
+      "T1441",
+      "T75",
+      "T200",
+      "T1437",
+      "T407",
+      "T1504",
+      "T1432",
+      "T84",
+      "T1613",
+      "T63",
+      "T622",
+      "T1705",
+      "T1318",
+      "T311",
+      "T798",
+      "T1542",
+      "T206",
+      "T1535",
+      "T1431",
+      "T1693",
+      "T19",
+      "T1333",
+      "T730",
+      "T450",
+      "T1676",
+      "T1628",
+      "T1501",
+      "T1838",
+      "T1494",
+      "T238",
+      "T1701",
+      "T1539",
+      "T1481",
+      "T780",
+      "T1546",
+      "T1623",
+      "T1711",
+      "T1670",
+      "T747",
+      "T333",
+      "T1548",
+      "T1540",
+      "T1230",
+      "T1725",
+      "T1681",
+      "T1651",
+      "T1880",
+      "T1430",
+      "T1977",
+      "T1488",
+      "T1274",
+      "T1510",
+      "T1603",
+      "T1480"
+    ],
+    "keys": {
+      "Born": {
+        "tables": [
+          "T1441",
+          "T75",
+          "T200",
+          "T1437",
+          "T407",
+          "T1504",
+          "T1432",
+          "T84",
+          "T1613",
+          "T63",
+          "T1705",
+          "T1318",
+          "T311",
+          "T1542",
+          "T206",
+          "T1535",
+          "T1431",
+          "T1693",
+          "T19",
+          "T1333",
+          "T730",
+          "T450",
+          "T1676",
+          "T1628",
+          "T1838",
+          "T1494",
+          "T238",
+          "T1701",
+          "T1539",
+          "T1481",
+          "T780",
+          "T1546",
+          "T1711",
+          "T1670",
+          "T747",
+          "T333",
+          "T1548",
+          "T1540",
+          "T1230",
+          "T1725",
+          "T1681",
+          "T1651",
+          "T1880",
+          "T1430",
+          "T1977",
+          "T1488",
+          "T1274",
+          "T1510",
+          "T1603"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Birth name": {
+        "tables": [
+          "T1441",
+          "T1437",
+          "T1504",
+          "T1705",
+          "T1542",
+          "T1535",
+          "T1628",
+          "T1701",
+          "T1481",
+          "T1546",
+          "T1711",
+          "T1670",
+          "T333",
+          "T1548",
+          "T1725",
+          "T1681",
+          "T1880",
+          "T1430",
+          "T1977",
+          "T1510",
+          "T1603"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Died": {
+        "tables": [
+          "T1441",
+          "T75",
+          "T1437",
+          "T407",
+          "T1432",
+          "T1613",
+          "T63",
+          "T311",
+          "T1431",
+          "T1693",
+          "T19",
+          "T730",
+          "T238",
+          "T1546",
+          "T747",
+          "T333",
+          "T1651",
+          "T1488",
+          "T1274"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Education": {
+        "tables": [
+          "T1441",
+          "T75",
+          "T1504",
+          "T1432",
+          "T84",
+          "T1431",
+          "T1333",
+          "T1676",
+          "T1628",
+          "T1977",
+          "T1510",
+          "T1603"
+        ],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Alma mater": {
+        "tables": [
+          "T1441",
+          "T200",
+          "T1432",
+          "T1431",
+          "T1494",
+          "T1701",
+          "T780",
+          "T1546",
+          "T1711",
+          "T1670",
+          "T1540",
+          "T1977",
+          "T1603"
+        ],
+        "avg_num_values": 1.2307692307692308
+      },
+      "Occupation": {
+        "tables": [
+          "T1441",
+          "T200",
+          "T1504",
+          "T84",
+          "T63",
+          "T1705",
+          "T1318",
+          "T1542",
+          "T206",
+          "T1535",
+          "T1693",
+          "T19",
+          "T1333",
+          "T730",
+          "T1676",
+          "T1628",
+          "T1838",
+          "T1701",
+          "T1539",
+          "T1481",
+          "T780",
+          "T1711",
+          "T1670",
+          "T1548",
+          "T1540",
+          "T1230",
+          "T1681",
+          "T1651",
+          "T1880",
+          "T1430",
+          "T1977",
+          "T1603"
+        ],
+        "avg_num_values": 2.875
+      },
+      "Years active": {
+        "tables": [
+          "T1441",
+          "T200",
+          "T1504",
+          "T84",
+          "T63",
+          "T1705",
+          "T1318",
+          "T1542",
+          "T206",
+          "T1535",
+          "T1333",
+          "T730",
+          "T450",
+          "T1676",
+          "T1628",
+          "T1838",
+          "T1701",
+          "T1539",
+          "T1711",
+          "T1670",
+          "T333",
+          "T1548",
+          "T1230",
+          "T1725",
+          "T1681",
+          "T1880",
+          "T1430",
+          "T1977",
+          "T1603"
+        ],
+        "avg_num_values": 1.0689655172413792
+      },
+      "Spouse(s)": {
+        "tables": [
+          "T1441",
+          "T75",
+          "T200",
+          "T1437",
+          "T1504",
+          "T1432",
+          "T84",
+          "T1613",
+          "T63",
+          "T1705",
+          "T1318",
+          "T1693",
+          "T730",
+          "T1676",
+          "T1628",
+          "T1701",
+          "T1539",
+          "T1481",
+          "T780",
+          "T1711",
+          "T1670",
+          "T1548",
+          "T1230",
+          "T1681",
+          "T1880",
+          "T1430",
+          "T1510",
+          "T1603"
+        ],
+        "avg_num_values": 1.5714285714285714
+      },
+      "Children": {
+        "tables": [
+          "T1441",
+          "T75",
+          "T200",
+          "T1437",
+          "T1504",
+          "T1432",
+          "T84",
+          "T63",
+          "T1705",
+          "T1693",
+          "T730",
+          "T1676",
+          "T1838",
+          "T1539",
+          "T1481",
+          "T1711",
+          "T1670",
+          "T333",
+          "T1548",
+          "T1230",
+          "T1725",
+          "T1681",
+          "T1880",
+          "T1430",
+          "T1510",
+          "T1603"
+        ],
+        "avg_num_values": 1.5
+      },
+      "Resting place": {
+        "tables": ["T75", "T1437", "T1432"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Political party": {
+        "tables": ["T75", "T1437", "T1481", "T1880", "T1510"],
+        "avg_num_values": 1.2
+      },
+      "Parents": { "tables": ["T75", "T1437"], "avg_num_values": 2.0 },
+      "Residence": {
+        "tables": [
+          "T200",
+          "T1542",
+          "T1431",
+          "T1333",
+          "T1494",
+          "T1539",
+          "T780",
+          "T1670",
+          "T1548",
+          "T1681",
+          "T1880"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Nationality": {
+        "tables": [
+          "T200",
+          "T311",
+          "T206",
+          "T1431",
+          "T1693",
+          "T1676",
+          "T1494",
+          "T238",
+          "T1701",
+          "T747",
+          "T1540",
+          "T1880",
+          "T1488",
+          "T1274"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Home town": {
+        "tables": ["T200", "T84", "T1318", "T1535", "T730"],
+        "avg_num_values": 1.0
+      },
+      "Burial": { "tables": ["T407"], "avg_num_values": 1.0 },
+      "Spouse": {
+        "tables": ["T407", "T333", "T1725"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Childrens": { "tables": ["T407"], "avg_num_values": 7.0 },
+      "House": { "tables": ["T407"], "avg_num_values": 1.0 },
+      "Father": { "tables": ["T407"], "avg_num_values": 2.0 },
+      "Mother": { "tables": ["T407"], "avg_num_values": 1.0 },
+      "Other names": {
+        "tables": ["T1504", "T1542", "T1548"],
+        "avg_num_values": 1.0
+      },
+      "Parent(s)": {
+        "tables": [
+          "T1504",
+          "T1432",
+          "T1542",
+          "T206",
+          "T730",
+          "T1676",
+          "T1430",
+          "T1977"
+        ],
+        "avg_num_values": 1.875
+      },
+      "Relatives": {
+        "tables": [
+          "T1504",
+          "T1432",
+          "T1705",
+          "T1542",
+          "T1535",
+          "T1628",
+          "T1701",
+          "T1488"
+        ],
+        "avg_num_values": 1.625
+      },
+      "Genres": {
+        "tables": [
+          "T1504",
+          "T84",
+          "T1535",
+          "T730",
+          "T1628",
+          "T1838",
+          "T333",
+          "T1725"
+        ],
+        "avg_num_values": 3.0
+      },
+      "Instruments": {
+        "tables": ["T1504", "T84", "T1535", "T730", "T1628", "T1838"],
+        "avg_num_values": 1.8333333333333333
+      },
+      "Labels": {
+        "tables": ["T1504", "T84", "T1535", "T730", "T1628"],
+        "avg_num_values": 3.4
+      },
+      "Associated acts": {
+        "tables": ["T1504", "T84", "T1535", "T730", "T1628"],
+        "avg_num_values": 2.8
+      },
+      "Website": {
+        "tables": [
+          "T1504",
+          "T84",
+          "T730",
+          "T1676",
+          "T1628",
+          "T1701",
+          "T333",
+          "T1540",
+          "T1510"
+        ],
+        "avg_num_values": 1.2222222222222223
+      },
+      "Partner(s)": {
+        "tables": [
+          "T84",
+          "T63",
+          "T1705",
+          "T1542",
+          "T1535",
+          "T1333",
+          "T1838",
+          "T1230",
+          "T1880"
+        ],
+        "avg_num_values": 1.2222222222222223
+      },
+      "Awards": {
+        "tables": [
+          "T84",
+          "T1613",
+          "T1333",
+          "T1494",
+          "T238",
+          "T1481",
+          "T1546",
+          "T1880",
+          "T1274",
+          "T1480"
+        ],
+        "avg_num_values": 2.5
+      },
+      "Nickname(s)": {
+        "tables": ["T1613", "T450", "T1501"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Years of service": {
+        "tables": ["T1613", "T1501", "T1480"],
+        "avg_num_values": 1.0
+      },
+      "Rank": { "tables": ["T1613", "T450", "T1501"], "avg_num_values": 1.0 },
+      "Service number": { "tables": ["T1613"], "avg_num_values": 1.0 },
+      "Body": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "Lord Mayor": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "Town Clerk": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "Admin HQ": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "London Assembly": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "UK Parliament": { "tables": ["T622"], "avg_num_values": 1.0 },
+      "Height": {
+        "tables": ["T1318", "T450", "T780", "T1711"],
+        "avg_num_values": 1.0
+      },
+      "Known for": {
+        "tables": [
+          "T311",
+          "T1431",
+          "T1494",
+          "T238",
+          "T780",
+          "T1546",
+          "T747",
+          "T1540",
+          "T1651",
+          "T1488",
+          "T1274"
+        ],
+        "avg_num_values": 1.8181818181818181
+      },
+      "Born:": { "tables": ["T798"], "avg_num_values": 1.0 },
+      "Height:": { "tables": ["T798"], "avg_num_values": 1.0 },
+      "Weight:": { "tables": ["T798"], "avg_num_values": 1.0 },
+      "Citizenship": {
+        "tables": ["T1431", "T1701", "T1540"],
+        "avg_num_values": 1.0
+      },
+      "Fields": {
+        "tables": ["T1431", "T1494", "T238", "T1274"],
+        "avg_num_values": 1.5
+      },
+      "Works": { "tables": ["T1333"], "avg_num_values": 1.0 },
+      "Family": { "tables": ["T730", "T1430", "T1977"], "avg_num_values": 2.0 },
+      "Weight": { "tables": ["T450"], "avg_num_values": 1.0 },
+      "Division": { "tables": ["T450"], "avg_num_values": 2.0 },
+      "Reach": { "tables": ["T450"], "avg_num_values": 1.0 },
+      "Stance": { "tables": ["T450"], "avg_num_values": 1.0 },
+      "Team": { "tables": ["T450"], "avg_num_values": 1.0 },
+      "Trainer": { "tables": ["T450"], "avg_num_values": 6.0 },
+      "Notable work": { "tables": ["T1628", "T1651"], "avg_num_values": 1.0 },
+      "Service/branch": { "tables": ["T1501"], "avg_num_values": 1.0 },
+      "Battles/wars": { "tables": ["T1501", "T1480"], "avg_num_values": 1.5 },
+      "Central institution membership": {
+        "tables": ["T1501"],
+        "avg_num_values": 4.0
+      },
+      "Other offices held": { "tables": ["T1501"], "avg_num_values": 4.0 },
+      "Institutions": { "tables": ["T1494", "T1546"], "avg_num_values": 4.0 },
+      "Domestic partner": { "tables": ["T1481"], "avg_num_values": 1.0 },
+      "Thesis": { "tables": ["T1546"], "avg_num_values": 1.0 },
+      "In office": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "President": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "Vice President": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "Deputy": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "Preceded by": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "Succeeded by": { "tables": ["T1623"], "avg_num_values": 1.0 },
+      "Medium": { "tables": ["T333", "T1725"], "avg_num_values": 3.0 },
+      "Subject(s)": { "tables": ["T333", "T1725"], "avg_num_values": 5.5 },
+      "Relative(s)": { "tables": ["T333", "T1725"], "avg_num_values": 2.5 },
+      "Net worth": { "tables": ["T1681"], "avg_num_values": 1.0 },
+      "Doctoral advisor": { "tables": ["T1274"], "avg_num_values": 1.0 },
+      "Political Party": { "tables": ["T1510"], "avg_num_values": 1.0 }
+    }
+  },
+  "Musician": {
+    "tables": [
+      "T1329",
+      "T1650",
+      "T178",
+      "T302",
+      "T754",
+      "T1458",
+      "T628",
+      "T1710",
+      "T518",
+      "T43",
+      "T739",
+      "T278",
+      "T1383",
+      "T362",
+      "T1495",
+      "T1780",
+      "T1529",
+      "T750",
+      "T1617",
+      "T827",
+      "T309",
+      "T1149",
+      "T401",
+      "T1663",
+      "T473",
+      "T1532",
+      "T1721",
+      "T832",
+      "T1646",
+      "T1969",
+      "T1738",
+      "T1498",
+      "T707",
+      "T1442",
+      "T537",
+      "T1629",
+      "T1445",
+      "T756"
+    ],
+    "keys": {
+      "Origin": {
+        "tables": [
+          "T1329",
+          "T178",
+          "T754",
+          "T1458",
+          "T628",
+          "T518",
+          "T278",
+          "T362",
+          "T1495",
+          "T1780",
+          "T1617",
+          "T827",
+          "T309",
+          "T1663",
+          "T1532",
+          "T1721",
+          "T832",
+          "T1646",
+          "T1969",
+          "T707",
+          "T537",
+          "T1629",
+          "T1445"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Genres": {
+        "tables": [
+          "T1329",
+          "T1650",
+          "T178",
+          "T302",
+          "T754",
+          "T1458",
+          "T628",
+          "T1710",
+          "T518",
+          "T43",
+          "T739",
+          "T278",
+          "T1383",
+          "T362",
+          "T1495",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1617",
+          "T827",
+          "T309",
+          "T1149",
+          "T401",
+          "T1663",
+          "T473",
+          "T1532",
+          "T1721",
+          "T832",
+          "T1646",
+          "T1969",
+          "T1738",
+          "T1498",
+          "T707",
+          "T1442",
+          "T537",
+          "T1629",
+          "T1445",
+          "T756"
+        ],
+        "avg_num_values": 4.0
+      },
+      "Years active": {
+        "tables": [
+          "T1329",
+          "T1650",
+          "T178",
+          "T302",
+          "T754",
+          "T1458",
+          "T628",
+          "T1710",
+          "T518",
+          "T43",
+          "T739",
+          "T278",
+          "T1383",
+          "T362",
+          "T1495",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1617",
+          "T827",
+          "T309",
+          "T1149",
+          "T401",
+          "T1663",
+          "T473",
+          "T1532",
+          "T1721",
+          "T832",
+          "T1646",
+          "T1969",
+          "T1738",
+          "T1498",
+          "T707",
+          "T1442",
+          "T537",
+          "T1629",
+          "T1445",
+          "T756"
+        ],
+        "avg_num_values": 1.236842105263158
+      },
+      "Labels": {
+        "tables": [
+          "T1329",
+          "T1650",
+          "T178",
+          "T302",
+          "T754",
+          "T1458",
+          "T628",
+          "T1710",
+          "T518",
+          "T43",
+          "T278",
+          "T362",
+          "T1495",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1617",
+          "T827",
+          "T309",
+          "T1149",
+          "T401",
+          "T1663",
+          "T473",
+          "T1532",
+          "T1721",
+          "T832",
+          "T1646",
+          "T1969",
+          "T1738",
+          "T1498",
+          "T707",
+          "T1442",
+          "T537",
+          "T1629",
+          "T1445",
+          "T756"
+        ],
+        "avg_num_values": 3.3055555555555554
+      },
+      "Associated acts": {
+        "tables": [
+          "T1329",
+          "T1650",
+          "T178",
+          "T302",
+          "T754",
+          "T1458",
+          "T628",
+          "T1710",
+          "T43",
+          "T278",
+          "T1383",
+          "T362",
+          "T1495",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1617",
+          "T309",
+          "T1149",
+          "T401",
+          "T1663",
+          "T473",
+          "T1532",
+          "T832",
+          "T1646",
+          "T1969",
+          "T1498",
+          "T707",
+          "T1442",
+          "T537",
+          "T1629",
+          "T1445",
+          "T756"
+        ],
+        "avg_num_values": 5.212121212121212
+      },
+      "Website": {
+        "tables": [
+          "T1329",
+          "T754",
+          "T1458",
+          "T628",
+          "T1710",
+          "T518",
+          "T43",
+          "T278",
+          "T362",
+          "T1495",
+          "T1529",
+          "T750",
+          "T1617",
+          "T827",
+          "T309",
+          "T1149",
+          "T401",
+          "T473",
+          "T1532",
+          "T1721",
+          "T832",
+          "T1646",
+          "T1969",
+          "T1738",
+          "T1498",
+          "T1442",
+          "T1629",
+          "T1445",
+          "T756"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Also known as": {
+        "tables": ["T1650", "T302", "T754", "T628", "T1710", "T278", "T1495"],
+        "avg_num_values": 1.1428571428571428
+      },
+      "Born": {
+        "tables": [
+          "T1650",
+          "T302",
+          "T1458",
+          "T1710",
+          "T43",
+          "T739",
+          "T1383",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1149",
+          "T401",
+          "T473",
+          "T1646",
+          "T1738",
+          "T1498",
+          "T707",
+          "T1442",
+          "T756"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Occupation(s)": {
+        "tables": [
+          "T1650",
+          "T302",
+          "T1458",
+          "T1710",
+          "T43",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1646",
+          "T1498",
+          "T707"
+        ],
+        "avg_num_values": 4.0
+      },
+      "Instruments": {
+        "tables": [
+          "T1650",
+          "T302",
+          "T1458",
+          "T1710",
+          "T43",
+          "T1383",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1149",
+          "T401",
+          "T473",
+          "T1738",
+          "T1498",
+          "T707",
+          "T1442",
+          "T756"
+        ],
+        "avg_num_values": 2.5294117647058822
+      },
+      "Medium": { "tables": ["T1650"], "avg_num_values": 5.0 },
+      "Subject(s)": { "tables": ["T1650"], "avg_num_values": 2.0 },
+      "Birth name": {
+        "tables": [
+          "T302",
+          "T1458",
+          "T1710",
+          "T43",
+          "T1780",
+          "T1529",
+          "T750",
+          "T1646",
+          "T1498",
+          "T707",
+          "T1442"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Died": { "tables": ["T1710", "T1780", "T1529"], "avg_num_values": 1.0 },
+      "Spouse": { "tables": ["T739"], "avg_num_values": 1.0 },
+      "Children": {
+        "tables": ["T739", "T1383", "T1149", "T401", "T473", "T756"],
+        "avg_num_values": 1.0
+      },
+      "Notable works and roles": { "tables": ["T739"], "avg_num_values": 2.0 },
+      "Residence": { "tables": ["T1383", "T1149"], "avg_num_values": 1.0 },
+      "Other names": { "tables": ["T1383", "T473"], "avg_num_values": 1.0 },
+      "Occupation": {
+        "tables": ["T1383", "T1149", "T401", "T473", "T1738", "T1442", "T756"],
+        "avg_num_values": 4.285714285714286
+      },
+      "Partner(s)": { "tables": ["T1383", "T401"], "avg_num_values": 1.0 },
+      "Net worth": { "tables": ["T1149"], "avg_num_values": 1.0 },
+      "Spouse(s)": {
+        "tables": ["T1149", "T401", "T756"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Parent(s)": { "tables": ["T1149"], "avg_num_values": 2.0 },
+      "Education": { "tables": ["T401"], "avg_num_values": 2.0 },
+      "Awards": { "tables": ["T473"], "avg_num_values": 1.0 }
+    }
+  },
+  "Movie": {
+    "tables": [
+      "T1804",
+      "T1698",
+      "T582",
+      "T1852",
+      "T735",
+      "T1887",
+      "T748",
+      "T1763",
+      "T285",
+      "T849",
+      "T842",
+      "T1798",
+      "T297",
+      "T110",
+      "T595",
+      "T415",
+      "T1536",
+      "T820",
+      "T841",
+      "T836"
+    ],
+    "keys": {
+      "Directed by": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T297",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.05
+      },
+      "Produced by": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T297",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 3.15
+      },
+      "Screenplay by": {
+        "tables": ["T1804", "T1698", "T748", "T849", "T110", "T595", "T1536"],
+        "avg_num_values": 2.142857142857143
+      },
+      "Based on": {
+        "tables": ["T1804", "T735", "T842", "T110", "T1536"],
+        "avg_num_values": 1.2
+      },
+      "Starring": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841"
+        ],
+        "avg_num_values": 5.444444444444445
+      },
+      "Music by": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T849",
+          "T842",
+          "T1798",
+          "T297",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.3888888888888888
+      },
+      "Cinematography": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.0555555555555556
+      },
+      "Edited by": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.263157894736842
+      },
+      "Production company": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T842",
+          "T1798",
+          "T110",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 2.4285714285714284
+      },
+      "Distributed by": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.1578947368421053
+      },
+      "Release date": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.8421052631578947
+      },
+      "Running time": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Country": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.368421052631579
+      },
+      "Language": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Budget": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.0588235294117647
+      },
+      "Box office": {
+        "tables": [
+          "T1804",
+          "T1698",
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T748",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T110",
+          "T595",
+          "T415",
+          "T1536",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Written by": {
+        "tables": [
+          "T582",
+          "T1852",
+          "T735",
+          "T1887",
+          "T1763",
+          "T285",
+          "T849",
+          "T842",
+          "T1798",
+          "T297",
+          "T415",
+          "T820",
+          "T841",
+          "T836"
+        ],
+        "avg_num_values": 1.4285714285714286
+      },
+      "Production company ": { "tables": ["T582"], "avg_num_values": 2.0 },
+      "Production companies": {
+        "tables": ["T1852", "T849"],
+        "avg_num_values": 5.0
+      },
+      "Story by": { "tables": ["T748", "T595"], "avg_num_values": 2.5 },
+      "Production Company": { "tables": ["T285"], "avg_num_values": 1.0 },
+      "Genre": { "tables": ["T297"], "avg_num_values": 3.0 },
+      "Studio": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "Licensed by": { "tables": ["T297"], "avg_num_values": 3.0 },
+      "Released": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Runtime": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Episodes": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Illustrated by": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "Published by": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "English publisher": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "Demographic": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Imprint": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Original run": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "Volumes": { "tables": ["T297"], "avg_num_values": 2.0 },
+      "Magazine": { "tables": ["T297"], "avg_num_values": 1.0 },
+      "Productioncompany": { "tables": ["T595"], "avg_num_values": 2.0 }
+    }
+  },
+  "City": {
+    "tables": [
+      "T1815",
+      "T1700",
+      "T1407",
+      "T931",
+      "T847",
+      "T565",
+      "T1174",
+      "T861",
+      "T917",
+      "T998",
+      "T474",
+      "T1666",
+      "T1434",
+      "T817",
+      "T429",
+      "T1108",
+      "T1327"
+    ],
+    "keys": {
+      "City": {
+        "tables": ["T1815", "T1407", "T861", "T917", "T1666"],
+        "avg_num_values": 1.0
+      },
+      "Land": {
+        "tables": ["T1815", "T861", "T1666", "T817"],
+        "avg_num_values": 1.0
+      },
+      "Water": {
+        "tables": ["T1815", "T861", "T1666", "T817"],
+        "avg_num_values": 1.0
+      },
+      "Urban": {
+        "tables": ["T1815", "T1407", "T861", "T1666"],
+        "avg_num_values": 1.0
+      },
+      "Metro": {
+        "tables": ["T1815", "T1407", "T917", "T998", "T1666"],
+        "avg_num_values": 1.0
+      },
+      "Elevation": {
+        "tables": ["T1815", "T861", "T1666", "T817"],
+        "avg_num_values": 1.0
+      },
+      "Type": {
+        "tables": ["T1700", "T429", "T1108", "T1327"],
+        "avg_num_values": 1.0
+      },
+      "Mayor": { "tables": ["T1700", "T1108"], "avg_num_values": 1.0 },
+      "Governing body": { "tables": ["T1700", "T1327"], "avg_num_values": 1.0 },
+      "MP": { "tables": ["T1700"], "avg_num_values": 1.0 },
+      "MLAs": { "tables": ["T1700"], "avg_num_values": 2.0 },
+      "Density": {
+        "tables": ["T1407", "T917", "T998", "T474"],
+        "avg_num_values": 1.0
+      },
+      "Urban density": { "tables": ["T1407"], "avg_num_values": 1.0 },
+      "Location": {
+        "tables": ["T931", "T1174", "T1327"],
+        "avg_num_values": 1.0
+      },
+      "Coordinates": { "tables": ["T931", "T1327"], "avg_num_values": 1.0 },
+      "Archipelago": { "tables": ["T931"], "avg_num_values": 1.0 },
+      "Area": { "tables": ["T931", "T1327"], "avg_num_values": 1.0 },
+      "Highest elevation": {
+        "tables": ["T931", "T817"],
+        "avg_num_values": 1.0
+      },
+      "Highest point": { "tables": ["T931"], "avg_num_values": 1.0 },
+      "Country": {
+        "tables": ["T847", "T1174", "T1434"],
+        "avg_num_values": 1.0
+      },
+      "State": { "tables": ["T847", "T1434"], "avg_num_values": 1.0 },
+      "County": { "tables": ["T847"], "avg_num_values": 1.0 },
+      "First settled": { "tables": ["T847"], "avg_num_values": 1.0 },
+      "Incorporation (village)": { "tables": ["T847"], "avg_num_values": 1.0 },
+      "Incorporation (city)": { "tables": ["T847"], "avg_num_values": 1.0 },
+      " Type": { "tables": ["T565"], "avg_num_values": 1.0 },
+      " Governing body": { "tables": ["T565"], "avg_num_values": 1.0 },
+      " Leadership": { "tables": ["T565"], "avg_num_values": 1.0 },
+      " Executive": { "tables": ["T565"], "avg_num_values": 1.0 },
+      " MPs": { "tables": ["T565"], "avg_num_values": 3.0 },
+      "Hosted by": { "tables": ["T1174"], "avg_num_values": 1.0 },
+      "First awarded": { "tables": ["T1174"], "avg_num_values": 1.0 },
+      "Website": {
+        "tables": ["T1174", "T917", "T998", "T474", "T1327"],
+        "avg_num_values": 1.0
+      },
+      "Network": { "tables": ["T1174"], "avg_num_values": 1.0 },
+      "Runtime": { "tables": ["T1174"], "avg_num_values": 1.0 },
+      "Produced by": { "tables": ["T1174"], "avg_num_values": 1.0 },
+      "Demonym": { "tables": ["T917"], "avg_num_values": 1.0 },
+      "Time zone": {
+        "tables": ["T917", "T998", "T474"],
+        "avg_num_values": 1.0
+      },
+      "Area code(s)": {
+        "tables": ["T917", "T998", "T474"],
+        "avg_num_values": 1.0
+      },
+      "Metropolitan municipality": {
+        "tables": ["T998"],
+        "avg_num_values": 1.0
+      },
+      "Summer (DST)": { "tables": ["T998"], "avg_num_values": 1.0 },
+      "Postal code": { "tables": ["T998"], "avg_num_values": 1.0 },
+      "Licence plate": { "tables": ["T998"], "avg_num_values": 1.0 },
+      "Total": { "tables": ["T474"], "avg_num_values": 1.0 },
+      "Estimate (2015)": { "tables": ["T474"], "avg_num_values": 1.0 },
+      "Demonym(s)": { "tables": ["T474"], "avg_num_values": 1.0 },
+      "ummer (DST)": { "tables": ["T474"], "avg_num_values": 1.0 },
+      "Division": { "tables": ["T1434"], "avg_num_values": 1.0 },
+      "District": { "tables": ["T1434"], "avg_num_values": 1.0 },
+      "Settled": { "tables": ["T1434"], "avg_num_values": 1.0 },
+      "Founded by": { "tables": ["T1434"], "avg_num_values": 1.0 },
+      "Named for": { "tables": ["T1434"], "avg_num_values": 1.0 },
+      "Home rule municipality": { "tables": ["T817"], "avg_num_values": 1.0 },
+      "Lowest elevation": { "tables": ["T817"], "avg_num_values": 1.0 },
+      "City council": { "tables": ["T429"], "avg_num_values": 5.0 },
+      "City manager": { "tables": ["T429"], "avg_num_values": 1.0 },
+      "City attorney": { "tables": ["T429"], "avg_num_values": 1.0 },
+      "City treasurer": { "tables": ["T429"], "avg_num_values": 1.0 },
+      "City clerk": { "tables": ["T429"], "avg_num_values": 1.0 },
+      "Vice Mayor": { "tables": ["T1108"], "avg_num_values": 1.0 },
+      "Representative, 1st District": {
+        "tables": ["T1108"],
+        "avg_num_values": 1.0
+      },
+      "Representative, 2nd District": {
+        "tables": ["T1108"],
+        "avg_num_values": 1.0
+      },
+      "Electorate": { "tables": ["T1108"], "avg_num_values": 1.0 },
+      "Architectural style(s)": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Visitors": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Criteria": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Designated": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Reference no.": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Region": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Delisted": { "tables": ["T1327"], "avg_num_values": 1.0 },
+      "Designated by": { "tables": ["T1327"], "avg_num_values": 1.0 }
+    }
+  },
+  "Album": {
+    "tables": [
+      "T562",
+      "T742",
+      "T852",
+      "T818",
+      "T1966",
+      "T1739",
+      "T755",
+      "T826",
+      "T65",
+      "T112",
+      "T671",
+      "T824",
+      "T2033",
+      "T1467"
+    ],
+    "keys": {
+      "Released": {
+        "tables": [
+          "T562",
+          "T742",
+          "T852",
+          "T818",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T112",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Recorded": {
+        "tables": [
+          "T562",
+          "T852",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Studio": {
+        "tables": [
+          "T562",
+          "T742",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T671",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 2.7777777777777777
+      },
+      "Genre": {
+        "tables": [
+          "T562",
+          "T742",
+          "T852",
+          "T818",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T112",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 2.357142857142857
+      },
+      "Length": {
+        "tables": [
+          "T562",
+          "T742",
+          "T852",
+          "T818",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T112",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Label": {
+        "tables": [
+          "T562",
+          "T742",
+          "T852",
+          "T818",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T112",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 1.4285714285714286
+      },
+      "Producer": {
+        "tables": [
+          "T562",
+          "T742",
+          "T852",
+          "T818",
+          "T1966",
+          "T1739",
+          "T755",
+          "T826",
+          "T65",
+          "T112",
+          "T671",
+          "T824",
+          "T2033",
+          "T1467"
+        ],
+        "avg_num_values": 3.7142857142857144
+      }
+    }
+  },
+  "Country": {
+    "tables": [
+      "T736",
+      "T900",
+      "T337",
+      "T948",
+      "T995",
+      "T740",
+      "T1506",
+      "T2007",
+      "T105",
+      "T291",
+      "T830",
+      "T812"
+    ],
+    "keys": {
+      "Capitaland largest city": {
+        "tables": ["T736", "T900", "T105", "T830", "T812"],
+        "avg_num_values": 1.0
+      },
+      "Official languages": {
+        "tables": [
+          "T736",
+          "T900",
+          "T995",
+          "T1506",
+          "T2007",
+          "T291",
+          "T830",
+          "T812"
+        ],
+        "avg_num_values": 1.75
+      },
+      "Writing system": { "tables": ["T736"], "avg_num_values": 1.0 },
+      "Ethnic groups  (2011)": { "tables": ["T736"], "avg_num_values": 3.0 },
+      "Religion  (2011)": { "tables": ["T736"], "avg_num_values": 4.0 },
+      "Demonym(s)": {
+        "tables": [
+          "T736",
+          "T900",
+          "T995",
+          "T1506",
+          "T2007",
+          "T105",
+          "T291",
+          "T830",
+          "T812"
+        ],
+        "avg_num_values": 1.1111111111111112
+      },
+      "Government": {
+        "tables": [
+          "T736",
+          "T900",
+          "T948",
+          "T995",
+          "T1506",
+          "T2007",
+          "T105",
+          "T291",
+          "T830",
+          "T812"
+        ],
+        "avg_num_values": 1.0
+      },
+      "President": {
+        "tables": ["T736", "T900", "T995", "T105", "T830"],
+        "avg_num_values": 1.0
+      },
+      "Prime Minister": {
+        "tables": ["T736", "T900", "T948", "T995", "T812"],
+        "avg_num_values": 1.2
+      },
+      "Speaker of Parliament": { "tables": ["T736"], "avg_num_values": 1.0 },
+      "Chief Justice": { "tables": ["T736"], "avg_num_values": 1.0 },
+      "Legislature": {
+        "tables": [
+          "T736",
+          "T900",
+          "T948",
+          "T995",
+          "T1506",
+          "T2007",
+          "T105",
+          "T291",
+          "T830",
+          "T812"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Ethnic groups": {
+        "tables": ["T900", "T995", "T1506", "T291", "T830"],
+        "avg_num_values": 5.2
+      },
+      "Religion": {
+        "tables": ["T900", "T948", "T1506", "T2007", "T830"],
+        "avg_num_values": 2.6
+      },
+      "Status": { "tables": ["T337"], "avg_num_values": 1.0 },
+      "Monarch": { "tables": ["T337", "T812"], "avg_num_values": 1.0 },
+      "Governor General": { "tables": ["T337"], "avg_num_values": 2.0 },
+      "Preceded by": { "tables": ["T337"], "avg_num_values": 1.0 },
+      "Capital": { "tables": ["T948", "T995", "T2007"], "avg_num_values": 1.0 },
+      "Common languages": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "King": { "tables": ["T948"], "avg_num_values": 2.0 },
+      "Upper house": {
+        "tables": ["T948", "T995", "T1506", "T2007", "T105"],
+        "avg_num_values": 1.0
+      },
+      "Lower house": {
+        "tables": ["T948", "T995", "T1506", "T2007", "T105"],
+        "avg_num_values": 1.0
+      },
+      "Restoration": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "Treaty of Paris": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "Constitution adopted": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "Hundred Days": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "Invasion of Spain": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "July Revolution": { "tables": ["T948"], "avg_num_values": 1.0 },
+      "Largest city": { "tables": ["T995", "T2007"], "avg_num_values": 1.0 },
+      "Other languages": { "tables": ["T995"], "avg_num_values": 1.0 },
+      "Duchy": { "tables": ["T740"], "avg_num_values": 1.0 },
+      "Kingdom": { "tables": ["T740"], "avg_num_values": 1.0 },
+      "Personal union with Hungary": {
+        "tables": ["T740"],
+        "avg_num_values": 1.0
+      },
+      "Joined Habsburg Monarchy": { "tables": ["T740"], "avg_num_values": 1.0 },
+      "Secession fromAustria-Hungary": {
+        "tables": ["T740"],
+        "avg_num_values": 1.0
+      },
+      "Creation of Yugoslavia": { "tables": ["T740"], "avg_num_values": 1.0 },
+      "Decision on independence": { "tables": ["T740"], "avg_num_values": 1.0 },
+      "Joined the European Union": {
+        "tables": ["T740"],
+        "avg_num_values": 1.0
+      },
+      "Capital and the largest city": {
+        "tables": ["T1506"],
+        "avg_num_values": 1.0
+      },
+      "Monarch ": { "tables": ["T1506"], "avg_num_values": 1.0 },
+      "Prime Minister ": {
+        "tables": ["T1506", "T2007"],
+        "avg_num_values": 1.0
+      },
+      "Recognised regional languages": {
+        "tables": ["T2007"],
+        "avg_num_values": 23.0
+      },
+      "National language": {
+        "tables": ["T2007", "T105"],
+        "avg_num_values": 1.0
+      },
+      "Membership": { "tables": ["T2007"], "avg_num_values": 8.0 },
+      "President ": { "tables": ["T2007", "T291"], "avg_num_values": 1.0 },
+      "Vice President ": { "tables": ["T2007", "T291"], "avg_num_values": 1.0 },
+      "Chief Justice ": { "tables": ["T2007"], "avg_num_values": 1.0 },
+      "Speaker of the Lok Sabha ": {
+        "tables": ["T2007"],
+        "avg_num_values": 1.0
+      },
+      "Spanish:": { "tables": ["T105"], "avg_num_values": 1.0 },
+      "Ethnic groups  (2012)": { "tables": ["T105"], "avg_num_values": 5.0 },
+      "Senate President": { "tables": ["T105"], "avg_num_values": 1.0 },
+      "President of the Chamber of Deputies": {
+        "tables": ["T105"],
+        "avg_num_values": 1.0
+      },
+      "Capital and largest city": { "tables": ["T291"], "avg_num_values": 1.0 },
+      "Minority languages": { "tables": ["T291"], "avg_num_values": 2.0 },
+      "Vernaculars": { "tables": ["T291"], "avg_num_values": 2.0 },
+      "President of the Parliament ": {
+        "tables": ["T291"],
+        "avg_num_values": 1.0
+      },
+      "Vice-Presidents": { "tables": ["T830"], "avg_num_values": 3.0 },
+      "Governor": { "tables": ["T812"], "avg_num_values": 1.0 }
+    }
+  },
+  "Painting": {
+    "tables": [
+      "T283",
+      "T795",
+      "T167",
+      "T1554",
+      "T586",
+      "T339",
+      "T1988",
+      "T409",
+      "T1891"
+    ],
+    "keys": {
+      "Other name": { "tables": ["T283"], "avg_num_values": 1.0 },
+      "Artist": {
+        "tables": [
+          "T283",
+          "T795",
+          "T167",
+          "T1554",
+          "T586",
+          "T339",
+          "T1988",
+          "T409",
+          "T1891"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Year": {
+        "tables": [
+          "T283",
+          "T795",
+          "T167",
+          "T1554",
+          "T586",
+          "T339",
+          "T1988",
+          "T409",
+          "T1891"
+        ],
+        "avg_num_values": 1.1111111111111112
+      },
+      "Medium": {
+        "tables": ["T283", "T167", "T586", "T339", "T1988", "T409", "T1891"],
+        "avg_num_values": 1.0
+      },
+      "Dimensions": {
+        "tables": [
+          "T283",
+          "T795",
+          "T167",
+          "T1554",
+          "T586",
+          "T339",
+          "T1988",
+          "T409",
+          "T1891"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Location": {
+        "tables": [
+          "T283",
+          "T795",
+          "T167",
+          "T1554",
+          "T586",
+          "T339",
+          "T1988",
+          "T409",
+          "T1891"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Type": { "tables": ["T795", "T1554"], "avg_num_values": 1.0 },
+      "Also known as": { "tables": ["T167"], "avg_num_values": 1.0 }
+    }
+  },
+  "Animal": {
+    "tables": [
+      "T40",
+      "T542",
+      "T1313",
+      "T1956",
+      "T476",
+      "T604",
+      "T1531",
+      "T395",
+      "T1145"
+    ],
+    "keys": {
+      "Country": {
+        "tables": ["T40", "T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Breed": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Brand": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Sex": {
+        "tables": [
+          "T40",
+          "T542",
+          "T1313",
+          "T1956",
+          "T476",
+          "T604",
+          "T395",
+          "T1145"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Color": { "tables": ["T40", "T1956"], "avg_num_values": 1.0 },
+      "Weight": { "tables": ["T40", "T1531"], "avg_num_values": 1.5 },
+      "Born": { "tables": ["T40", "T476", "T395"], "avg_num_values": 1.0 },
+      "Years active": { "tables": ["T40", "T395"], "avg_num_values": 1.0 },
+      "Sire": {
+        "tables": ["T40", "T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Paternal grandsire": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Paternal granddam": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Dam": {
+        "tables": ["T40", "T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Maternal grandsire": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Maternal granddam": { "tables": ["T40"], "avg_num_values": 1.0 },
+      "Breeder": {
+        "tables": ["T40", "T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.5
+      },
+      "Owner": {
+        "tables": [
+          "T40",
+          "T542",
+          "T1313",
+          "T1956",
+          "T476",
+          "T604",
+          "T395",
+          "T1145"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Notable riders": { "tables": ["T40"], "avg_num_values": 3.0 },
+      "Grandsire": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Damsire": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Foaled": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Colour": {
+        "tables": ["T542", "T1313", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Trainer": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.2
+      },
+      "Record": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Earnings": {
+        "tables": ["T542", "T1313", "T1956", "T604", "T1145"],
+        "avg_num_values": 1.0
+      },
+      "Died": {
+        "tables": ["T1313", "T476", "T604", "T395"],
+        "avg_num_values": 1.0
+      },
+      "Jockey": { "tables": ["T1956"], "avg_num_values": 1.0 },
+      "Species": { "tables": ["T476"], "avg_num_values": 1.0 },
+      "Known for": { "tables": ["T476"], "avg_num_values": 1.0 },
+      "Country of origin": { "tables": ["T1531"], "avg_num_values": 1.0 },
+      "Coat": { "tables": ["T1531"], "avg_num_values": 1.0 },
+      "Occupation": { "tables": ["T395"], "avg_num_values": 1.0 },
+      "Employer": { "tables": ["T395"], "avg_num_values": 1.0 },
+      "Notable role": { "tables": ["T395"], "avg_num_values": 1.0 },
+      "Training": { "tables": ["T395"], "avg_num_values": 1.0 },
+      "Residence": { "tables": ["T395"], "avg_num_values": 1.0 },
+      "Appearance": { "tables": ["T395"], "avg_num_values": 1.0 }
+    }
+  },
+  "Food&Drink": {
+    "tables": ["T26", "T722", "T783", "T1062", "T1622", "T773", "T1758"],
+    "keys": {
+      "Type": {
+        "tables": ["T26", "T722", "T783", "T1062", "T1622", "T773", "T1758"],
+        "avg_num_values": 1.0
+      },
+      "Manufacturer": {
+        "tables": ["T26", "T722", "T783", "T1622", "T773"],
+        "avg_num_values": 1.0
+      },
+      "Country of origin": {
+        "tables": ["T26", "T722", "T1622", "T773"],
+        "avg_num_values": 1.0
+      },
+      "Introduced": {
+        "tables": ["T26", "T722", "T783", "T773"],
+        "avg_num_values": 1.0
+      },
+      "Alcohol by volume": {
+        "tables": ["T26", "T1622"],
+        "avg_num_values": 1.0
+      },
+      "Colour": { "tables": ["T26"], "avg_num_values": 1.0 },
+      "Ingredients": { "tables": ["T26"], "avg_num_values": 2.0 },
+      "Variants": { "tables": ["T26", "T783"], "avg_num_values": 2.0 },
+      "Related products": {
+        "tables": ["T722", "T1622", "T773"],
+        "avg_num_values": 3.0
+      },
+      "Color": { "tables": ["T783"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T783"], "avg_num_values": 1.0 },
+      "Alternative names": { "tables": ["T1062"], "avg_num_values": 1.0 },
+      "Place of origin": { "tables": ["T1062"], "avg_num_values": 1.0 },
+      "Main ingredients": {
+        "tables": ["T1062", "T1758"],
+        "avg_num_values": 1.0
+      },
+      "Proof (US)": { "tables": ["T1622"], "avg_num_values": 1.0 },
+      "Distributor": { "tables": ["T773"], "avg_num_values": 3.0 },
+      "Serving temperature": { "tables": ["T1758"], "avg_num_values": 1.0 },
+      "Variations": { "tables": ["T1758"], "avg_num_values": 7.0 },
+      "Production company": { "tables": ["T1758"], "avg_num_values": 1.0 }
+    }
+  },
+  "Sports": {
+    "tables": ["T262", "T1593", "T1337", "T825", "T1808", "T1719"],
+    "keys": {
+      "No. of events": { "tables": ["T262"], "avg_num_values": 1.0 },
+      "Venue": { "tables": ["T262", "T1593", "T1337"], "avg_num_values": 2.0 },
+      "Dates": { "tables": ["T262", "T1808"], "avg_num_values": 1.0 },
+      "Competitors": { "tables": ["T262"], "avg_num_values": 1.0 },
+      "First played": { "tables": ["T1593"], "avg_num_values": 1.0 },
+      "Type": { "tables": ["T1593", "T825"], "avg_num_values": 1.5 },
+      "Equipment": { "tables": ["T1593", "T825"], "avg_num_values": 3.0 },
+      "Founded": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Editions": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Surface": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Prize money": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Draw": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Current champions": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Most singles titles": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Most doubles titles": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Most titles (male)": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Most titles (female)": { "tables": ["T1337"], "avg_num_values": 1.0 },
+      "Highest governing body": { "tables": ["T825"], "avg_num_values": 1.0 },
+      "Contact": { "tables": ["T825"], "avg_num_values": 1.0 },
+      "Team members": { "tables": ["T825"], "avg_num_values": 1.0 },
+      "Mixed gender": { "tables": ["T825"], "avg_num_values": 1.0 },
+      "Teams": { "tables": ["T1808"], "avg_num_values": 1.0 },
+      "Venue(s)": { "tables": ["T1808"], "avg_num_values": 1.0 },
+      "Full name": { "tables": ["T1719"], "avg_num_values": 1.0 },
+      "Species": { "tables": ["T1719"], "avg_num_values": 1.0 },
+      "Place of origin": { "tables": ["T1719"], "avg_num_values": 1.0 },
+      "Team affiliations": { "tables": ["T1719"], "avg_num_values": 1.0 },
+      "Supporting character of": { "tables": ["T1719"], "avg_num_values": 1.0 },
+      "Notable aliases": { "tables": ["T1719"], "avg_num_values": 2.0 },
+      "Abilities": { "tables": ["T1719"], "avg_num_values": 5.0 }
+    }
+  },
+  "Organization": {
+    "tables": ["T1178", "T1400", "T1249", "T1279"],
+    "keys": {
+      "Abbreviation": { "tables": ["T1178"], "avg_num_values": 1.0 },
+      "Formation": { "tables": ["T1178", "T1400"], "avg_num_values": 1.0 },
+      "Type": {
+        "tables": ["T1178", "T1400", "T1249", "T1279"],
+        "avg_num_values": 1.0
+      },
+      "Purpose": { "tables": ["T1178"], "avg_num_values": 1.0 },
+      "Headquarters": {
+        "tables": ["T1178", "T1400", "T1279"],
+        "avg_num_values": 1.0
+      },
+      "Location": {
+        "tables": ["T1178", "T1400", "T1249"],
+        "avg_num_values": 1.0
+      },
+      "Membership": { "tables": ["T1178"], "avg_num_values": 1.0 },
+      "Executive Director and CEO": {
+        "tables": ["T1178"],
+        "avg_num_values": 1.0
+      },
+      "Budget": { "tables": ["T1178"], "avg_num_values": 1.0 },
+      "Website": {
+        "tables": ["T1178", "T1400", "T1249", "T1279"],
+        "avg_num_values": 1.0
+      },
+      "Founder": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Tax ID no. ": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Members  ": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "CEO": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Board Chair": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Subsidiaries": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Revenue  ": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Expenses": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Staff  ": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Volunteers  ": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Formerly called": { "tables": ["T1400"], "avg_num_values": 1.0 },
+      "Founded": { "tables": ["T1249", "T1279"], "avg_num_values": 1.0 },
+      "Tax ID no.": { "tables": ["T1249"], "avg_num_values": 1.0 },
+      "Registration no.": { "tables": ["T1249"], "avg_num_values": 1.0 },
+      "Area served": { "tables": ["T1249"], "avg_num_values": 1.0 },
+      "Industry": { "tables": ["T1279"], "avg_num_values": 1.0 },
+      "Key people": { "tables": ["T1279"], "avg_num_values": 1.0 },
+      "Products": { "tables": ["T1279"], "avg_num_values": 1.0 },
+      "Revenue": { "tables": ["T1279"], "avg_num_values": 1.0 },
+      "Number of employees": { "tables": ["T1279"], "avg_num_values": 1.0 }
+    }
+  },
+  "University": {
+    "tables": ["T1281", "T1258"],
+    "keys": {
+      "Motto": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Motto in English": {
+        "tables": ["T1281", "T1258"],
+        "avg_num_values": 1.0
+      },
+      "Type": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Established": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Endowment": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "President": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Provost": { "tables": ["T1281"], "avg_num_values": 1.0 },
+      "Academic staff": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Administrative staff": {
+        "tables": ["T1281", "T1258"],
+        "avg_num_values": 1.0
+      },
+      "Undergraduates": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Postgraduates": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Campus": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Colors": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Athletics": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Nickname": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Affiliations": { "tables": ["T1281"], "avg_num_values": 1.0 },
+      "Mascot": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1281", "T1258"], "avg_num_values": 1.0 },
+      "Former names": { "tables": ["T1258"], "avg_num_values": 1.0 },
+      "Chancellor": { "tables": ["T1258"], "avg_num_values": 1.0 },
+      "Students": { "tables": ["T1258"], "avg_num_values": 1.0 },
+      "Alma Mater": { "tables": ["T1258"], "avg_num_values": 1.0 }
+    }
+  },
+  "Book": {
+    "tables": ["T1878"],
+    "keys": {
+      "Created by": { "tables": ["T1878"], "avg_num_values": 3.0 },
+      "Written by": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Artist(s)": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Penciller(s)": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Inker(s)": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Letterer(s)": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Colorist(s)": { "tables": ["T1878"], "avg_num_values": 1.0 },
+      "Editor(s)": { "tables": ["T1878"], "avg_num_values": 1.0 }
+    }
+  },
+  "Event": {
+    "tables": ["T1790"],
+    "keys": {
+      "Date": { "tables": ["T1790"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1790"], "avg_num_values": 1.0 },
+      "Cause": { "tables": ["T1790"], "avg_num_values": 1.0 },
+      "Death(s)": { "tables": ["T1790"], "avg_num_values": 1.0 },
+      "Non-fatal injuries": { "tables": ["T1790"], "avg_num_values": 1.0 },
+      "Inquiries": { "tables": ["T1790"], "avg_num_values": 2.0 },
+      "Inquest": { "tables": ["T1790"], "avg_num_values": 2.0 }
+    }
+  },
+  "Sport": {
+    "tables": ["T1525"],
+    "keys": {
+      "Also known as": { "tables": ["T1525"], "avg_num_values": 5.0 },
+      "Focus": { "tables": ["T1525"], "avg_num_values": 1.0 },
+      "Famous practitioners": { "tables": ["T1525"], "avg_num_values": 24.0 },
+      "Parenthood": { "tables": ["T1525"], "avg_num_values": 1.0 },
+      "Descendant arts": { "tables": ["T1525"], "avg_num_values": 8.0 },
+      "Olympic sport": { "tables": ["T1525"], "avg_num_values": 1.0 }
+    }
+  },
+  "Aircraft": {
+    "tables": ["T1314"],
+    "keys": {
+      "Role": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "National origin": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Manufacturer": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Design group": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "First flight": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Introduction": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Status": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Primary users": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Produced": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Number built": { "tables": ["T1314"], "avg_num_values": 1.0 },
+      "Unit cost": { "tables": ["T1314"], "avg_num_values": 1.0 }
+    }
+  },
+  "Food&Drinks": {
+    "tables": ["T1083"],
+    "keys": {
+      "Manufacturer": { "tables": ["T1083"], "avg_num_values": 1.0 },
+      "Distributor": { "tables": ["T1083"], "avg_num_values": 1.0 },
+      "Country of origin": { "tables": ["T1083"], "avg_num_values": 1.0 },
+      "Introduced": { "tables": ["T1083"], "avg_num_values": 1.0 },
+      "Colour": { "tables": ["T1083"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1083"], "avg_num_values": 1.0 }
+    }
+  },
+  "Architecture": {
+    "tables": ["T1310"],
+    "keys": {
+      "Name:": { "tables": ["T1310"], "avg_num_values": 2.0 },
+      "Namesake:": { "tables": ["T1310"], "avg_num_values": 2.0 },
+      "Builder:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Launched:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Commissioned (1)": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Motto:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Fate:": { "tables": ["T1310"], "avg_num_values": 2.0 },
+      "Acquired:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Decommissioned:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Identification:": { "tables": ["T1310"], "avg_num_values": 3.0 },
+      "Class and type:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Displacement:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Length:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Beam:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Draught:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Propulsion:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Speed:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Range:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Complement:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Aircraft carried:": { "tables": ["T1310"], "avg_num_values": 1.0 },
+      "Notes:": { "tables": ["T1310"], "avg_num_values": 1.0 }
+    }
+  },
+  "Awards": {
+    "tables": ["T1288"],
+    "keys": {
+      "Awarded for": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Country": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Presented by": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "First awarded": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Last awarded": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1288"], "avg_num_values": 1.0 },
+      "Network": { "tables": ["T1288"], "avg_num_values": 2.0 },
+      "Produced by": { "tables": ["T1288"], "avg_num_values": 1.0 }
+    }
+  },
+  "Award": {
+    "tables": ["T1198"],
+    "keys": {
+      "Sponsored by": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Date": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Country": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Formerly called": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Reward(s)": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Currently held by": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Best Comedy Show": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Best Newcomer": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Panel Prize": { "tables": ["T1198"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1198"], "avg_num_values": 1.0 }
+    }
+  },
+  "Diseases": { "tables": [], "keys": {} },
+  "Sports Event": { "tables": [], "keys": {} },
+  "Festival": { "tables": [], "keys": {} },
+  "Bus/Train Lines": { "tables": [], "keys": {} },
+  "Exams": { "tables": [], "keys": {} },
+  "Element": { "tables": [], "keys": {} },
+  "Bridge": { "tables": [], "keys": {} },
+  "Product": { "tables": [], "keys": {} },
+  "Game": { "tables": [], "keys": {} },
+  "Air crash": { "tables": [], "keys": {} },
+  "Planet": { "tables": [], "keys": {} },
+  "Earthquakes": { "tables": [], "keys": {} },
+  "Smartphone": { "tables": [], "keys": {} },
+  "Food": { "tables": [], "keys": {} },
+  "Computer": { "tables": [], "keys": {} },
+  "Occupation": { "tables": [], "keys": {} },
+  "Restaurant": { "tables": [], "keys": {} },
+  "WineYard": { "tables": [], "keys": {} },
+  "Engines": { "tables": [], "keys": {} },
+  "Equilibrium": { "tables": [], "keys": {} },
+  "Airport": { "tables": [], "keys": {} },
+  "OS": { "tables": [], "keys": {} },
+  "Games": { "tables": [], "keys": {} },
+  "Wineyard": { "tables": [], "keys": {} },
+  "Universtiy": { "tables": [], "keys": {} },
+  "Cloud": { "tables": [], "keys": {} },
+  "Bus/Train Station": { "tables": [], "keys": {} },
+  "TV Show": { "tables": [], "keys": {} },
+  "Language": { "tables": [], "keys": {} },
+  "None": { "tables": [], "keys": {} },
+  "River": { "tables": [], "keys": {} },
+  "Car": { "tables": [], "keys": {} },
+  "Coffe House": { "tables": [], "keys": {} },
+  "Cars": { "tables": [], "keys": {} },
+  "Bus/Train Provider": { "tables": [], "keys": {} },
+  "Hotel": { "tables": [], "keys": {} },
+  "Math": { "tables": [], "keys": {} },
+  "Flight": { "tables": [], "keys": {} }
+}

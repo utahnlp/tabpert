@@ -1,0 +1,33 @@
+{
+  "Birth name": [{ "Justice League International": "1111000" }],
+  "Born": [
+    {
+      "(1947-07-19) 19 July 1947 (age 71) , Hampton, London, England": "0010000"
+    }
+  ],
+  "Died": [
+    { "May 13, 1988 (1988-05-13)  (aged 58) Amsterdam, Netherlands": "0000000" }
+  ],
+  "Genres": [
+    { "Board game , Abstract strategy game , Mind sport": "1111000" },
+    { "Mandopop": "0111000" },
+    { "West Coast jazz": "0000000" }
+  ],
+  "Occupation(s)": [
+    { "Singer": "1111000" },
+    { "Singer  songwriter  actress  television personality": "0111000" }
+  ],
+  "Instruments": [
+    { "Vocals, guitar, drums, piano, keyboards, percussion, bass": "1010000" },
+    { "bass": "0010000" },
+    { "Guitar": "0010000" }
+  ],
+  "Years active": [{ "1993-present": "1110000" }],
+  "Labels": [{ "4AD, Warner Bros.": "0010000" }],
+  "Associated acts": [
+    { "Gerry Mulligan ": "0000000" },
+    { "Death": "0010000" },
+    { "Pepsi Battle of the Bands": "0110000" }
+  ],
+  "title": ["Chet Baker"]
+}

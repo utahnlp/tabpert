@@ -1,0 +1,13 @@
+{
+  "Origin": [{ "introduced 1813": "1110000" }],
+  "Genres": [
+    { "Pop": "0110000" },
+    { "thrash metal": "0010000" },
+    { "soul": "1110000" },
+    { "electronic": "1010000" }
+  ],
+  "Years active": [{ "1936 - 1946": "0110000" }],
+  "Labels": [{ "RCA": "1110000" }],
+  "Associated acts": [{ "Lorene Drive": "1010000" }],
+  "title": ["E Street Band"]
+}

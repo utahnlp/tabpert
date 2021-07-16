@@ -1,0 +1,20 @@
+{
+  "Sport": [{ "track and field": "1110000" }],
+  "Competition": [
+    { "All levels of Romanian and international football": "0000000" }
+  ],
+  "Local name": [
+    {
+      "Juc\u0103torul rom\u00e2n al anului / Trofeul Nicolae Dobrin   (Romanian)": "0000000"
+    }
+  ],
+  "Country": [{ "Romania": "0000000" }],
+  "Presented by": [{ "Pernod Ricard": "1111000" }],
+  "First award": [{ "1966": "0000000" }],
+  "Editions": [{ "122 (2018)": "1010000" }],
+  "First winner": [{ "2": "1111000" }],
+  "Most wins": [{ "Isaac Newton": "1111000" }],
+  "Most recent": [{ "Sally McRorie": "0111000" }],
+  "Website": [{ "Official website": "0110000" }],
+  "title": ["History"]
+}

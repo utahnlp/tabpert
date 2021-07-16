@@ -1,0 +1,39 @@
+{
+  "Also known as": [
+    { "BGs": "1110000" },
+    { "Atari VCS (prior to November 1982)": "0110000" }
+  ],
+  "Origin": [{ "Arbutus, Maryland, U.S.": "0010000" }],
+  "Genres": [
+    { "Mind sport": "1111000" },
+    { "gospel": "0110000" },
+    { "Board game ": "1111000" },
+    { "Hip hop": "0010000" }
+  ],
+  "Years active": [{ "1 November 1991": "1111000" }],
+  "Labels": [
+    { "RCA": "0110000" },
+    {
+      "Norwegian Nobel Committee on behalf of the estate of Alfred Nobel": "1111000"
+    },
+    { "Capitol": "1010000" },
+    { "Relativity Media ": "0111000" },
+    { "Spin": "1110000" },
+    { "Todo Mundo": "0010000" },
+    { "Pernod Ricard": "1111000" },
+    { "Sho'nuff": "0110000" }
+  ],
+  "Associated acts": [
+    { "Foreign Objects": "0000000" },
+    { "Entity Paradigm ": "0110000" },
+    { "Gnarkill": "0000000" },
+    { "Filthy Frank": "1110000" },
+    { "Lifer": "1010000" },
+    { "Travis Barker ": "1010000" },
+    { "Conway Twitty": "0010000" },
+    { "Exo-K": "1110000" },
+    { "Mt. Desolation ": "1010000" },
+    { "Tommy Brown": "1110000" }
+  ],
+  "title": ["CKY"]
+}

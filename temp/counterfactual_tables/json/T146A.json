@@ -1,0 +1,18 @@
+{
+  "Born": [{ "2003": "1111000" }],
+  "Occupation": [
+    { "Actor ": "0000000" },
+    { "Actor, producer, musician": "0110000" },
+    { "producer ": "0000000" },
+    { "Show dog": "0110000" }
+  ],
+  "Years active": [{ "2000": "1111000" }],
+  "Spouse(s)": [{ "Willie Wells ( m.  1919;  div.  1919)": "1010000" }],
+  "Children": [{ "1": "0010000" }],
+  "Parent(s)": [
+    { "Cackler of Notts (sire)": "1110000" },
+    { "Cackler of Notts (sire)": "1110000" }
+  ],
+  "Family": [{ "Estevez family": "0010000" }, { "Jackson": "1010000" }],
+  "title": ["Jeff Bridges"]
+}

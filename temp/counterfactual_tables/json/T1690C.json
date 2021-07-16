@@ -1,0 +1,19 @@
+{
+  "Ring name(s)": [
+    { "Wolverine": "1110000" },
+    { "Raj Dhesi": "0000000" },
+    { "Geoffrey Ma": "1111000" },
+    { "Tiger Raj Singh": "0000000" }
+  ],
+  "Billed height": [{ "6 ft 1 in (185 cm)": "1110000" }],
+  "Billed weight": [{ "302 lb (137 kg)": "1010000" }],
+  "Billed from": [{ "Cameron, North Carolina": "1110000" }],
+  "Trained by": [
+    { "Michael Hayes": "0110000" },
+    { "Gama Singh": "0000000" },
+    { "Gerry Morrow": "0000000" },
+    { "Rick Bognar": "0000000" }
+  ],
+  "Debut": [{ "24 February 1976": "0111000" }],
+  "title": ["Jinder Mahal"]
+}

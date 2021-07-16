@@ -1,0 +1,15 @@
+{
+  "Type": [{ "Fire, stampede": "0110000" }],
+  "Manufacturer": [{ "Infinitum Nihil": "0111000" }],
+  "Country of origin": [{ "India": "1010000" }],
+  "Introduced": [{ "1923; 95 years ago (1923)": "1110000" }],
+  "Colour": [{ "Clear": "1010000" }],
+  "Variants": [{ "Club diet": "0000000" }, { " Pear-d": "1110000" }],
+  "Related products": [
+    { "Club Lemon": "0000000" },
+    { "List of vodkas": "1010000" },
+    { "Club Apple": "0000000" },
+    { "Surge": "0010000" }
+  ],
+  "title": ["Club (soft drink)"]
+}

@@ -1,0 +1,13 @@
+{
+  "Origin": [{ "Belmar, New Jersey, United States": "0000000" }],
+  "Genres": [
+    { "Mandopop": "0111000" },
+    { "Cool jazz, bebop, West Coast jazz": "1010000" },
+    { "R&B": "0110000" },
+    { "K-pop": "1010000" }
+  ],
+  "Years active": [{ "1992-2002": "1010000" }],
+  "Labels": [{ "Spin": "1110000" }],
+  "Associated acts": [{ "Coldplay": "1110000" }],
+  "title": ["E Street Band"]
+}

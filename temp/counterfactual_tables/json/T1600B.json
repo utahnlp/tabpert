@@ -1,0 +1,18 @@
+{
+  "Born": [{ "11 June 1910  Saint-Andre-de-Cubzac, France": "1010000" }],
+  "Birth name": [{ "Carl Zipernowsky": "0000000" }],
+  "Died": [
+    {
+      "5 December 2017 (2017-12-05)  (aged 74)  Marnes-la-Coquette, France": "1110000"
+    }
+  ],
+  "Nationality": [{ "American": "1010000" }, { "Austrian": "0000000" }],
+  "Education": [{ "Hampton Grammar School": "0110000" }],
+  "Occupation": [{ "Singer": "0111000" }],
+  "Institutions": [{ "University of Massachusetts Boston": "0111000" }],
+  "Projects": [
+    { "transformer": "0000000" },
+    { "transformer  alternating current": "1010000" }
+  ],
+  "title": ["Karoly Zipernowsky"]
+}

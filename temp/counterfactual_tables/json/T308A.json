@@ -1,0 +1,28 @@
+{
+  "Born": [
+    { "( 1932-02-26 ) February 26, 1932  Kingsland, Arkansas, U.S.": "0010000" }
+  ],
+  "Died": [
+    {
+      "December 28, 1938 (aged 52)  Beverly Hills, California, U.S.": "0110000"
+    }
+  ],
+  "Residence": [{ "Abilene, Texas, U.S.": "1111000" }],
+  "Nationality": [{ "British, Spanish": "1111000" }],
+  "Alma mater": [
+    { "University of Bonn University of Erlangen": "1010000" },
+    { "University of Massachusetts Boston": "0110000" }
+  ],
+  "Known for": [
+    { "Ghost Whisperer": "0110000" },
+    { "Foundation sire of the Yorkshire Terrier breed": "0110000" },
+    { "Party of Five  ": "0110000" },
+    { "designing the Dreyse needle gun": "0010000" }
+  ],
+  "Fields": [
+    { "Chemistry": "0010000" },
+    { "Medicine": "0010000" },
+    { "Electrophotography / Xerography": "1010000" }
+  ],
+  "title": ["Kalman Tihanyi"]
+}

@@ -1,0 +1,30 @@
+{
+  "Born": [
+    {
+      "(1961-09-13) September 13, 1961 (age 57) , La Mesa, California, U.S.": "1110000"
+    }
+  ],
+  "Died": [
+    {
+      "(2008-08-07) (2008-08-23)7 August - 23 August 2008 ,  (16 days)": "1111000"
+    }
+  ],
+  "Residence": [{ "Hungary, England, Italy": "0000000" }],
+  "Nationality": [{ "Hungarian": "0000000" }],
+  "Alma mater": [
+    { "University of Aberdeen": "0010000" },
+    { "Milton Academy": "1110000" }
+  ],
+  "Known for": [
+    { "Party of Five": "1110000" },
+    { "First successful mass-produced helicopter": "1010000" },
+    { "Infrared camera ": "0000000" },
+    { "Ghost Whisperer": "0110000" }
+  ],
+  "Fields": [
+    { "Horology": "0010000" },
+    { "engineer ": "0000000" },
+    { "physicist": "0000000" }
+  ],
+  "title": ["Kalman Tihanyi"]
+}

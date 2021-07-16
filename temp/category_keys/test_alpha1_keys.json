@@ -1,0 +1,2301 @@
+{
+  "Person": {
+    "tables": [
+      "T1404",
+      "T688",
+      "T1614",
+      "T154",
+      "T274",
+      "T1464",
+      "T1562",
+      "T1182",
+      "T1502",
+      "T1503",
+      "T845",
+      "T1688",
+      "T1942",
+      "T1580",
+      "T983",
+      "T1446",
+      "T1500",
+      "T1435",
+      "T1436",
+      "T1677",
+      "T408",
+      "T1690",
+      "T491",
+      "T146",
+      "T1512",
+      "T1544",
+      "T361",
+      "T403",
+      "T413",
+      "T400",
+      "T777",
+      "T152",
+      "T1692",
+      "T719",
+      "T1449",
+      "T793",
+      "T846",
+      "T286",
+      "T596",
+      "T792",
+      "T741",
+      "T17",
+      "T727",
+      "T1545",
+      "T1612",
+      "T1148",
+      "T1550",
+      "T277",
+      "T734",
+      "T1665",
+      "T1730",
+      "T1600",
+      "T1918",
+      "T308",
+      "T1656",
+      "T1713",
+      "T799"
+    ],
+    "keys": {
+      "Born": {
+        "tables": [
+          "T1404",
+          "T688",
+          "T1614",
+          "T154",
+          "T274",
+          "T1464",
+          "T1562",
+          "T1182",
+          "T1502",
+          "T1503",
+          "T845",
+          "T1688",
+          "T1942",
+          "T1580",
+          "T983",
+          "T1446",
+          "T1500",
+          "T1435",
+          "T1436",
+          "T1677",
+          "T408",
+          "T491",
+          "T146",
+          "T1544",
+          "T361",
+          "T403",
+          "T413",
+          "T400",
+          "T777",
+          "T152",
+          "T1692",
+          "T793",
+          "T846",
+          "T286",
+          "T596",
+          "T792",
+          "T741",
+          "T17",
+          "T727",
+          "T1612",
+          "T1148",
+          "T1550",
+          "T277",
+          "T734",
+          "T1665",
+          "T1730",
+          "T1600",
+          "T1918",
+          "T308",
+          "T1656",
+          "T1713"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Birth name": {
+        "tables": [
+          "T1404",
+          "T274",
+          "T1503",
+          "T1580",
+          "T1446",
+          "T1677",
+          "T1544",
+          "T1692",
+          "T277",
+          "T1665",
+          "T1600"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Residence": {
+        "tables": [
+          "T1404",
+          "T1182",
+          "T1503",
+          "T845",
+          "T1446",
+          "T1435",
+          "T361",
+          "T403",
+          "T413",
+          "T777",
+          "T793",
+          "T286",
+          "T741",
+          "T727",
+          "T1665",
+          "T308"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Occupation": {
+        "tables": [
+          "T1404",
+          "T154",
+          "T274",
+          "T1182",
+          "T1503",
+          "T1688",
+          "T1580",
+          "T1446",
+          "T1435",
+          "T1436",
+          "T1677",
+          "T408",
+          "T491",
+          "T146",
+          "T1544",
+          "T361",
+          "T400",
+          "T777",
+          "T793",
+          "T846",
+          "T286",
+          "T596",
+          "T741",
+          "T17",
+          "T727",
+          "T1612",
+          "T1148",
+          "T1550",
+          "T277",
+          "T734",
+          "T1665",
+          "T1730",
+          "T1600",
+          "T1656",
+          "T1713"
+        ],
+        "avg_num_values": 2.742857142857143
+      },
+      "Years active": {
+        "tables": [
+          "T1404",
+          "T154",
+          "T274",
+          "T1182",
+          "T1503",
+          "T1580",
+          "T1446",
+          "T1435",
+          "T1436",
+          "T408",
+          "T491",
+          "T146",
+          "T1544",
+          "T361",
+          "T400",
+          "T793",
+          "T846",
+          "T286",
+          "T596",
+          "T741",
+          "T17",
+          "T727",
+          "T1148",
+          "T277",
+          "T1665",
+          "T1730",
+          "T1656",
+          "T1713"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Spouse(s)": {
+        "tables": [
+          "T1404",
+          "T688",
+          "T1614",
+          "T154",
+          "T274",
+          "T1182",
+          "T1503",
+          "T1580",
+          "T1446",
+          "T1435",
+          "T1436",
+          "T146",
+          "T1544",
+          "T400",
+          "T1692",
+          "T846",
+          "T596",
+          "T741",
+          "T17",
+          "T727",
+          "T1148",
+          "T1550",
+          "T277",
+          "T734",
+          "T1665",
+          "T1713"
+        ],
+        "avg_num_values": 1.4615384615384615
+      },
+      "Children": {
+        "tables": [
+          "T1404",
+          "T1614",
+          "T154",
+          "T274",
+          "T1182",
+          "T1503",
+          "T1580",
+          "T146",
+          "T1544",
+          "T400",
+          "T1692",
+          "T793",
+          "T846",
+          "T596",
+          "T741",
+          "T17",
+          "T727",
+          "T1148",
+          "T1550",
+          "T277",
+          "T734",
+          "T1665",
+          "T1713"
+        ],
+        "avg_num_values": 1.173913043478261
+      },
+      "Died": {
+        "tables": [
+          "T688",
+          "T1614",
+          "T1464",
+          "T1562",
+          "T1502",
+          "T1688",
+          "T1942",
+          "T1500",
+          "T1677",
+          "T491",
+          "T1544",
+          "T403",
+          "T413",
+          "T152",
+          "T1692",
+          "T846",
+          "T792",
+          "T1612",
+          "T1550",
+          "T1600",
+          "T1918",
+          "T308"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Citizenship": { "tables": ["T688", "T1464"], "avg_num_values": 1.0 },
+      "Alma mater": {
+        "tables": [
+          "T688",
+          "T274",
+          "T1464",
+          "T1562",
+          "T1502",
+          "T1503",
+          "T1500",
+          "T1436",
+          "T408",
+          "T413",
+          "T400",
+          "T793",
+          "T286",
+          "T792",
+          "T741",
+          "T1665",
+          "T1730",
+          "T308",
+          "T1656",
+          "T1713"
+        ],
+        "avg_num_values": 1.3
+      },
+      "Known for": {
+        "tables": [
+          "T688",
+          "T1614",
+          "T274",
+          "T1464",
+          "T1502",
+          "T845",
+          "T1688",
+          "T1942",
+          "T1500",
+          "T1435",
+          "T1677",
+          "T403",
+          "T413",
+          "T792",
+          "T1612",
+          "T1550",
+          "T1665",
+          "T308"
+        ],
+        "avg_num_values": 2.4444444444444446
+      },
+      "Awards": {
+        "tables": [
+          "T688",
+          "T1464",
+          "T1562",
+          "T1182",
+          "T1502",
+          "T845",
+          "T1688",
+          "T403",
+          "T413",
+          "T596",
+          "T1665"
+        ],
+        "avg_num_values": 2.8181818181818183
+      },
+      "Fields": {
+        "tables": [
+          "T688",
+          "T1464",
+          "T1502",
+          "T1942",
+          "T1500",
+          "T403",
+          "T413",
+          "T308"
+        ],
+        "avg_num_values": 1.5
+      },
+      "Institutions": {
+        "tables": ["T688", "T1562", "T1502", "T1942", "T413", "T792", "T1600"],
+        "avg_num_values": 2.2857142857142856
+      },
+      "Doctoral students": {
+        "tables": ["T688", "T1502", "T413"],
+        "avg_num_values": 5.333333333333333
+      },
+      "Parent(s)": {
+        "tables": ["T1614", "T154", "T1580", "T1446", "T146", "T361", "T1148"],
+        "avg_num_values": 2.0
+      },
+      "Relatives": {
+        "tables": [
+          "T1614",
+          "T1503",
+          "T1580",
+          "T408",
+          "T1544",
+          "T361",
+          "T152",
+          "T793",
+          "T846",
+          "T17",
+          "T727",
+          "T1148",
+          "T1656"
+        ],
+        "avg_num_values": 3.1538461538461537
+      },
+      "Education": {
+        "tables": ["T154", "T1182", "T1446", "T152", "T596", "T1600"],
+        "avg_num_values": 1.0
+      },
+      "Family": { "tables": ["T154", "T146"], "avg_num_values": 1.5 },
+      "Website": {
+        "tables": ["T154", "T1503", "T1544", "T596", "T1148"],
+        "avg_num_values": 1.0
+      },
+      "Nationality": {
+        "tables": [
+          "T274",
+          "T1464",
+          "T1502",
+          "T845",
+          "T1688",
+          "T1942",
+          "T1500",
+          "T1435",
+          "T408",
+          "T403",
+          "T413",
+          "T792",
+          "T1612",
+          "T1550",
+          "T1665",
+          "T1600",
+          "T308",
+          "T1656"
+        ],
+        "avg_num_values": 1.1111111111111112
+      },
+      "Genres": {
+        "tables": ["T274", "T1544", "T846", "T596", "T1148"],
+        "avg_num_values": 3.4
+      },
+      "Instruments": {
+        "tables": ["T274", "T1544", "T846", "T596", "T1148"],
+        "avg_num_values": 1.8
+      },
+      "Labels": {
+        "tables": ["T274", "T1544", "T846", "T596", "T1148"],
+        "avg_num_values": 3.4
+      },
+      "Associated acts": {
+        "tables": ["T274", "T1544", "T846", "T596", "T1148"],
+        "avg_num_values": 7.0
+      },
+      "Partner(s)": {
+        "tables": [
+          "T1182",
+          "T1580",
+          "T361",
+          "T286",
+          "T596",
+          "T727",
+          "T1665",
+          "T1730"
+        ],
+        "avg_num_values": 1.125
+      },
+      "Doctoral advisor": {
+        "tables": ["T1502", "T413"],
+        "avg_num_values": 1.5
+      },
+      "Other names": {
+        "tables": ["T1503", "T361", "T1692", "T846", "T734"],
+        "avg_num_values": 1.0
+      },
+      "Cause of death": {
+        "tables": ["T1688", "T491", "T1692"],
+        "avg_num_values": 1.0
+      },
+      "Years of service": {
+        "tables": ["T1688", "T727", "T1545"],
+        "avg_num_values": 1.0
+      },
+      "Spouse": { "tables": ["T983"], "avg_num_values": 2.0 },
+      "Issue": { "tables": ["T983"], "avg_num_values": 2.0 },
+      "House": { "tables": ["T983"], "avg_num_values": 1.0 },
+      "Father": { "tables": ["T983"], "avg_num_values": 1.0 },
+      "Mother": { "tables": ["T983"], "avg_num_values": 1.0 },
+      "Net worth": { "tables": ["T1446"], "avg_num_values": 1.0 },
+      "Influenced": { "tables": ["T1500", "T1918"], "avg_num_values": 1.5 },
+      "Ring name(s)": { "tables": ["T1690"], "avg_num_values": 4.0 },
+      "Billed height": { "tables": ["T1690"], "avg_num_values": 1.0 },
+      "Billed weight": { "tables": ["T1690"], "avg_num_values": 1.0 },
+      "Billed from": { "tables": ["T1690"], "avg_num_values": 1.0 },
+      "Trained by": { "tables": ["T1690"], "avg_num_values": 4.0 },
+      "Debut": { "tables": ["T1690"], "avg_num_values": 1.0 },
+      "Body discovered": { "tables": ["T491"], "avg_num_values": 1.0 },
+      "Resting place": {
+        "tables": ["T491", "T1544", "T152"],
+        "avg_num_values": 1.0
+      },
+      "Preceded by": { "tables": ["T1512"], "avg_num_values": 2.0 },
+      "Succeeded by": { "tables": ["T1512"], "avg_num_values": 2.0 },
+      "Other notable students": { "tables": ["T413"], "avg_num_values": 7.0 },
+      "Conviction(s)": { "tables": ["T777", "T1692"], "avg_num_values": 1.0 },
+      "Criminal penalty": {
+        "tables": ["T777", "T1692"],
+        "avg_num_values": 1.0
+      },
+      "Period": { "tables": ["T152"], "avg_num_values": 1.0 },
+      "Height": { "tables": ["T1692", "T719", "T1730"], "avg_num_values": 1.0 },
+      "Weight": { "tables": ["T1692"], "avg_num_values": 1.0 },
+      "Full name": { "tables": ["T719"], "avg_num_values": 1.0 },
+      "Date of birth": { "tables": ["T719"], "avg_num_values": 1.0 },
+      "Place of birth": { "tables": ["T719"], "avg_num_values": 1.0 },
+      "Playing position": { "tables": ["T719"], "avg_num_values": 1.0 },
+      "High school": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "College": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "NBA draft": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "Playing career": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "Position": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "Number": { "tables": ["T1449"], "avg_num_values": 1.0 },
+      "Chinese name": { "tables": ["T286"], "avg_num_values": 1.0 },
+      "Pinyin": { "tables": ["T286"], "avg_num_values": 1.0 },
+      "Ethnicity": { "tables": ["T286"], "avg_num_values": 1.0 },
+      "Genre(s)": { "tables": ["T286"], "avg_num_values": 1.0 },
+      "Label(s)": { "tables": ["T286"], "avg_num_values": 2.0 },
+      "Parents": { "tables": ["T286", "T17"], "avg_num_values": 2.0 },
+      "Siblings": { "tables": ["T286"], "avg_num_values": 1.0 },
+      "Home town": {
+        "tables": ["T596", "T1148", "T1665"],
+        "avg_num_values": 1.0
+      },
+      "Battles/wars": { "tables": ["T727", "T1545"], "avg_num_values": 3.5 },
+      "Nickname(s)": { "tables": ["T1545"], "avg_num_values": 3.0 },
+      "Commands": { "tables": ["T1545"], "avg_num_values": 10.0 },
+      "Political party": { "tables": ["T1665"], "avg_num_values": 2.0 },
+      "Projects": { "tables": ["T1600"], "avg_num_values": 2.0 },
+      "Era": { "tables": ["T1918"], "avg_num_values": 1.0 },
+      "Region": { "tables": ["T1918"], "avg_num_values": 1.0 },
+      "School": { "tables": ["T1918"], "avg_num_values": 1.0 },
+      "Main interests": { "tables": ["T1918"], "avg_num_values": 2.0 },
+      "Influences": { "tables": ["T1918"], "avg_num_values": 4.0 },
+      "TD-Int:": { "tables": ["T799"], "avg_num_values": 1.0 },
+      "Passing yards:": { "tables": ["T799"], "avg_num_values": 1.0 },
+      "Completion percentage:": { "tables": ["T799"], "avg_num_values": 1.0 },
+      "Passer rating:": { "tables": ["T799"], "avg_num_values": 1.0 },
+      "Rushing yards:": { "tables": ["T799"], "avg_num_values": 1.0 },
+      "Rushing touchdowns:": { "tables": ["T799"], "avg_num_values": 1.0 }
+    }
+  },
+  "Musician": {
+    "tables": [
+      "T1768",
+      "T435",
+      "T1534",
+      "T1847",
+      "T382",
+      "T331",
+      "T1664",
+      "T74",
+      "T348",
+      "T1267",
+      "T1626",
+      "T340",
+      "T137",
+      "T416",
+      "T370",
+      "T332",
+      "T1265",
+      "T372",
+      "T840",
+      "T1477",
+      "T20",
+      "T1457",
+      "T1601",
+      "T1134",
+      "T306",
+      "T729",
+      "T422",
+      "T104",
+      "T761",
+      "T1444",
+      "T68",
+      "T272",
+      "T828",
+      "T680",
+      "T29",
+      "T1706",
+      "T1696"
+    ],
+    "keys": {
+      "Also known as": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T137",
+          "T306",
+          "T761",
+          "T680",
+          "T29",
+          "T1706"
+        ],
+        "avg_num_values": 2.125
+      },
+      "Origin": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T137",
+          "T370",
+          "T332",
+          "T840",
+          "T20",
+          "T1601",
+          "T1134",
+          "T306",
+          "T729",
+          "T104",
+          "T761",
+          "T1444",
+          "T68",
+          "T680",
+          "T29",
+          "T1696"
+        ],
+        "avg_num_values": 1.1111111111111112
+      },
+      "Genres": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T1534",
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T340",
+          "T137",
+          "T416",
+          "T370",
+          "T332",
+          "T1265",
+          "T840",
+          "T1477",
+          "T20",
+          "T1457",
+          "T1601",
+          "T1134",
+          "T306",
+          "T729",
+          "T422",
+          "T104",
+          "T761",
+          "T1444",
+          "T68",
+          "T272",
+          "T828",
+          "T680",
+          "T29",
+          "T1706",
+          "T1696"
+        ],
+        "avg_num_values": 3.4444444444444446
+      },
+      "Years active": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T1534",
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T340",
+          "T137",
+          "T416",
+          "T370",
+          "T332",
+          "T1265",
+          "T840",
+          "T1477",
+          "T20",
+          "T1457",
+          "T1601",
+          "T1134",
+          "T306",
+          "T729",
+          "T422",
+          "T104",
+          "T761",
+          "T1444",
+          "T68",
+          "T272",
+          "T828",
+          "T680",
+          "T29",
+          "T1706",
+          "T1696"
+        ],
+        "avg_num_values": 1.1944444444444444
+      },
+      "Labels": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T137",
+          "T370",
+          "T332",
+          "T1265",
+          "T840",
+          "T1477",
+          "T20",
+          "T1601",
+          "T1134",
+          "T306",
+          "T729",
+          "T422",
+          "T104",
+          "T761",
+          "T1444",
+          "T68",
+          "T272",
+          "T828",
+          "T680",
+          "T29",
+          "T1706",
+          "T1696"
+        ],
+        "avg_num_values": 4.1875
+      },
+      "Associated acts": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T1847",
+          "T382",
+          "T1267",
+          "T137",
+          "T416",
+          "T332",
+          "T1265",
+          "T840",
+          "T1477",
+          "T20",
+          "T306",
+          "T729",
+          "T422",
+          "T104",
+          "T761",
+          "T1444",
+          "T68",
+          "T272",
+          "T828",
+          "T680",
+          "T1706",
+          "T1696"
+        ],
+        "avg_num_values": 5.666666666666667
+      },
+      "Website": {
+        "tables": [
+          "T1768",
+          "T435",
+          "T1534",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T137",
+          "T370",
+          "T332",
+          "T1265",
+          "T840",
+          "T1477",
+          "T20",
+          "T1601",
+          "T1134",
+          "T306",
+          "T729",
+          "T422",
+          "T1444",
+          "T828",
+          "T29",
+          "T1706",
+          "T1696"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Birth name": {
+        "tables": [
+          "T1534",
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T332",
+          "T1265",
+          "T372",
+          "T1477",
+          "T1457",
+          "T272",
+          "T1706"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Born": {
+        "tables": [
+          "T1534",
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T74",
+          "T348",
+          "T1267",
+          "T1626",
+          "T340",
+          "T416",
+          "T332",
+          "T1265",
+          "T372",
+          "T1477",
+          "T1457",
+          "T729",
+          "T422",
+          "T272",
+          "T828",
+          "T1706"
+        ],
+        "avg_num_values": 1.0476190476190477
+      },
+      "Medium": { "tables": ["T1534", "T1457"], "avg_num_values": 4.5 },
+      "Alma mater": {
+        "tables": ["T1534", "T1265", "T1457"],
+        "avg_num_values": 1.0
+      },
+      "Subject(s)": { "tables": ["T1534", "T1457"], "avg_num_values": 8.5 },
+      "Spouse": { "tables": ["T1534", "T1457"], "avg_num_values": 1.0 },
+      "Children": {
+        "tables": [
+          "T1534",
+          "T382",
+          "T348",
+          "T340",
+          "T416",
+          "T1265",
+          "T1477",
+          "T1457"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Occupation(s)": {
+        "tables": [
+          "T1847",
+          "T331",
+          "T1664",
+          "T74",
+          "T1267",
+          "T1626",
+          "T332",
+          "T1265",
+          "T729",
+          "T422",
+          "T272",
+          "T1706"
+        ],
+        "avg_num_values": 4.333333333333333
+      },
+      "Instruments": {
+        "tables": [
+          "T1847",
+          "T382",
+          "T331",
+          "T1664",
+          "T348",
+          "T1267",
+          "T1626",
+          "T340",
+          "T416",
+          "T1265",
+          "T1477",
+          "T729",
+          "T422",
+          "T272",
+          "T828",
+          "T1706"
+        ],
+        "avg_num_values": 3.25
+      },
+      "Spouse(s)": {
+        "tables": ["T382", "T348", "T340", "T416", "T1265", "T372", "T1477"],
+        "avg_num_values": 1.2857142857142858
+      },
+      "Relatives": { "tables": ["T382"], "avg_num_values": 1.0 },
+      "Ring name(s)": { "tables": ["T382"], "avg_num_values": 7.0 },
+      "Billed height": { "tables": ["T382"], "avg_num_values": 1.0 },
+      "Billed weight": { "tables": ["T382"], "avg_num_values": 1.0 },
+      "Billed from": { "tables": ["T382"], "avg_num_values": 1.0 },
+      "Trained by": { "tables": ["T382"], "avg_num_values": 2.0 },
+      "Debut": { "tables": ["T382"], "avg_num_values": 1.0 },
+      "Residence": {
+        "tables": ["T348", "T340", "T416", "T1477"],
+        "avg_num_values": 1.25
+      },
+      "Occupation": {
+        "tables": ["T348", "T340", "T416", "T1477", "T828"],
+        "avg_num_values": 3.4
+      },
+      "Home town": { "tables": ["T348", "T1477"], "avg_num_values": 1.0 },
+      "Partner(s)": { "tables": ["T348", "T416"], "avg_num_values": 1.0 },
+      "Died": { "tables": ["T1626", "T372", "T272"], "avg_num_values": 1.0 },
+      "Known for": { "tables": ["T340"], "avg_num_values": 2.0 },
+      "Education": { "tables": ["T1265", "T1477"], "avg_num_values": 1.0 },
+      "Awards": { "tables": ["T1265", "T1477", "T828"], "avg_num_values": 1.0 },
+      "Thesis": { "tables": ["T1265"], "avg_num_values": 1.0 },
+      "Doctoral advisor": { "tables": ["T1265"], "avg_num_values": 3.0 },
+      "Influences": { "tables": ["T1265"], "avg_num_values": 2.0 },
+      "Cause of death": { "tables": ["T372"], "avg_num_values": 1.0 },
+      "Resting place": { "tables": ["T372"], "avg_num_values": 1.0 },
+      "Other names": {
+        "tables": ["T372", "T1477", "T828"],
+        "avg_num_values": 2.0
+      },
+      "Net worth": { "tables": ["T1477"], "avg_num_values": 1.0 },
+      "Television": { "tables": ["T828"], "avg_num_values": 1.0 },
+      "Title": { "tables": ["T828"], "avg_num_values": 1.0 },
+      "Parent(s)": { "tables": ["T828"], "avg_num_values": 1.0 }
+    }
+  },
+  "Movie": {
+    "tables": [
+      "T848",
+      "T578",
+      "T1440",
+      "T1017",
+      "T667",
+      "T294",
+      "T1516",
+      "T1518",
+      "T1819",
+      "T1728",
+      "T1592",
+      "T2028",
+      "T1659",
+      "T433",
+      "T544",
+      "T928",
+      "T1031",
+      "T14"
+    ],
+    "keys": {
+      "Directed by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0625
+      },
+      "Produced by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 3.125
+      },
+      "Written by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T667",
+          "T294",
+          "T2028",
+          "T433",
+          "T544",
+          "T1031",
+          "T14"
+        ],
+        "avg_num_values": 1.3
+      },
+      "Starring": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 6.8125
+      },
+      "Music by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.125
+      },
+      "Cinematography": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Edited by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.25
+      },
+      "Production company": {
+        "tables": [
+          "T848",
+          "T1440",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1728",
+          "T1592",
+          "T1659",
+          "T544"
+        ],
+        "avg_num_values": 2.4444444444444446
+      },
+      "Distributed by": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.125
+      },
+      "Release date": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 2.0
+      },
+      "Running time": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1728",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Country": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.4375
+      },
+      "Language": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Budget": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0714285714285714
+      },
+      "Box office": {
+        "tables": [
+          "T848",
+          "T578",
+          "T1440",
+          "T1017",
+          "T667",
+          "T294",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T2028",
+          "T1659",
+          "T433",
+          "T544",
+          "T928",
+          "T14"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Production Company": {
+        "tables": ["T578", "T2028", "T14"],
+        "avg_num_values": 1.6666666666666667
+      },
+      "Screenplay by": {
+        "tables": [
+          "T1017",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1592",
+          "T1659",
+          "T928"
+        ],
+        "avg_num_values": 1.4285714285714286
+      },
+      "Based on": {
+        "tables": [
+          "T1017",
+          "T294",
+          "T1516",
+          "T1518",
+          "T1819",
+          "T1659",
+          "T433",
+          "T928"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Productioncompany": {
+        "tables": ["T1017", "T667"],
+        "avg_num_values": 1.5
+      },
+      "Production companies": {
+        "tables": ["T294", "T433", "T928"],
+        "avg_num_values": 3.0
+      },
+      "Story by": { "tables": ["T1516", "T1592"], "avg_num_values": 2.0 },
+      "Executive Producers": { "tables": ["T1728"], "avg_num_values": 2.0 },
+      "Editor(s)": { "tables": ["T1728"], "avg_num_values": 1.0 },
+      "Distributor": { "tables": ["T1728"], "avg_num_values": 2.0 },
+      "Narrated by": { "tables": ["T928"], "avg_num_values": 1.0 },
+      "Published by": { "tables": ["T1031"], "avg_num_values": 1.0 },
+      "English publisher": { "tables": ["T1031"], "avg_num_values": 1.0 },
+      "Demographic": { "tables": ["T1031"], "avg_num_values": 1.0 },
+      "Magazine": { "tables": ["T1031"], "avg_num_values": 1.0 },
+      "Original run": { "tables": ["T1031"], "avg_num_values": 1.0 },
+      "Volumes": { "tables": ["T1031"], "avg_num_values": 1.0 }
+    }
+  },
+  "Country": {
+    "tables": [
+      "T1917",
+      "T261",
+      "T319",
+      "T203",
+      "T982",
+      "T323",
+      "T829",
+      "T1406",
+      "T885",
+      "T702",
+      "T12",
+      "T2032",
+      "T447",
+      "T831",
+      "T440",
+      "T947",
+      "T787",
+      "T405"
+    ],
+    "keys": {
+      "Capital and largest city": {
+        "tables": ["T1917", "T203", "T12"],
+        "avg_num_values": 1.0
+      },
+      "Official languages": {
+        "tables": ["T1917", "T203", "T12", "T947", "T787", "T405"],
+        "avg_num_values": 1.8333333333333333
+      },
+      "Religion": {
+        "tables": ["T1917", "T203", "T829", "T12", "T2032", "T947"],
+        "avg_num_values": 3.5
+      },
+      "Demonym(s)": {
+        "tables": [
+          "T1917",
+          "T319",
+          "T203",
+          "T982",
+          "T12",
+          "T2032",
+          "T440",
+          "T947",
+          "T787",
+          "T405"
+        ],
+        "avg_num_values": 1.2
+      },
+      "Government": {
+        "tables": [
+          "T1917",
+          "T261",
+          "T319",
+          "T203",
+          "T982",
+          "T829",
+          "T1406",
+          "T12",
+          "T2032",
+          "T440",
+          "T947",
+          "T787",
+          "T405"
+        ],
+        "avg_num_values": 1.0
+      },
+      "President ": {
+        "tables": ["T1917", "T319", "T405"],
+        "avg_num_values": 1.0
+      },
+      "Prime Minister ": {
+        "tables": ["T1917", "T319", "T203", "T12"],
+        "avg_num_values": 1.0
+      },
+      "Speakers of the Council of Representatives ": {
+        "tables": ["T1917"],
+        "avg_num_values": 1.0
+      },
+      "Chief Justice ": { "tables": ["T1917", "T203"], "avg_num_values": 1.0 },
+      "Legislature": {
+        "tables": [
+          "T1917",
+          "T319",
+          "T203",
+          "T982",
+          "T829",
+          "T12",
+          "T2032",
+          "T440",
+          "T947",
+          "T787",
+          "T405"
+        ],
+        "avg_num_values": 1.0909090909090908
+      },
+      "Capital": {
+        "tables": ["T261", "T829", "T1406", "T2032", "T405"],
+        "avg_num_values": 2.4
+      },
+      "Common languages": {
+        "tables": ["T261", "T829", "T1406"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Emperor": { "tables": ["T261"], "avg_num_values": 2.0 },
+      "Establishment ": { "tables": ["T261"], "avg_num_values": 1.0 },
+      "Reunification of China under Jin rule ": {
+        "tables": ["T261"],
+        "avg_num_values": 1.0
+      },
+      "Jin evacuates to region south of the Huai River, Eastern Jin begins ": {
+        "tables": ["T261"],
+        "avg_num_values": 1.0
+      },
+      "Abdication to Liu Song ": { "tables": ["T261"], "avg_num_values": 1.0 },
+      "Religion (2011)": { "tables": ["T319"], "avg_num_values": 5.0 },
+      "Official language": { "tables": ["T319"], "avg_num_values": 1.0 },
+      "Upper house": {
+        "tables": ["T319", "T203", "T982", "T2032", "T440", "T405"],
+        "avg_num_values": 1.0
+      },
+      "Lower house": {
+        "tables": ["T319", "T203", "T982", "T2032", "T440", "T405"],
+        "avg_num_values": 1.0
+      },
+      "National language": {
+        "tables": ["T203", "T982", "T440"],
+        "avg_num_values": 1.0
+      },
+      "Ethnic groups (2011)": { "tables": ["T203"], "avg_num_values": 4.0 },
+      "Emperor ": { "tables": ["T203"], "avg_num_values": 1.0 },
+      "Crown Prince ": { "tables": ["T203"], "avg_num_values": 1.0 },
+      "Deputy Prime Minister ": { "tables": ["T203"], "avg_num_values": 1.0 },
+      "Speaker of the House of Representatives ": {
+        "tables": ["T203"],
+        "avg_num_values": 1.0
+      },
+      "President of the House of Councillors ": {
+        "tables": ["T203"],
+        "avg_num_values": 1.0
+      },
+      "Spanish:": { "tables": ["T982", "T440"], "avg_num_values": 1.0 },
+      "Capitaland largest city": {
+        "tables": ["T982", "T440", "T947", "T787"],
+        "avg_num_values": 1.0
+      },
+      "Ethnic groups  (2012)": {
+        "tables": ["T982", "T440", "T787"],
+        "avg_num_values": 4.333333333333333
+      },
+      "President": {
+        "tables": ["T982", "T829", "T2032", "T440", "T947", "T787"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Senate President": { "tables": ["T982", "T440"], "avg_num_values": 1.0 },
+      "President of the Chamber of Deputies": {
+        "tables": ["T982", "T440"],
+        "avg_num_values": 1.0
+      },
+      "Duchy of Bohemia ": { "tables": ["T323"], "avg_num_values": 1.0 },
+      "Kingdom of Bohemia ": { "tables": ["T323"], "avg_num_values": 1.0 },
+      "Czechoslovakia (Independence from Austria-Hungary)": {
+        "tables": ["T323"],
+        "avg_num_values": 1.0
+      },
+      "Federalization of Czechoslovakia (Czech Socialist Republic)": {
+        "tables": ["T323"],
+        "avg_num_values": 1.0
+      },
+      "Czech Republic became independent ": {
+        "tables": ["T323"],
+        "avg_num_values": 1.0
+      },
+      "Joined the European Union": {
+        "tables": ["T323"],
+        "avg_num_values": 1.0
+      },
+      "Status": { "tables": ["T829", "T702"], "avg_num_values": 1.0 },
+      "High Commissioner": { "tables": ["T829"], "avg_num_values": 4.0 },
+      "Vice President": { "tables": ["T829", "T2032"], "avg_num_values": 1.5 },
+      "Historical era": { "tables": ["T829"], "avg_num_values": 1.0 },
+      "Tydings-McDuffie Act": { "tables": ["T829"], "avg_num_values": 1.0 },
+      "Independence": { "tables": ["T829"], "avg_num_values": 1.0 },
+      "Treaty of Manila": { "tables": ["T829"], "avg_num_values": 1.0 },
+      "Khan": { "tables": ["T1406"], "avg_num_values": 2.0 },
+      "Established ": { "tables": ["T1406"], "avg_num_values": 1.0 },
+      "Disestablished ": { "tables": ["T1406"], "avg_num_values": 1.0 },
+      "Capital City": { "tables": ["T885"], "avg_num_values": 1.0 },
+      "Metro": { "tables": ["T885"], "avg_num_values": 1.0 },
+      "Elevation": { "tables": ["T885"], "avg_num_values": 1.0 },
+      "Highest elevation": { "tables": ["T885"], "avg_num_values": 1.0 },
+      "Lowest elevation": { "tables": ["T885"], "avg_num_values": 1.0 },
+      "Sovereign state": { "tables": ["T702"], "avg_num_values": 1.0 },
+      "Country": { "tables": ["T702"], "avg_num_values": 1.0 },
+      "Region": { "tables": ["T702"], "avg_num_values": 1.0 },
+      "Roman settlement": { "tables": ["T702"], "avg_num_values": 1.0 },
+      "Wessex resettlement": { "tables": ["T702"], "avg_num_values": 1.0 },
+      "Wards": { "tables": ["T702"], "avg_num_values": 25.0 },
+      "Monarch ": { "tables": ["T12"], "avg_num_values": 1.0 },
+      "High Commissioner ": { "tables": ["T12"], "avg_num_values": 1.0 },
+      "Largest city": { "tables": ["T2032", "T405"], "avg_num_values": 1.0 },
+      "Official language and national language": {
+        "tables": ["T2032"],
+        "avg_num_values": 1.0
+      },
+      "Regional languages": { "tables": ["T2032"], "avg_num_values": 1.0 },
+      "Ethnic groups": { "tables": ["T2032", "T947"], "avg_num_values": 3.0 },
+      "DPR Speaker": { "tables": ["T2032"], "avg_num_values": 1.0 },
+      "Chief Justice": { "tables": ["T2032"], "avg_num_values": 1.0 },
+      "First imperial unification ": {
+        "tables": ["T447"],
+        "avg_num_values": 1.0
+      },
+      "Republic established ": { "tables": ["T447"], "avg_num_values": 1.0 },
+      "People's Republic declared ": {
+        "tables": ["T447"],
+        "avg_num_values": 1.0
+      },
+      "Proclamation of the People's Republic ": {
+        "tables": ["T447"],
+        "avg_num_values": 1.0
+      },
+      "Current constitution ": { "tables": ["T447"], "avg_num_values": 1.0 },
+      "Last polity admitted ": { "tables": ["T447"], "avg_num_values": 1.0 },
+      "Discovery by Portuguese explorers": {
+        "tables": ["T831"],
+        "avg_num_values": 1.0
+      },
+      "Ngazidja, Ndzuwani, Mwali under French rule": {
+        "tables": ["T831"],
+        "avg_num_values": 1.0
+      },
+      "Protectorate of the Comoros": {
+        "tables": ["T831"],
+        "avg_num_values": 1.0
+      },
+      "Territory under French Madagascar": {
+        "tables": ["T831"],
+        "avg_num_values": 1.0
+      },
+      "Overseas territory": { "tables": ["T831"], "avg_num_values": 1.0 },
+      "State of Comoros": { "tables": ["T831"], "avg_num_values": 1.0 },
+      "Independence from France": { "tables": ["T831"], "avg_num_values": 1.0 },
+      "Federal and Islamic Republic of Comoros": {
+        "tables": ["T831"],
+        "avg_num_values": 1.0
+      },
+      "Union of the Comoros": { "tables": ["T831"], "avg_num_values": 1.0 },
+      "Current constitution": { "tables": ["T831"], "avg_num_values": 1.0 },
+      "Vice-President": { "tables": ["T947"], "avg_num_values": 1.0 },
+      "First Secretary of the Communist Party": {
+        "tables": ["T787"],
+        "avg_num_values": 1.0
+      },
+      "First Vice President": { "tables": ["T787"], "avg_num_values": 1.0 },
+      "Second Secretary of the Communist Party": {
+        "tables": ["T787"],
+        "avg_num_values": 1.0
+      },
+      "President of the National Assembly": {
+        "tables": ["T787"],
+        "avg_num_values": 1.0
+      },
+      "Ethinic groups": { "tables": ["T405"], "avg_num_values": 5.0 },
+      "1st Vice-President ": { "tables": ["T405"], "avg_num_values": 1.0 },
+      "2nd Vice-President ": { "tables": ["T405"], "avg_num_values": 1.0 }
+    }
+  },
+  "City": {
+    "tables": [
+      "T1002",
+      "T822",
+      "T662",
+      "T899",
+      "T974",
+      "T1668",
+      "T910",
+      "T1443",
+      "T940",
+      "T1047",
+      "T1861",
+      "T310",
+      "T536",
+      "T1212",
+      "T1557",
+      "T1888"
+    ],
+    "keys": {
+      "Type": { "tables": ["T1002", "T1888"], "avg_num_values": 1.0 },
+      "Body": { "tables": ["T1002"], "avg_num_values": 1.0 },
+      "President": { "tables": ["T1002"], "avg_num_values": 1.0 },
+      "Legislature": { "tables": ["T1002"], "avg_num_values": 1.0 },
+      "Congress of Deputies": { "tables": ["T1002"], "avg_num_values": 1.0 },
+      "Senate": { "tables": ["T1002"], "avg_num_values": 1.0 },
+      "Country": { "tables": ["T822", "T1443", "T536"], "avg_num_values": 1.0 },
+      "State": { "tables": ["T822", "T536"], "avg_num_values": 1.0 },
+      "County": { "tables": ["T822"], "avg_num_values": 1.0 },
+      "Founded": { "tables": ["T822", "T536"], "avg_num_values": 1.0 },
+      "Named for": {
+        "tables": ["T822", "T310", "T536"],
+        "avg_num_values": 1.0
+      },
+      "City": { "tables": ["T662", "T974"], "avg_num_values": 1.0 },
+      "Land": { "tables": ["T662", "T974"], "avg_num_values": 1.0 },
+      "Water": { "tables": ["T662", "T974"], "avg_num_values": 1.0 },
+      "Urban": { "tables": ["T662", "T974"], "avg_num_values": 1.0 },
+      "Metro": {
+        "tables": ["T662", "T899", "T974", "T1047"],
+        "avg_num_values": 1.0
+      },
+      "Elevation": { "tables": ["T662", "T899"], "avg_num_values": 1.0 },
+      "Prefecture-level & Sub-provincial city": {
+        "tables": ["T899"],
+        "avg_num_values": 1.0
+      },
+      "Urban (2018)": { "tables": ["T899", "T1047"], "avg_num_values": 1.0 },
+      "Downtown": { "tables": ["T899"], "avg_num_values": 1.0 },
+      "Highest elevation": { "tables": ["T899"], "avg_num_values": 1.0 },
+      "Lowest elevation": { "tables": ["T899"], "avg_num_values": 1.0 },
+      "Elevation (mean)": { "tables": ["T974"], "avg_num_values": 1.0 },
+      "Highest elevation- near Blue Island": {
+        "tables": ["T974"],
+        "avg_num_values": 1.0
+      },
+      "Lowest elevation- at Lake Michigan": {
+        "tables": ["T974"],
+        "avg_num_values": 1.0
+      },
+      "Jewish": { "tables": ["T1668"], "avg_num_values": 1.0 },
+      "Arab": { "tables": ["T1668"], "avg_num_values": 1.0 },
+      "others": { "tables": ["T1668"], "avg_num_values": 1.0 },
+      "Time zone": { "tables": ["T1668", "T910"], "avg_num_values": 1.0 },
+      "Summer (DST)": { "tables": ["T1668", "T910"], "avg_num_values": 1.0 },
+      "Postal code": { "tables": ["T1668", "T910"], "avg_num_values": 1.0 },
+      "Area code": { "tables": ["T1668"], "avg_num_values": 1.0 },
+      "HDI (2017)": { "tables": ["T1668"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1668", "T910", "T940"], "avg_num_values": 1.0 },
+      "Total": { "tables": ["T910", "T940"], "avg_num_values": 1.0 },
+      "Density": { "tables": ["T910", "T940", "T1047"], "avg_num_values": 1.0 },
+      "Demonym(s)": { "tables": ["T910"], "avg_num_values": 1.0 },
+      "Dialing code": { "tables": ["T910"], "avg_num_values": 1.0 },
+      "ISTAT code": { "tables": ["T910"], "avg_num_values": 1.0 },
+      "Patron saint": { "tables": ["T910"], "avg_num_values": 1.0 },
+      "Saint day": { "tables": ["T910"], "avg_num_values": 1.0 },
+      "Province": { "tables": ["T1443"], "avg_num_values": 1.0 },
+      "Metropolitan Corporation": {
+        "tables": ["T1443"],
+        "avg_num_values": 1.0
+      },
+      "City Council": { "tables": ["T1443"], "avg_num_values": 1.0 },
+      "Districts": { "tables": ["T1443"], "avg_num_values": 6.0 },
+      "Postal codes": { "tables": ["T940"], "avg_num_values": 1.0 },
+      "Area codes": { "tables": ["T940"], "avg_num_values": 1.0 },
+      "Prefecture-level city": { "tables": ["T1047"], "avg_num_values": 1.0 },
+      "Urban density": { "tables": ["T1047"], "avg_num_values": 1.0 },
+      "Rank in China": { "tables": ["T1047"], "avg_num_values": 1.0 },
+      "Settlement ": { "tables": ["T1861"], "avg_num_values": 1.0 },
+      "Commonwealth Founding of the Althing": {
+        "tables": ["T1861"],
+        "avg_num_values": 1.0
+      },
+      "Union with Norway Signing of the Old Covenant": {
+        "tables": ["T1861"],
+        "avg_num_values": 1.0
+      },
+      "Kalmar Union ": { "tables": ["T1861"], "avg_num_values": 1.0 },
+      "Denmark-Norway ": { "tables": ["T1861"], "avg_num_values": 1.0 },
+      "Treaty of Kiel Ceded to Denmark": {
+        "tables": ["T1861"],
+        "avg_num_values": 1.0
+      },
+      "Constitution and limited home rule Minister for Iceland appointed": {
+        "tables": ["T1861"],
+        "avg_num_values": 1.0
+      },
+      "Extended home rule ": { "tables": ["T1861"], "avg_num_values": 1.0 },
+      "Sovereignty Danish\u2013Icelandic Act of Union": {
+        "tables": ["T1861"],
+        "avg_num_values": 1.0
+      },
+      "Republic ": { "tables": ["T1861"], "avg_num_values": 1.0 },
+      "Island": { "tables": ["T310"], "avg_num_values": 1.0 },
+      "Region": { "tables": ["T310"], "avg_num_values": 1.0 },
+      "Territorial authority": { "tables": ["T310"], "avg_num_values": 1.0 },
+      "Wards": { "tables": ["T310"], "avg_num_values": 16.0 },
+      "Settled by the UK": { "tables": ["T310"], "avg_num_values": 1.0 },
+      "City and County": { "tables": ["T536"], "avg_num_values": 1.0 },
+      "Incorporated": { "tables": ["T536"], "avg_num_values": 1.0 },
+      "Consolidated": { "tables": ["T536"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Nearest city": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Coordinates": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Area": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Established": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Visitors": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Governing body": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Part of": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Criteria": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Reference": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Inscription": { "tables": ["T1212"], "avg_num_values": 1.0 },
+      "Claimed by": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "Palestinian governorate": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "Gihon Spring settlement": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "City of David": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "Present Old City walls built": {
+        "tables": ["T1557"],
+        "avg_num_values": 1.0
+      },
+      "East-West Jerusalem division": {
+        "tables": ["T1557"],
+        "avg_num_values": 1.0
+      },
+      "Reunification": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "Jerusalem Law": { "tables": ["T1557"], "avg_num_values": 1.0 },
+      "City council": { "tables": ["T1888"], "avg_num_values": 7.0 },
+      "City attorney": { "tables": ["T1888"], "avg_num_values": 1.0 },
+      "City treasurer": { "tables": ["T1888"], "avg_num_values": 1.0 },
+      "City clerk": { "tables": ["T1888"], "avg_num_values": 1.0 }
+    }
+  },
+  "Painting": {
+    "tables": [
+      "T738",
+      "T1010",
+      "T794",
+      "T1784",
+      "T1473",
+      "T1618",
+      "T1491",
+      "T64"
+    ],
+    "keys": {
+      "Workmaster": { "tables": ["T738"], "avg_num_values": 1.0 },
+      "Materials used": { "tables": ["T738"], "avg_num_values": 5.0 },
+      "Height": { "tables": ["T738"], "avg_num_values": 1.0 },
+      "Surprise": { "tables": ["T738"], "avg_num_values": 1.0 },
+      "Italian name": { "tables": ["T1010"], "avg_num_values": 1.0 },
+      "Artist": {
+        "tables": ["T1010", "T794", "T1784", "T1473", "T1618", "T1491", "T64"],
+        "avg_num_values": 1.0
+      },
+      "Year": {
+        "tables": ["T1010", "T794", "T1784", "T1473", "T1618", "T1491", "T64"],
+        "avg_num_values": 1.0
+      },
+      "Medium": {
+        "tables": ["T1010", "T794", "T1784", "T1618", "T1491", "T64"],
+        "avg_num_values": 1.0
+      },
+      "Dimensions": {
+        "tables": ["T1010", "T794", "T1784", "T1473", "T1618", "T1491", "T64"],
+        "avg_num_values": 1.0
+      },
+      "Location": {
+        "tables": ["T1010", "T794", "T1784", "T1473", "T1618", "T1491", "T64"],
+        "avg_num_values": 1.0
+      },
+      "Type": { "tables": ["T1473"], "avg_num_values": 1.0 }
+    }
+  },
+  "Animal": {
+    "tables": [
+      "T758",
+      "T1598",
+      "T1635",
+      "T1791",
+      "T1390",
+      "T797",
+      "T1179",
+      "T554"
+    ],
+    "keys": {
+      "Country": {
+        "tables": ["T758", "T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Breed": { "tables": ["T758", "T1598", "T1791"], "avg_num_values": 1.0 },
+      "Brand": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Sex": {
+        "tables": ["T758", "T1635", "T1791", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Color": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Weight": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Born": { "tables": ["T758", "T1598", "T1791"], "avg_num_values": 1.0 },
+      "Years active": { "tables": ["T758", "T1598"], "avg_num_values": 1.0 },
+      "Sire": {
+        "tables": ["T758", "T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Paternal grandsire": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Paternal granddam": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Dam": {
+        "tables": ["T758", "T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Maternal grandsire": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Maternal granddam": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Breeder": {
+        "tables": ["T758", "T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Owner": {
+        "tables": ["T758", "T1635", "T1791", "T797", "T1179", "T554"],
+        "avg_num_values": 1.1666666666666667
+      },
+      "Notable riders": { "tables": ["T758"], "avg_num_values": 1.0 },
+      "Species": { "tables": ["T1598", "T1791"], "avg_num_values": 1.0 },
+      "Other names": { "tables": ["T1598"], "avg_num_values": 1.0 },
+      "Died": {
+        "tables": ["T1598", "T1635", "T1791", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Resting place": { "tables": ["T1598"], "avg_num_values": 1.0 },
+      "Occupation": { "tables": ["T1598", "T1791"], "avg_num_values": 1.0 },
+      "Employer": { "tables": ["T1598"], "avg_num_values": 1.0 },
+      "Known for": { "tables": ["T1598", "T1791"], "avg_num_values": 1.0 },
+      "Appearance": { "tables": ["T1598"], "avg_num_values": 1.0 },
+      "Awards": { "tables": ["T1598"], "avg_num_values": 1.0 },
+      "Grandsire": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Damsire": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Foaled": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Colour": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Trainer": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Record": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.4
+      },
+      "Earnings": {
+        "tables": ["T1635", "T1390", "T797", "T1179", "T554"],
+        "avg_num_values": 1.0
+      },
+      "Nation from": { "tables": ["T1791"], "avg_num_values": 1.0 },
+      "Parent(s)": { "tables": ["T1791"], "avg_num_values": 1.0 },
+      "Named after": { "tables": ["T1791"], "avg_num_values": 1.0 }
+    }
+  },
+  "Food&Drink": {
+    "tables": [
+      "T733",
+      "T778",
+      "T534",
+      "T557",
+      "T207",
+      "T1508",
+      "T581",
+      "T1702"
+    ],
+    "keys": {
+      "Type": {
+        "tables": [
+          "T733",
+          "T778",
+          "T534",
+          "T557",
+          "T207",
+          "T1508",
+          "T581",
+          "T1702"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Manufacturer": {
+        "tables": [
+          "T733",
+          "T778",
+          "T534",
+          "T557",
+          "T207",
+          "T1508",
+          "T581",
+          "T1702"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Country of origin": {
+        "tables": ["T733", "T778", "T534", "T557", "T1508", "T581", "T1702"],
+        "avg_num_values": 1.0
+      },
+      "Introduced": {
+        "tables": [
+          "T733",
+          "T778",
+          "T534",
+          "T557",
+          "T207",
+          "T1508",
+          "T581",
+          "T1702"
+        ],
+        "avg_num_values": 1.0
+      },
+      "Variants": {
+        "tables": ["T733", "T534", "T557", "T207", "T1702"],
+        "avg_num_values": 5.2
+      },
+      "Related products": {
+        "tables": ["T733", "T534", "T557", "T1508", "T581"],
+        "avg_num_values": 2.2
+      },
+      "Alcohol by volume": {
+        "tables": ["T778", "T581"],
+        "avg_num_values": 1.0
+      },
+      "Proof (US)": {
+        "tables": ["T778", "T534", "T581"],
+        "avg_num_values": 1.0
+      },
+      "Color": { "tables": ["T778"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T778"], "avg_num_values": 1.0 },
+      "Colour": { "tables": ["T557"], "avg_num_values": 1.0 },
+      "Discontinued": { "tables": ["T1508"], "avg_num_values": 1.0 },
+      "Flavour": { "tables": ["T1702"], "avg_num_values": 7.0 }
+    }
+  },
+  "Album": {
+    "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+    "keys": {
+      "Released": {
+        "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+        "avg_num_values": 1.0
+      },
+      "Recorded": {
+        "tables": ["T811", "T13", "T709", "T805", "T785", "T720"],
+        "avg_num_values": 1.0
+      },
+      "Genre": {
+        "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+        "avg_num_values": 2.7142857142857144
+      },
+      "Length": {
+        "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+        "avg_num_values": 1.1428571428571428
+      },
+      "Label": {
+        "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+        "avg_num_values": 2.142857142857143
+      },
+      "Producer": {
+        "tables": ["T811", "T13", "T709", "T805", "T1788", "T785", "T720"],
+        "avg_num_values": 7.571428571428571
+      },
+      "Studio": { "tables": ["T709", "T785", "T720"], "avg_num_values": 5.0 }
+    }
+  },
+  "Book": {
+    "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+    "keys": {
+      "Publisher": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+        "avg_num_values": 1.0
+      },
+      "Schedule": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+        "avg_num_values": 1.0
+      },
+      "Format": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+        "avg_num_values": 1.0
+      },
+      "Genre": {
+        "tables": ["T1412", "T749", "T1875"],
+        "avg_num_values": 1.3333333333333333
+      },
+      "Publication date": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+        "avg_num_values": 1.0
+      },
+      "Main character(s)": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T1875"],
+        "avg_num_values": 4.0
+      },
+      "No. of issues": {
+        "tables": ["T1412", "T1882", "T535", "T839", "T749", "T1875"],
+        "avg_num_values": 2.1666666666666665
+      }
+    }
+  },
+  "Sports Event": {
+    "tables": ["T745", "T816", "T746"],
+    "keys": {
+      "Venue": { "tables": ["T745", "T816", "T746"], "avg_num_values": 1.0 },
+      "Dates": { "tables": ["T745", "T816", "T746"], "avg_num_values": 1.0 },
+      "Competitors": {
+        "tables": ["T745", "T816", "T746"],
+        "avg_num_values": 1.0
+      },
+      "Winning time": { "tables": ["T745"], "avg_num_values": 1.0 },
+      "No. of events": { "tables": ["T816", "T746"], "avg_num_values": 1.0 }
+    }
+  },
+  "University": {
+    "tables": ["T1131", "T1369", "T1311"],
+    "keys": {
+      "Motto": { "tables": ["T1131", "T1369", "T1311"], "avg_num_values": 1.0 },
+      "Type": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Established": {
+        "tables": ["T1131", "T1369", "T1311"],
+        "avg_num_values": 1.0
+      },
+      "Academic affiliations": {
+        "tables": ["T1131", "T1369"],
+        "avg_num_values": 4.0
+      },
+      "Endowment": { "tables": ["T1131"], "avg_num_values": 1.0 },
+      "President": {
+        "tables": ["T1131", "T1369", "T1311"],
+        "avg_num_values": 1.0
+      },
+      "Provost": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Academic staff": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Administrative staff": {
+        "tables": ["T1131", "T1369"],
+        "avg_num_values": 1.0
+      },
+      "Students": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Undergraduates": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Postgraduates": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Location": {
+        "tables": ["T1131", "T1369", "T1311"],
+        "avg_num_values": 1.0
+      },
+      "Campus": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Colors": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Nickname": { "tables": ["T1131", "T1369"], "avg_num_values": 1.0 },
+      "Sporting affiliations": {
+        "tables": ["T1131", "T1369"],
+        "avg_num_values": 1.0
+      },
+      "Mascot": { "tables": ["T1131"], "avg_num_values": 1.0 },
+      "Website": {
+        "tables": ["T1131", "T1369", "T1311"],
+        "avg_num_values": 1.0
+      },
+      "Motto in English": { "tables": ["T1369"], "avg_num_values": 1.0 },
+      "Budget": { "tables": ["T1369", "T1311"], "avg_num_values": 1.0 },
+      "Chairman": { "tables": ["T1369"], "avg_num_values": 1.0 },
+      "Founder": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Focus": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Headquarters": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Members": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Owner": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Chief Executive": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Key people": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Subsidiaries": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Staff": { "tables": ["T1311"], "avg_num_values": 1.0 },
+      "Formerly called": { "tables": ["T1311"], "avg_num_values": 1.0 }
+    }
+  },
+  "Organization": {
+    "tables": ["T1395", "T1287"],
+    "keys": {
+      "Place": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Local authority": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Grid reference": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Station code": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Managed by": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Number of platforms": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "DfT category": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "PTE": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Zone": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Original company": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Pre-grouping": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "Post-grouping": { "tables": ["T1395"], "avg_num_values": 1.0 },
+      "15 September 1830 (1830-09-15)": {
+        "tables": ["T1395"],
+        "avg_num_values": 1.0
+      },
+      "Type": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Industry": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Founded": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Headquarters": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Products": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Services": { "tables": ["T1287"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1287"], "avg_num_values": 1.0 }
+    }
+  },
+  "Sports": {
+    "tables": ["T543", "T1164"],
+    "keys": {
+      "Country": { "tables": ["T543", "T1164"], "avg_num_values": 1.0 },
+      "Single match": { "tables": ["T543"], "avg_num_values": 1.0 },
+      "Season": { "tables": ["T543"], "avg_num_values": 3.0 },
+      "Sport": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Competition": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Local name": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Presented by": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "First award": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Editions": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "First winner": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Most wins": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Most recent": { "tables": ["T1164"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1164"], "avg_num_values": 1.0 }
+    }
+  },
+  "Event": {
+    "tables": ["T791", "T790"],
+    "keys": {
+      "Date": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Time": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Duration": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Venue": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Coordinates": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Also known as": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Type": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Cause": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Participants": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Death(s)": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Non-fatal injuries": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Property damage": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Suspect(s)": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Charges": { "tables": ["T791"], "avg_num_values": 1.0 },
+      "Declaration of Independence": {
+        "tables": ["T790"],
+        "avg_num_values": 1.0
+      },
+      "War of Independence": { "tables": ["T790"], "avg_num_values": 1.0 },
+      "Recognized (handed over from Spain to the United States)": {
+        "tables": ["T790"],
+        "avg_num_values": 1.0
+      },
+      "Republic declared (independence from United States)": {
+        "tables": ["T790"],
+        "avg_num_values": 1.0
+      },
+      "Cuban Revolution": { "tables": ["T790"], "avg_num_values": 1.0 },
+      "Current constitution": { "tables": ["T790"], "avg_num_values": 1.0 }
+    }
+  },
+  "Planet": {
+    "tables": ["T1586", "T1456"],
+    "keys": {
+      "Star": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Constellation": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Right ascension": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Declination": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Distance": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Spectral type": { "tables": ["T1586"], "avg_num_values": 1.0 },
+      "Aphelion": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Perihelion": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Semi-major axis": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Eccentricity": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Orbital period": { "tables": ["T1456"], "avg_num_values": 3.0 },
+      "Synodic period": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Average orbital speed": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Mean anomaly": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Inclination": { "tables": ["T1456"], "avg_num_values": 3.0 },
+      "Longitude of ascending node": {
+        "tables": ["T1456"],
+        "avg_num_values": 1.0
+      },
+      "Argument of perihelion": { "tables": ["T1456"], "avg_num_values": 1.0 },
+      "Known satellites": { "tables": ["T1456"], "avg_num_values": 1.0 }
+    }
+  },
+  "Games": {
+    "tables": ["T458", "T1241"],
+    "keys": {
+      "Alternative names": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Type": { "tables": ["T458", "T1241"], "avg_num_values": 1.0 },
+      "Players": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Skills required": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Cards": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Deck": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Play": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Card rank (highest first)": {
+        "tables": ["T458"],
+        "avg_num_values": 1.0
+      },
+      "Playing time": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Random chance": { "tables": ["T458"], "avg_num_values": 1.0 },
+      "Also known as": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Manufacturer": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Generation": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Release date": { "tables": ["T1241"], "avg_num_values": 3.0 },
+      "Lifespan": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Introductory price": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Discontinued": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Units sold": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Media": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "CPU": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Memory": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Controller input": { "tables": ["T1241"], "avg_num_values": 5.0 },
+      "Best-selling game": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Predecessor": { "tables": ["T1241"], "avg_num_values": 1.0 },
+      "Successor": { "tables": ["T1241"], "avg_num_values": 1.0 }
+    }
+  },
+  "Airport": {
+    "tables": ["T1177"],
+    "keys": {
+      "Airport type": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Owner": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Operator": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Serves": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Location": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Opened": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Hub for": { "tables": ["T1177"], "avg_num_values": 3.0 },
+      "Focus city for": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Time zone": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Summer (DST)": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Elevation AMSL": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Coordinates": { "tables": ["T1177"], "avg_num_values": 1.0 },
+      "Website": { "tables": ["T1177"], "avg_num_values": 1.0 }
+    }
+  },
+  "Diseases": { "tables": [], "keys": {} },
+  "Festival": { "tables": [], "keys": {} },
+  "Bus/Train Lines": { "tables": [], "keys": {} },
+  "Exams": { "tables": [], "keys": {} },
+  "Sport": { "tables": [], "keys": {} },
+  "Aircraft": { "tables": [], "keys": {} },
+  "Element": { "tables": [], "keys": {} },
+  "Bridge": { "tables": [], "keys": {} },
+  "Food&Drinks": { "tables": [], "keys": {} },
+  "Product": { "tables": [], "keys": {} },
+  "Game": { "tables": [], "keys": {} },
+  "Architecture": { "tables": [], "keys": {} },
+  "Air crash": { "tables": [], "keys": {} },
+  "Earthquakes": { "tables": [], "keys": {} },
+  "Smartphone": { "tables": [], "keys": {} },
+  "Awards": { "tables": [], "keys": {} },
+  "Food": { "tables": [], "keys": {} },
+  "Computer": { "tables": [], "keys": {} },
+  "Occupation": { "tables": [], "keys": {} },
+  "Restaurant": { "tables": [], "keys": {} },
+  "WineYard": { "tables": [], "keys": {} },
+  "Engines": { "tables": [], "keys": {} },
+  "Equilibrium": { "tables": [], "keys": {} },
+  "Award": { "tables": [], "keys": {} },
+  "OS": { "tables": [], "keys": {} },
+  "Wineyard": { "tables": [], "keys": {} },
+  "Universtiy": { "tables": [], "keys": {} },
+  "Cloud": { "tables": [], "keys": {} },
+  "Bus/Train Station": { "tables": [], "keys": {} },
+  "TV Show": { "tables": [], "keys": {} },
+  "Language": { "tables": [], "keys": {} },
+  "None": { "tables": [], "keys": {} },
+  "River": { "tables": [], "keys": {} },
+  "Car": { "tables": [], "keys": {} },
+  "Coffe House": { "tables": [], "keys": {} },
+  "Cars": { "tables": [], "keys": {} },
+  "Bus/Train Provider": { "tables": [], "keys": {} },
+  "Hotel": { "tables": [], "keys": {} },
+  "Math": { "tables": [], "keys": {} },
+  "Flight": { "tables": [], "keys": {} }
+}

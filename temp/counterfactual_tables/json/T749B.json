@@ -1,0 +1,18 @@
+{
+  "Publisher": [{ "Dark Horse Comics": "1110000" }],
+  "Schedule": [{ "Monthly": "0010000" }],
+  "Format": [{ "Ongoing series": "0010000" }],
+  "Genre": [{ "vocal jazz": "0111000" }, { "fantasy": "1010000" }],
+  "Publication date": [{ "September 2008 - March 2010": "0000000" }],
+  "No. of issues": [
+    { "10 ": "0000000" },
+    { "50": "0010000" },
+    { "7": "1010000" },
+    { " 7 ( Psychopath ) ": "0000000" },
+    { " 100 ( Badlands ) ": "0000000" },
+    { "22 ( Wish You Were Here ) ": "0000000" },
+    { "97 and 4 Annuals": "0010000" },
+    { " 18 ( +100 )": "0000000" }
+  ],
+  "title": ["Crossed"]
+}

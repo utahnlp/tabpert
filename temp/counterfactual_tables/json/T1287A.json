@@ -1,0 +1,14 @@
+{
+  "Type": [{ "Fire, stampede": "0110000" }],
+  "Industry": [{ "Electric utility": "1010000" }],
+  "Founded": [{ "February 1, 1984; 35 years ago (1984-02-01)": "1010000" }],
+  "Headquarters": [{ "Abbotsford, Australia": "1010000" }],
+  "Products": [{ "Maps, Travel guides, Car batteries": "0000000" }],
+  "Services": [
+    {
+      "Advice Centre  , Supporting volunteer placements  ,  Epilepsy awareness training  , Drop-in centre  , Charity shops  , Art group": "1110000"
+    }
+  ],
+  "Website": [{ "jfkairport .com": "0110000" }],
+  "title": ["American Automobile Association"]
+}

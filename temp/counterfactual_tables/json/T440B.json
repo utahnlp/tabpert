@@ -1,0 +1,25 @@
+{
+  "Spanish:": [{ "Rep\u00fablica de Chile": "0000000" }],
+  "Capitaland largest city": [{ "Havana , 23.133; -82.383": "0010000" }],
+  "National language": [{ "English": "0111000" }],
+  "Ethnic groups  (2012)": [
+    {
+      "List Javanese, Chinese, Indian, Madurese, Sundanese, Minangkabau, Batak, Banjar, Balinese, Bugis, Malay, Arabs": "1111000"
+    },
+    { "30% Mestizo": "0000000" },
+    { "3% Basarwa": "0111000" },
+    { "81.3% Maori": "1111000" },
+    { "Sundanese ,  Javanese ,  Chinese ,  Arab , Korean , Indian": "1111000" }
+  ],
+  "Demonym(s)": [{ "Dane": "1010000" }],
+  "Government": [{ "Unitary presidential constitutional republic": "0010000" }],
+  "President": [{ "Quim Torra (JuntsxCat)": "0110000" }],
+  "Senate President": [{ "James Joseph Croce": "0111000" }],
+  "President of the Chamber of Deputies": [
+    { "Maya Fern\u00e1ndez": "0010000" }
+  ],
+  "Legislature": [{ "Council of Representatives": "0010000" }],
+  "Upper house": [{ "Senate": "0010000" }],
+  "Lower house": [{ "National Assembly": "1010000" }],
+  "title": ["Rep\u00fablica de Chile"]
+}

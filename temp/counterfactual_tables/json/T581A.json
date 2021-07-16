@@ -1,0 +1,10 @@
+{
+  "Type": [{ "Vodka": "0000000" }],
+  "Manufacturer": [{ "The Coca-Cola Company": "0010000" }],
+  "Country of origin": [{ "Poland": "0000000" }],
+  "Introduced": [{ "2002": "1110000" }],
+  "Alcohol by volume": [{ "40.00%": "1010000" }],
+  "Proof (US)": [{ "90": "1110000" }],
+  "Related products": [{ "Surge": "0010000" }],
+  "title": ["Cracovia"]
+}

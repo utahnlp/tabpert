@@ -1,0 +1,47 @@
+{
+  "Directed by": [{ "Tim Burton": "0000000" }],
+  "Produced by": [
+    { "Hal B. Wallis": "0010000" },
+    { "Thelma Schoonmaker": "0111000" }
+  ],
+  "Screenplay by": [{ "Herman J. Mankiewicz": "1010000" }],
+  "Based on": [
+    { "Charlie and the Chocolate Factory  , by Roald Dahl": "0000000" }
+  ],
+  "Starring": [
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { " Julia Roberts ": "0010000" },
+    { "David Kelly": "0000000" },
+    { "Thiago Paguioto": "1111000" },
+    { "Joseph Mazzello": "0010000" },
+    { "Kosti Klemel\u00e4 , Heikki Savolainen , Reino Tolvanen": "1010000" },
+    { "Thomas Mitchell": "1010000" },
+    { "Max Steiner": "0111000" },
+    { "Christopher Lee": "0000000" }
+  ],
+  "Narrated by": [{ "Alisa Cutchen": "0111000" }],
+  "Music by": [{ "Frank Murphy (1935-37)": "0111000" }],
+  "Cinematography": [{ "Philippe Rousselot": "0000000" }],
+  "Edited by": [{ "Sean Lahiff": "0010000" }],
+  "Production companies": [
+    { "Columbia Pictures": "0010000" },
+    { "28 + 3 annuals": "1111000" },
+    { "Gazeta Sporturilor": "0111000" }
+  ],
+  "Distributed by": [{ "Cinema Epoch": "1110000" }],
+  "Release date": [
+    { "April 13, 1960 (1960-04-13)": "1110000" },
+    { "July 15, 2005 (2005-07-15) (United States)": "0000000" },
+    { "Dark Empire I   December 1991 - October 1992": "1111000" }
+  ],
+  "Running time": [{ "115 minutes": "0000000" }],
+  "Country": [
+    { "Greece": "1010000" },
+    { "United States": "0110000" },
+    { "New Haven, Connecticut, United States": "1111000" }
+  ],
+  "Language": [{ "English": "1110000" }],
+  "Budget": [{ "US$250 million (2018)": "0111000" }],
+  "Box office": [{ "\u00a320,000,000": "1111000" }],
+  "title": ["Charlie and the Chocolate Factory"]
+}

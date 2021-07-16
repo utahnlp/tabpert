@@ -1,0 +1,47 @@
+{
+  "Directed by": [{ "Greg McLean": "0010000" }],
+  "Produced by": [
+    { "Scott Cooper": "1010000" },
+    { "  Masahito Yoshioka": "1110000" }
+  ],
+  "Screenplay by": [{ "Albert Hibbs": "1111000" }],
+  "Based on": [
+    { "A Captain's Duty  , by Richard Phillips ,  Stephan Talty": "1010000" }
+  ],
+  "Starring": [
+    { "Steve Carell": "0010000" },
+    { "Perry Lopez": "1010000" },
+    { "Humphrey Bogart": "0010000" },
+    { "Robert De Niro": "0010000" },
+    { "Barbara Pryor (January 9, 1979 \u2013 January 19, 1981)": "1111000" },
+    { "John Malkovich": "1010000" },
+    { "Jack Warden": "1010000" },
+    { "Jordan Bratman ( m.  2005;  div.  2011)": "0111000" },
+    { "Nick Frost": "0010000" }
+  ],
+  "Narrated by": [{ "Mike Carlin": "1111000" }],
+  "Music by": [{ "Boyko Borisov": "1111000" }],
+  "Cinematography": [{ "John Toll": "1010000" }],
+  "Edited by": [{ "Chuichi Date": "0111000" }],
+  "Production companies": [
+    { "Universal ": "1111000" },
+    { "Plan B Entertainment": "0000000" },
+    { "Starz, Inc.": "0111000" }
+  ],
+  "Distributed by": [{ "Jet Propulsion Laboratory": "1111000" }],
+  "Release date": [
+    { "January 23, 1943 (1943-01-23) (United States)": "0010000" },
+    { "July 15, 2005 (2005-07-15) (United States)": "0000000" },
+    { "April 13, 1960 (1960-04-13)": "1110000" }
+  ],
+  "Running time": [{ "75 minutes": "0010000" }],
+  "Country": [
+    { "Romania": "0110000" },
+    { "Ireland": "0110000" },
+    { "Spain": "1110000" }
+  ],
+  "Language": [{ "English": "1010000" }],
+  "Budget": [{ "$3.55 billion (2014)": "1110000" }],
+  "Box office": [{ "$475 million": "0000000" }],
+  "title": ["Charlie and the Chocolate Factory"]
+}

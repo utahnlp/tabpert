@@ -1,0 +1,21 @@
+{
+  "Origin": [{ "Upplands Vesby, Sweden": "0010000" }],
+  "Genres": [
+    { "Rock": "0010000" },
+    { "acoustic": "0010000" },
+    { "Mandopop": "0111000" },
+    { "country": "0110000" }
+  ],
+  "Years active": [{ "July 26, 1998": "1111000" }],
+  "Labels": [
+    { "Eleven Seven": "0000000" },
+    { "Leedon": "1110000" },
+    { "Music70": "1010000" },
+    { "Sheikh Abdulla Bin Isa Al-Khalifa": "1111000" },
+    { "Cleopatra": "0000000" },
+    { "Warner Bros. - First National Pictures": "0111000" },
+    { "The End": "0000000" }
+  ],
+  "Website": [{ "www.SeeWinter.com": "1110000" }],
+  "title": ["Everclear"]
+}

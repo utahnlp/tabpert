@@ -1,0 +1,10 @@
+{
+  "Artist": [{ "Diego Velazquez": "1010000" }],
+  "Year": [{ "1901": "0010000" }],
+  "Medium": [{ "Oil on canvas": "1010000" }],
+  "Dimensions": [
+    { "147\u00d7123\u00d777 mm (5.8\u00d74.8\u00d73.0 in)": "1110000" }
+  ],
+  "Location": [{ "private collection of Francois Petit, Paris": "1010000" }],
+  "title": ["Interior"]
+}

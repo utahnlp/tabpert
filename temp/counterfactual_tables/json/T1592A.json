@@ -1,0 +1,53 @@
+{
+  "Directed by": [{ "ca.  80,000": "1111000" }],
+  "Produced by": [
+    { "Marvin Minsky , Gerald Jay Sussman , Claude Shannon": "1111000" },
+    { "Gerald R. Molen": "0010000" },
+    { "Jonathan Gordon": "0000000" },
+    { "Michael Giacchino": "1111000" },
+    { "Michael Phillips": "0010000" }
+  ],
+  "Screenplay by": [{ "John Turman": "1010000" }],
+  "Story by": [
+    { "Annie Mumolo": "0000000" },
+    { "David O. Russell": "0000000" }
+  ],
+  "Starring": [
+    { " Murray Hamilton": "1010000" },
+    { "Dr Rebekah Widdowfield": "0111000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Nick Frost": "0010000" },
+    { "Brian Olds": "1111000" },
+    { "Isabella Rossellini": "0000000" },
+    { "Nia Long": "1010000" }
+  ],
+  "Music by": [
+    { "Stephen Sondheim": "1010000" },
+    { "David Arnold": "0010000" }
+  ],
+  "Cinematography": [{ "Andrew Dunn": "0010000" }],
+  "Edited by": [
+    { "Lonnie Lynn (father)": "0111000" },
+    { "Robert Brown": "0010000" },
+    { "Kim Hui-su": "1110000" },
+    { "National Institute of Technology, Bhopal": "1111000" }
+  ],
+  "Distributed by": [{ "20th Century Fox": "0000000" }],
+  "Release date": [
+    {
+      "December 13, 2015  ( 2015-12-13 )  (New York City)  December 25, 2015  ( 2015-12-25 )  (United States)": "0000000"
+    }
+  ],
+  "Running time": [{ "101 minutes": "1010000" }],
+  "Country": [{ "New York City, U.S.": "0111000" }],
+  "Language": [{ "English": "0000000" }],
+  "Budget": [{ "$150 million": "0010000" }],
+  "Box office": [{ "$101.1 million": "0000000" }],
+  "Production company": [
+    { "Amblin Entertainment": "0010000" },
+    { "Davis Entertainment Company": "0000000" },
+    { "Annapurna Pictures": "0000000" },
+    { "28 + 3 annuals": "1110000" }
+  ],
+  "title": ["Joy"]
+}

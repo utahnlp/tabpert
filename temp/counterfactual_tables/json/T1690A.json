@@ -1,0 +1,21 @@
+{
+  "Ring name(s)": [
+    { "Colin Tizzard": "0111000" },
+    { "Mitchell Hundred": "1111000" },
+    { "Keith Davis": "1110000" },
+    { "Tiger Raj Singh": "0000000" }
+  ],
+  "Billed height": [{ "6 ft 5 in (196 cm)": "0000000" }],
+  "Billed weight": [{ "225 lb (102 kg)": "0110000" }],
+  "Billed from": [{ "Singapore": "1111000" }],
+  "Trained by": [
+    { "James Corden": "1111000" },
+    { "Gama Singh": "0000000" },
+    { "Ed Langley": "1010000" },
+    { "Michael Hayes": "0110000" }
+  ],
+  "Debut": [
+    { "1 July 1981 (operational) , 29 December 1981 (official)": "1111000" }
+  ],
+  "title": ["Jinder Mahal"]
+}

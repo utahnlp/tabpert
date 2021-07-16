@@ -1,0 +1,15 @@
+{
+  "Country": [{ "Fairmont Pacific Rim": "0111000" }],
+  "Province": [{ "Canterbury": "1110000" }],
+  "Metropolitan Corporation": [{ "2011": "0000000" }],
+  "City Council": [{ "2nd District (South)": "1010000" }],
+  "Districts": [
+    { "Central Karachi": "0000000" },
+    { "11": "1110000" },
+    { "South Karachi": "0000000" },
+    { "West Karachi": "0000000" },
+    { "Korangi": "0000000" },
+    { "11": "1110000" }
+  ],
+  "title": ["Karachi"]
+}

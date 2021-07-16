@@ -1,0 +1,10 @@
+{
+  "Artist": [{ "Embrace": "1110000" }],
+  "Year": [{ "1 January 1912": "0111000" }],
+  "Medium": [{ "Oil on canvas": "0010000" }],
+  "Dimensions": [
+    { "147\u00d7123\u00d777 mm (5.8\u00d74.8\u00d73.0 in)": "1110000" }
+  ],
+  "Location": [{ "Longhi Collection, Florence": "0010000" }],
+  "title": ["Interior"]
+}

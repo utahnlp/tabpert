@@ -1,0 +1,11 @@
+{
+  "City": [{ "United Kingdom": "1111000" }],
+  "Land": [{ "227.34 sq mi (588 sq km )": "0000000" }],
+  "Water": [{ "6.80 sq mi (17.62 sq km )  3.0%": "0000000" }],
+  "Urban": [{ "1,295 sq mi (3,350 km 2 )": "0010000" }],
+  "Metro": [{ "4,715.1 sq km  (1,820.5 sq mi)": "0110000" }],
+  "Elevation (mean)": [{ "4,093 m (13,428 ft)": "1111000" }],
+  "Highest elevation- near Blue Island": [{ "870 m (2,850 ft)": "0111000" }],
+  "Lowest elevation- at Lake Michigan": [{ "578 ft (176 m)": "0000000" }],
+  "title": ["Chicago, Illinois"]
+}

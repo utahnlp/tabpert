@@ -1,0 +1,27 @@
+{
+  "Born": [{ "April 9, 1926  Chicago, Illinois, U.S.": "1010000" }],
+  "Died": [{ "(2015-12-28)28 December 2015": "1010000" }],
+  "Cause of death": [{ "Pulmonary tuberculosis": "0000000" }],
+  "Nationality": [{ "British from 1831, United States from 1896": "1010000" }],
+  "Occupation": [
+    { "Rapper ": "0111000" },
+    { "singer": "1111000" },
+    { "producer ": "0010000" }
+  ],
+  "Known for": [
+    { "Navigation": "0000000" },
+    { "Foundation sire of the Yorkshire Terrier breed": "0110000" },
+    { "Transatlantic flight": "0000000" },
+    { "Holography": "0010000" },
+    { "Anti-submarine warfare": "0000000" },
+    { "Flying boats": "0000000" }
+  ],
+  "Years of service": [{ "1969-2013": "0010000" }],
+  "Awards": [
+    { "Copley Medal (1749)": "0010000" },
+    {
+      "2012 Golden Collar Awards for Best Dog in a Television Series": "1110000"
+    }
+  ],
+  "title": ["John Cyril Porte"]
+}

@@ -1,0 +1,19 @@
+{
+  "Alternative names": [{ "Borsch": "1110000" }],
+  "Type": [{ "Fire, stampede": "0110000" }],
+  "Players": [{ "2": "1110000" }],
+  "Skills required": [
+    { "tactics, communication, memory, probability": "0000000" }
+  ],
+  "Cards": [{ "52": "0000000" }],
+  "Deck": [{ "French": "0000000" }],
+  "Play": [{ "Clockwise": "0000000" }],
+  "Card rank (highest first)": [{ "A K Q J 10 9 8 7 6 5 4 3 2": "0000000" }],
+  "Playing time": [
+    {
+      "Casual games usually last 10 to 60 minutes; tournament games last anywhere from about ten minutes (fast chess) to six hours or more.": "1110000"
+    }
+  ],
+  "Random chance": [{ "None": "1110000" }],
+  "title": ["Cotract bridge"]
+}

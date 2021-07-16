@@ -1,0 +1,23 @@
+{
+  "Origin": [{ "Melbourne, Victoria, Australia": "0010000" }],
+  "Genres": [{ "easy listening": "0110000" }, { "Pop": "0110000" }],
+  "Years active": [{ "Since June 19, 1996": "1110000" }],
+  "Labels": [{ "Sho'nuff": "0110000" }],
+  "Associated acts": [
+    { "Action Bronson ": "0000000" },
+    { "Nicki Minaj": "0110000" },
+    { "Queen + Adam Lambert": "0010000" },
+    { "ASAP Mob ": "0000000" },
+    { "The Mamas & the Papas": "1110000" },
+    { "Coke Studio  ": "0110000" },
+    {
+      "Delaney &amp; Bonnie and Friends, Blind Faith, George Harrison, The Allman Brothers Band": "1010000"
+    },
+    { "The Gregory Brothers": "1110000" },
+    { "Innosense": "0110000" },
+    { "Ludacris": "0110000" },
+    { "Skepta": "0000000" }
+  ],
+  "Website": [{ "http://www.hpnotiq.com/": "1110000" }],
+  "title": ["Flatbush Zombies"]
+}

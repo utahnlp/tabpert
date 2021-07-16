@@ -1,0 +1,26 @@
+{
+  "Airport type": [{ "Public": "1010000" }],
+  "Owner": [{ "Registered charity No. SC000470": "0110000" }],
+  "Operator": [{ "Heathrow Airport Limited": "1010000" }],
+  "Serves": [{ "London, England": "1010000" }],
+  "Location": [{ "Tempe, Arizona, U.S.": "1110000" }],
+  "Opened": [
+    { "1 July 1981 (operational) , 29 December 1981 (official)": "1010000" }
+  ],
+  "Hub for": [
+    { "American Airlines": "0000000" },
+    { "AirAsia": "1111000" },
+    { "JetBlue": "0000000" }
+  ],
+  "Focus city for": [{ "Virgin Atlantic": "1010000" }],
+  "Time zone": [{ "UTC+02:00 (IST, PST)": "0110000" }],
+  "Summer (DST)": [{ "UTC+2 (CEST)": "0110000" }],
+  "Elevation AMSL": [{ "83 ft / 25 m": "1010000" }],
+  "Coordinates": [
+    {
+      "53\u00b054\u2032N 27\u00b034\u2032E\ufeff / \ufeff53.900\u00b0N 27.567\u00b0E": "1110000"
+    }
+  ],
+  "Website": [{ "Official website": "0110000" }],
+  "title": ["Runways"]
+}

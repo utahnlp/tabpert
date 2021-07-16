@@ -1,0 +1,20 @@
+{
+  "Religion (2011)": [
+    { "44.7% undeclared": "0000000" },
+    { "34.5% non-religious": "0000000" },
+    { "10.5% Catholic": "0000000" },
+    { "2.1% other Christians": "0000000" },
+    { "0.7% other religions": "0000000" }
+  ],
+  "Official language": [{ "Kazakh language": "0111000" }],
+  "Demonym(s)": [{ "Catanesi": "0110000" }],
+  "Government": [
+    { "Federal parliamentary , constitutional republic": "1010000" }
+  ],
+  "President ": [{ "Juan Orlando Hernandez": "1010000" }],
+  "Prime Minister ": [{ "Aksel V. Johannesen": "0010000" }],
+  "Legislature": [{ "Parliament": "1010000" }],
+  "Upper house": [{ "Senate": "0010000" }],
+  "Lower house": [{ "Chamber of Deputies": "1010000" }],
+  "title": ["Czech Republic"]
+}

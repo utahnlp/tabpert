@@ -1,0 +1,40 @@
+{
+  "Directed by": [{ "Shinzo Abe": "0111000" }],
+  "Produced by": [
+    { "Kathleen Kennedy": "0000000" },
+    { "Gerald R. Molen": "0000000" }
+  ],
+  "Screenplay by": [
+    { "Justin Monjo": "0010000" },
+    { "Christopher Scott Kyle": "1111000" }
+  ],
+  "Based on": [{ "Jurassic Park  by Michael Crichton": "0000000" }],
+  "Starring": [
+    { "Jon Voight": "1010000" },
+    { "David Michael Navarro": "1111000" },
+    { "James Tucker": "0111000" },
+    { "Isla Fisher": "0010000" },
+    { "Muhammad Hatta Ali": "0111000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "David Alan Grier": "1010000" },
+    { "Wayne Knight": "0000000" },
+    { "Robin Estanislau": "0111000" },
+    { "Simon Pegg": "0010000" }
+  ],
+  "Music by": [{ "Katsuo Ono": "1110000" }],
+  "Cinematography": [{ "John Schwartzman": "1010000" }],
+  "Edited by": [{ "Leonid Brekhovskikh": "1111000" }],
+  "Distributed by": [{ "Mel Morris": "1111000" }],
+  "Release date": [
+    { "November 16, 1977  ( 1977-11-16 )": "0010000" },
+    { "December 25, 2015  ( 2015-12-25 )  (United States)": "0010000" }
+  ],
+  "Running time": [{ "127 minutes": "0000000" }],
+  "Country": [{ "United States": "0010000" }],
+  "Language": [{ "English": "0000000" }],
+  "Budget": [{ "\u00a35.9 million": "0110000" }],
+  "Box office": [{ "$125 million (2016 estimate)": "1111000" }],
+  "Production company": [{ "Hughes Entertainment": "1010000" }],
+  "title": ["Jurassic Park"]
+}

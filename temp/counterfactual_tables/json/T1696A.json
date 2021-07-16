@@ -1,0 +1,31 @@
+{
+  "Origin": [{ "London, England, United Kingdom": "1010000" }],
+  "Genres": [
+    { "Board game  , Abstract strategy game  , Mind sport": "1111000" },
+    { "hard rock": "0000000" },
+    { "Heavy metal": "1010000" },
+    { "Role-playing games": "1111000" },
+    { "comedy": "1111000" }
+  ],
+  "Years active": [
+    { "1973 - present": "1110000" },
+    { "2017-present": "0000000" }
+  ],
+  "Labels": [
+    { "Def Jam (1997-2004)": "1010000" },
+    { "House of Cash": "0110000" },
+    { "Dark Horse Comics": "1111000" },
+    { "Reprise": "0110000" },
+    { "Acoustic Disc ": "1010000" },
+    { "Capitol": "0110000" }
+  ],
+  "Associated acts": [
+    { "Fairport Convention": "0000000" },
+    { "Ninja Sex Party": "1110000" },
+    { "Judy Garland": "0110000" },
+    { "Blodwyn Pig": "0000000" },
+    { "The Gregory Brothers": "1110000" }
+  ],
+  "Website": [{ "davidbyrne.com": "0010000" }],
+  "title": ["Jethro Tull"]
+}

@@ -1,0 +1,31 @@
+{
+  "Also known as": [{ "Atari VCS (prior to November 1982)": "0000000" }],
+  "Manufacturer": [{ "Gazeta Sporturilor": "0111000" }],
+  "Type": [{ "Oil on linen": "0110000" }],
+  "Generation": [{ "Second Generation": "0000000" }],
+  "Release date": [
+    { "22 September 1997": "1111000" },
+    { "EU: 1978": "0000000" },
+    { "November 23, 2011 (United States)": "0110000" }
+  ],
+  "Lifespan": [{ "1977-1992": "0000000" }],
+  "Introductory price": [{ "$1,610,320": "1111000" }],
+  "Discontinued": [{ "1637 - 38": "1111000" }],
+  "Units sold": [{ "30 million  (As of 2004 [update] )": "0000000" }],
+  "Media": [{ "ROM cartridge": "0000000" }],
+  "CPU": [{ "8-bit MOS Technology 6507 @ 1.19 MHz": "0000000" }],
+  "Memory": [{ "128 bytes RAM": "0000000" }],
+  "Controller input": [
+    { "Joystick": "0000000" },
+    { "Paddles": "0000000" },
+    { "Driving": "0000000" },
+    { "Keypad": "0000000" },
+    { "Trak-Ball": "0000000" }
+  ],
+  "Best-selling game": [
+    { "Pac-Man , 7 million  (As of September 1, 2006 [update] )": "0000000" }
+  ],
+  "Predecessor": [{ "Wilberforce": "1110000" }],
+  "Successor": [{ "Ismael Zambada Garcia": "1110000" }],
+  "title": ["Atari 2600"]
+}

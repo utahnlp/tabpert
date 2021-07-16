@@ -1,0 +1,14 @@
+{
+  "Type": [{ "Energy soft drink": "0000000" }],
+  "Manufacturer": [{ "Monster Beverage": "0010000" }],
+  "Country of origin": [{ "Winnipeg ": "1111000" }],
+  "Introduced": [{ "1940": "0010000" }],
+  "Discontinued": [{ "January 1, 1992 (1992-01-01)": "0110000" }],
+  "Related products": [
+    { "accessories": "1111000" },
+    { "Bawls": "0000000" },
+    { "List of vodkas": "0010000" },
+    { "Maps, Travel guides, Car batteries": "0111000" }
+  ],
+  "title": ["Josta"]
+}

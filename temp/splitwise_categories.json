@@ -1,0 +1,408 @@
+{
+  "Person": {
+    "train": 412,
+    "dev": 54,
+    "test_alpha1": 57,
+    "test_alpha2": 71,
+    "test_alpha3": 0
+  },
+  "Musician": {
+    "train": 255,
+    "dev": 38,
+    "test_alpha1": 37,
+    "test_alpha2": 45,
+    "test_alpha3": 0
+  },
+  "Movie": {
+    "train": 176,
+    "dev": 20,
+    "test_alpha1": 18,
+    "test_alpha2": 23,
+    "test_alpha3": 0
+  },
+  "Album": {
+    "train": 158,
+    "dev": 14,
+    "test_alpha1": 7,
+    "test_alpha2": 9,
+    "test_alpha3": 0
+  },
+  "City": {
+    "train": 140,
+    "dev": 17,
+    "test_alpha1": 16,
+    "test_alpha2": 14,
+    "test_alpha3": 0
+  },
+  "Country": {
+    "train": 65,
+    "dev": 12,
+    "test_alpha1": 18,
+    "test_alpha2": 7,
+    "test_alpha3": 0
+  },
+  "Painting": {
+    "train": 104,
+    "dev": 9,
+    "test_alpha1": 8,
+    "test_alpha2": 7,
+    "test_alpha3": 0
+  },
+  "Animal": {
+    "train": 62,
+    "dev": 9,
+    "test_alpha1": 8,
+    "test_alpha2": 8,
+    "test_alpha3": 0
+  },
+  "Food&Drink": {
+    "train": 57,
+    "dev": 7,
+    "test_alpha1": 8,
+    "test_alpha2": 5,
+    "test_alpha3": 0
+  },
+  "Organization": {
+    "train": 72,
+    "dev": 4,
+    "test_alpha1": 2,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Book": {
+    "train": 38,
+    "dev": 1,
+    "test_alpha1": 6,
+    "test_alpha2": 5,
+    "test_alpha3": 0
+  },
+  "Sports": {
+    "train": 32,
+    "dev": 6,
+    "test_alpha1": 2,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Diseases": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 41
+  },
+  "Sports Event": {
+    "train": 36,
+    "dev": 0,
+    "test_alpha1": 3,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "University": {
+    "train": 32,
+    "dev": 2,
+    "test_alpha1": 3,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Festival": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 35
+  },
+  "Bus/Train Lines": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 29
+  },
+  "Event": {
+    "train": 13,
+    "dev": 1,
+    "test_alpha1": 2,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Exams": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 17
+  },
+  "Sport": {
+    "train": 12,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Aircraft": {
+    "train": 11,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Element": {
+    "train": 1,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 10
+  },
+  "Bridge": {
+    "train": 2,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 8
+  },
+  "Food&Drinks": {
+    "train": 9,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Product": {
+    "train": 10,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Game": {
+    "train": 8,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Architecture": {
+    "train": 6,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Air crash": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 8
+  },
+  "Planet": {
+    "train": 5,
+    "dev": 0,
+    "test_alpha1": 2,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Earthquakes": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 7
+  },
+  "Smartphone": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 7
+  },
+  "Awards": {
+    "train": 4,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Food": {
+    "train": 5,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 1,
+    "test_alpha3": 0
+  },
+  "Computer": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 6
+  },
+  "Occupation": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 6
+  },
+  "Restaurant": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 5
+  },
+  "WineYard": {
+    "train": 3,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Engines": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 4
+  },
+  "Equilibrium": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 4
+  },
+  "Airport": {
+    "train": 2,
+    "dev": 0,
+    "test_alpha1": 1,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Award": {
+    "train": 2,
+    "dev": 1,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "OS": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 3
+  },
+  "Games": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 2,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Wineyard": {
+    "train": 2,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Universtiy": {
+    "train": 2,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Cloud": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 2
+  },
+  "Bus/Train Station": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 2
+  },
+  "TV Show": {
+    "train": 1,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Language": {
+    "train": 1,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "None": {
+    "train": 1,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "River": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Car": {
+    "train": 1,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 0
+  },
+  "Coffe House": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  },
+  "Cars": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  },
+  "Bus/Train Provider": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  },
+  "Hotel": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  },
+  "Math": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  },
+  "Flight": {
+    "train": 0,
+    "dev": 0,
+    "test_alpha1": 0,
+    "test_alpha2": 0,
+    "test_alpha3": 1
+  }
+}

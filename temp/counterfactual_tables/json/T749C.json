@@ -1,0 +1,18 @@
+{
+  "Publisher": [{ "DC Comics": "0010000" }],
+  "Schedule": [{ "Monthly": "1010000" }],
+  "Format": [{ "Limited series": "0000000" }],
+  "Genre": [{ "Hip hop": "0110000" }, { "rap metal": "0110000" }],
+  "Publication date": [{ "Empire's End   October - November 1995": "1110000" }],
+  "No. of issues": [
+    { "8": "1010000" },
+    { " 7 ( Family Values ) ": "0000000" },
+    { "7": "0010000" },
+    { "7": "0010000" },
+    { "7": "1010000" },
+    { "12 (first series) , 4 (second series)": "1010000" },
+    { " 12 ( Dead or Alive ) ": "0000000" },
+    { "7": "0010000" }
+  ],
+  "title": ["Crossed"]
+}

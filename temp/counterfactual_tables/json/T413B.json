@@ -1,0 +1,50 @@
+{
+  "Born": [
+    {
+      "( 1981-04-02 )  2 April 1981  (age 37)   Amritsar, Punjab, India": "0010000"
+    }
+  ],
+  "Died": [{ "1 May 2004": "1111000" }],
+  "Residence": [{ "Grand Duchy of Hesse, then German Empire": "0000000" }],
+  "Nationality": [{ "British": "1111000" }],
+  "Alma mater": [
+    { "Miami University - A.B. (1937)": "1010000" },
+    { "Southeastern Oklahoma State (1983-1986)": "1111000" }
+  ],
+  "Known for": [
+    { "The invention of the movable-type printing press": "0010000" },
+    { "Japanese Prisoner of war": "0110000" }
+  ],
+  "Awards": [{ "Albert Medal  (1869)": "0000000" }],
+  "Fields": [{ "physicist": "0010000" }],
+  "Institutions": [
+    { "University of Nottingham": "1010000" },
+    { "King Edward's School, Birmingham": "1111000" }
+  ],
+  "Doctoral advisor": [{ "Michael Hayes": "1111000" }],
+  "Doctoral students": [
+    { "Medhat al-Mahmoud": "0111000" },
+    { "456": "1110000" },
+    { "Mel Morris": "1111000" },
+    { "Carl von Voit ": "0000000" },
+    { "Karl Vogt": "1111000" },
+    { "Wilhelm Henneberg": "1010000" },
+    { "Rosalind Cubitt": "0111000" },
+    { "L. I. Mandelshtam": "0010000" },
+    { "Nick Holonyak": "1010000" },
+    { "Adolph Strecker": "1010000" },
+    { "80": "1110000" },
+    { "Adolph Strecker ": "0000000" },
+    { "1,866 (Fall 2018)": "1110000" }
+  ],
+  "Other notable students": [
+    { "Augustus Voelcker": "1010000" },
+    { "Phillip Allen Sharp (postdoc)": "1010000" },
+    { " Rex Ogle ": "1111000" },
+    { "Lene Moyell Johansen": "0111000" },
+    { "Paul Steinhardt": "1010000" },
+    { "Danny Fujikawa (2017-present)": "0111000" },
+    { "John Carroll": "1111000" }
+  ],
+  "title": ["Justus von Liebig"]
+}

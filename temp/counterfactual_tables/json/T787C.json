@@ -1,0 +1,24 @@
+{
+  "Capitaland largest city": [{ "Oyo": "1111000" }],
+  "Official languages": [{ "Japanese": "0010000" }],
+  "Ethnic groups  (2012)": [
+    { "Over 300 ethnic groups": "0111000" },
+    { "3% White": "0111000" },
+    { "30% Mestizo": "0010000" }
+  ],
+  "Demonym(s)": [{ "Cuban": "0000000" }],
+  "Government": [
+    {
+      "Devolved government  within  parliamentary constitutional monarchy": "0010000"
+    }
+  ],
+  "First Secretary of the Communist Party": [{ "George Axelrod": "1111000" }],
+  "President": [{ "Ruth Watkins": "1110000" }],
+  "First Vice President": [{ "J.B. Mauney": "0111000" }],
+  "Second Secretary of the Communist Party": [
+    { "Godolphin Racing": "0111000" }
+  ],
+  "President of the National Assembly": [{ "Linus Sandgren": "0111000" }],
+  "Legislature": [{ "National Assembly of People's Power": "0000000" }],
+  "title": ["Republic of Cuba Republica de Cuba (Spanish)"]
+}

@@ -1,0 +1,15 @@
+{
+  "Country": [{ "United Kingdom": "1111000" }],
+  "Province": [{ "Cebu (geographically only)": "1010000" }],
+  "Metropolitan Corporation": [{ "2011": "0000000" }],
+  "City Council": [{ "Chairperson  Mohammad Reza Heydari": "1010000" }],
+  "Districts": [
+    { "Central Karachi": "0000000" },
+    { "East Karachi": "0000000" },
+    { "South Karachi": "0000000" },
+    { "7": "1010000" },
+    { "11": "1110000" },
+    { "7": "1010000" }
+  ],
+  "title": ["Karachi"]
+}

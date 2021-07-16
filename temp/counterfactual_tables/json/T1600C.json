@@ -1,0 +1,14 @@
+{
+  "Born": [{ "( 1878-07-30 ) July 30, 1878  Nakskov, Denmark": "0010000" }],
+  "Birth name": [{ "Jeffrey Bruce Atkins": "1110000" }],
+  "Died": [{ "( 1942-11-29 ) 29 November 1942  Budapest, Hungary": "0000000" }],
+  "Nationality": [{ "Irish": "1111000" }, { "British": "0111000" }],
+  "Education": [{ "Hampton Grammar School": "0110000" }],
+  "Occupation": [{ "guitarist": "1110000" }],
+  "Institutions": [{ "Reading Abbey Girls' School": "0111000" }],
+  "Projects": [
+    { "Th\u00e9\u00e2trophone": "1010000" },
+    { "semaphore system": "1010000" }
+  ],
+  "title": ["Karoly Zipernowsky"]
+}

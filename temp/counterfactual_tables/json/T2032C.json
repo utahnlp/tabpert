@@ -1,0 +1,26 @@
+{
+  "Capital": [{ "Chang'an  (312 - 316)  ": "0010000" }],
+  "Largest city": [{ "101": "1111000" }],
+  "Official language and national language": [{ "Indonesian": "0000000" }],
+  "Regional languages": [{ "Kazakh language": "0111000" }],
+  "Ethnic groups": [{ "10% Kalanga": "0010000" }],
+  "Religion": [
+    { "Sunni Islam": "1010000" },
+    { "9.9% Christianity": "0000000" },
+    { "74.7% Jewish": "1010000" },
+    { "Roman Catholicism": "0010000" },
+    { "Church of England": "1010000" },
+    { "Roman Catholicism": "0010000" },
+    { "15.2% None/no religion": "0010000" }
+  ],
+  "Demonym(s)": [{ "Phnom Penher , (French:  Phnom Penhois(e) )": "1110000" }],
+  "Government": [{ "Theocratic monarchy": "1010000" }],
+  "President": [{ "Amir Mokri": "0111000" }],
+  "Vice President": [{ "Jusuf Kalla": "0000000" }],
+  "DPR Speaker": [{ "Margrethe II": "0111000" }],
+  "Chief Justice": [{ "James Newton Howard": "0111000" }],
+  "Legislature": [{ "People's Consultative Assembly (MPR)": "0000000" }],
+  "Upper house": [{ "Regional Representative Council (DPD)": "0000000" }],
+  "Lower house": [{ "National Assembly": "1010000" }],
+  "title": ["Republic of Indonesia  (Republik Indonesia (Indonesian))"]
+}

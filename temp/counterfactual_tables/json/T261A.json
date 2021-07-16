@@ -1,0 +1,24 @@
+{
+  "Capital": [
+    { "California": "1111000" },
+    { "Yes": "1110000" },
+    { "101": "1111000" }
+  ],
+  "Common languages": [{ "English (official)": "0111000" }],
+  "Government": [
+    {
+      "Parliamentary democratic constitutional monarchy with a de facto non-partisan democracy": "1010000"
+    }
+  ],
+  "Emperor": [
+    { "Byron Dorgan (January 3, 2005 \u2013 January 3, 2007)": "0111000" },
+    { "Salvador Valdes Mesa": "0111000" }
+  ],
+  "Establishment ": [{ "840": "1111000" }],
+  "Reunification of China under Jin rule ": [{ "27 October 1946": "0111000" }],
+  "Jin evacuates to region south of the Huai River, Eastern Jin begins ": [
+    { "28 October 1918": "0111000" }
+  ],
+  "Abdication to Liu Song ": [{ "10 December 1898": "0111000" }],
+  "title": ["Jin"]
+}

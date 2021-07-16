@@ -1,0 +1,37 @@
+{
+  "Status": [{ "Autonomous community  (styled as nationality)": "1110000" }],
+  "Capital": [{ "Abidjan  (economic)": "1010000" }],
+  "Common languages": [{ "Spanish": "0000000" }, { "English": "0000000" }],
+  "Religion": [
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    }
+  ],
+  "Government": [{ "Unitary presidential constitutional republic": "0010000" }],
+  "President": [
+    { "Manuel L. Quezon (1935-44)": "0000000" },
+    { "Quim Torra (JuntsxCat)": "0110000" },
+    { "Subbarao Kambhampati": "1110000" }
+  ],
+  "High Commissioner": [
+    { "Fan Chengcheng (brother)": "0111000" },
+    { "Goran Eriksson  ": "1111000" },
+    { "2": "1111000" },
+    { "Sadeq Larijani": "1111000" }
+  ],
+  "Vice President": [
+    { "Sadeq Larijani": "1111000" },
+    { "Otto Sonnenholzner": "1010000" }
+  ],
+  "Legislature": [
+    { "National Assembly  (1935-41)": "0000000" },
+    { "Parliament": "0110000" }
+  ],
+  "Historical era": [{ "Arab Cold War": "1010000" }],
+  "Tydings-McDuffie Act": [{ "930-1262": "0111000" }],
+  "Independence": [{ "(1985-02-05) 5 February 1985 (age 33)": "0111000" }],
+  "Treaty of Manila": [{ "October 22, 1946": "0000000" }],
+  "title": [
+    "Commonwealth of the Philippines Commonwealth de Filipinas (Spanish) Komonwelt ng Pilipinas (Tagalog)"
+  ]
+}

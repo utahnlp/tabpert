@@ -1,0 +1,22 @@
+{
+  "Type": [{ "Liqeur": "1010000" }],
+  "Manufacturer": [
+    { "The Mirisch Company , Seven Arts Productions": "1111000" }
+  ],
+  "Country of origin": [{ "France": "0010000" }],
+  "Introduced": [{ "1956": "0000000" }],
+  "Flavour": [
+    { "Orange": "1010000" },
+    { "Orange": "1010000" },
+    { "Rosy vanilla": "1010000" },
+    { "Guarana ": "1010000" },
+    { "Orange": "1010000" },
+    { "Coffee": "1010000" },
+    { "Bitter, spicy and sweet": "1010000" }
+  ],
+  "Variants": [
+    { " cream soda": "1110000" },
+    { " Amaretto  (Brown) ": "0010000" }
+  ],
+  "title": ["Kas"]
+}
