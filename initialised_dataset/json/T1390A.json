@@ -1,0 +1,19 @@
+{
+  "Sire": [{ "240 Sky King": "0010000" }],
+  "Grandsire": [{ "Bend Or": "1010000" }],
+  "Dam": [{ "JG #918": "0010000" }],
+  "Damsire": [{ "Al Hattab": "1010000" }],
+  "Sex": [{ "Stallion": "0010000" }],
+  "Foaled": [{ "1994": "0000000" }],
+  "Country": [{ "Ireland": "0000000" }],
+  "Colour": [{ "Orange": "0110000" }],
+  "Breeder": [{ "Marvel Entertainment": "1111000" }],
+  "Trainer": [
+    {
+      "Kenji Kodama  (#1-118)  ,  Yasuichiro Yamamoto  (#119-332, #667-currently)  ,  Masato Sato (#333-504)  , Kojin Ochi  (#505-666)": "1111000"
+    }
+  ],
+  "Record": [{ " 2: 2-0-0 (Bumpers)": "0010000" }],
+  "Earnings": [{ "$1.7 billion (2017)": "0111000" }],
+  "title": ["Cape Cross"]
+}

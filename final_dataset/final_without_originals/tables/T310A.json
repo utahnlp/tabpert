@@ -1,0 +1,24 @@
+{
+  "Island": [{ "South Island": "0000000" }],
+  "Named for": [
+    { "Miami-Illinois:  shikaakwa   (wild onion or wild garlic)": "1110000" }
+  ],
+  "Region": [{ "Canterbury": "0000000" }],
+  "Settled by the UK": [{ "1770": "1111010" }],
+  "Territorial authority": [{ "Christchurch City Corporation": "0000010" }],
+  "Wards": [
+    { "Burwood ": "0000000" },
+    { "Cashmere ": "0000000" },
+    { "Central ": "0000000" },
+    { "Langbourn": "0110000" },
+    { "Fendalton ": "0000000" },
+    { "Halswell ": "0000000" },
+    { "Denver": "0111000" },
+    { "Singapore": "1111000" },
+    { "101": "1010000" },
+    { "Newfoundland and Labrador, Canada": "0111000" },
+    { "Muscogee": "0111000" },
+    { "Broad Street": "0110000" }
+  ],
+  "title": ["Christchurch  (Otautahi   (Maori))"]
+}

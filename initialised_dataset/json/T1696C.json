@@ -1,0 +1,31 @@
+{
+  "Origin": [{ "Province of Alessandria, around Gavi": "1110000" }],
+  "Genres": [
+    { "Rock ": "0110000" },
+    { "Pop": "0110000" },
+    { "indie": "1010000" },
+    { "alternative rock": "0110000" },
+    { "science fiction": "1111000" }
+  ],
+  "Years active": [
+    { "1946-2015": "1110000" },
+    { "2012 (2012)-present": "1010000" }
+  ],
+  "Labels": [
+    { "Island": "0000000" },
+    { "Reprise/Warner Bros.": "0000000" },
+    { "Jive": "0110000" },
+    { "Eagle": "0000000" },
+    { " ABC ": "1110000" },
+    { "Osiris Films": "1111000" }
+  ],
+  "Associated acts": [
+    { "Conway Twitty": "0010000" },
+    { "Richard Carpenter": "1010000" },
+    { "Dalida": "1110000" },
+    { " Gucci Mane ": "1010000" },
+    { "Weerd Science": "1010000" }
+  ],
+  "Website": [{ "jethrotull .com": "0000000" }],
+  "title": ["Jethro Tull"]
+}

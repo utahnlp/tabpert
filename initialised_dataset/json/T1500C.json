@@ -1,0 +1,18 @@
+{
+  "Born": [{ "4 December 1982": "0111000" }],
+  "Died": [
+    { "16 March 1935 (1935-03-16)  (aged 58)  Aberdeen, Scotland": "0010000" }
+  ],
+  "Nationality": [{ "Scottish": "0000000" }],
+  "Alma mater": [{ "College of Saint Rose": "0110000" }],
+  "Known for": [
+    { "Iconic Royalist symbol during English Civil War": "1110000" },
+    { "Ghost Whisperer": "1110000" },
+    {
+      "Invention of the iBot Wheelchair, the Segway and founder of FIRST , North Dumpling Island": "0010000"
+    }
+  ],
+  "Fields": [{ "Electrical Engineering": "1010000" }],
+  "Influenced": [{ "Damascius": "0010000" }],
+  "title": ["John Napier"]
+}

@@ -1,0 +1,45 @@
+{
+  "Directed by": [
+    { "Steven Spielberg": "0010000" },
+    { "Kyle Balda": "0000000" }
+  ],
+  "Produced by": [
+    { "Chris Meledandri": "0000000" },
+    { "Gregg Fienberg": "1010000" }
+  ],
+  "Written by": [
+    { "Terence Rattigan": "1010000" },
+    { "Justin Simien": "0010000" }
+  ],
+  "Starring": [
+    { "Don Cheadle": "1010000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { " Zhang Chuanmei (mother)": "0111000" },
+    { "Arliss Howard": "0010000" },
+    { "Teyonah Parris": "0010000" },
+    { "Jenny Slate": "0000000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Julie Andrews": "0000000" }
+  ],
+  "Music by": [{ "Paul Cabieux": "0111000" }],
+  "Edited by": [{ "Claire Dodgson": "0000000" }],
+  "Production company": [
+    { "RatPac-Dune Entertainment": "1010000" },
+    { "Liberty Films": "1010000" }
+  ],
+  "Distributed by": [
+    {
+      "Sony Pictures Classics  (United States)  , Columbia Pictures  (Asia)": "1010000"
+    }
+  ],
+  "Release date": [
+    { "June 14, 2017  ( 2017-06-14 )  (Annecy)": "0000000" },
+    { "March 26, 2010  ( 2010-03-26 )": "1010000" }
+  ],
+  "Running time": [{ "90 minutes": "0000000" }],
+  "Country": [{ "Colorado": "1111000" }],
+  "Language": [{ "Icelandic": "1111000" }],
+  "Budget": [{ "$80 million": "0000000" }],
+  "Box office": [{ "$1.034 billion": "0000000" }],
+  "title": ["Despicable Me 3"]
+}

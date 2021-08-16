@@ -1,0 +1,46 @@
+{
+  "Also known as": [
+    { "Hawkwind Zoo": "0000000" },
+    { "Saban's Iznogoud": "1110000" },
+    { "Hawklords": "0000000" },
+    { "Inearthed (1993 - 1997)": "0010000" },
+    { "Group X": "0000000" },
+    { "JKD": "1110000" },
+    { "Jeff Killed John (1998 - 2003)": "0010000" }
+  ],
+  "Origin": [
+    { "Mesa, Arizona, U.S.": "0010000" },
+    { "England, probably early 1900s": "1110000" },
+    { "Flatbush, New York, U.S.": "0010000" }
+  ],
+  "Genres": [
+    { "Mandopop": "0111000" },
+    { "alternative rock": "0110000" },
+    { "Comedy": "1111000" },
+    { "Board game  , Abstract strategy game  , Mind sport": "1111000" },
+    { "  acid rock ": "0000000" },
+    { "Mandopop": "0111000" }
+  ],
+  "Years active": [{ "2000-present": "1010000" }],
+  "Labels": [
+    {
+      "Norwegian Nobel Committee on behalf of the estate of Alfred Nobel": "1111000"
+    },
+    { "Roadrunner": "0010000" },
+    { "28 + 3 annuals": "1111000" },
+    { "Mr. and Mrs. M.A. Foster": "0111000" },
+    { "The Glorious Dead RecordsWarner": "0010000" },
+    { "Parlophone": "0010000" },
+    { "Hood River Distillers": "1111000" },
+    { "Legacy": "0110000" },
+    { "BMG": "1010000" }
+  ],
+  "Associated acts": [
+    { "Johnny Cash": "0010000" },
+    { "Jazze Pha": "0110000" },
+    { "Motarhead": "0000000" },
+    { "Oasis": "0010000" }
+  ],
+  "Website": [{ "jerusalem.muni.il": "0110000" }],
+  "title": ["Hawkwind"]
+}

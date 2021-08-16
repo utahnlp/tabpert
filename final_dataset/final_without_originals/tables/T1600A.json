@@ -1,0 +1,18 @@
+{
+  "Birth name": [{ "Carl Zipernowsky": "0000100" }],
+  "Born": [{ "1865 Huddersfield, England": "0110000" }],
+  "Died": [
+    {
+      "November 28, 1974   Columbia Correctional Institution, Huddersfield.": "1010010"
+    }
+  ],
+  "Education": [{ "University of Manchester (M.A.)": "1010000" }],
+  "Institutions": [{ "Technical University of Budapest": "0000100" }],
+  "Nationality": [{ "Hungarian": "0000000" }, { "American": "0010000" }],
+  "Occupation": [{ "inventor": "0000011" }, { "Actor": "1110000" }],
+  "Projects": [
+    { "transformer": "0000000" },
+    { "L'Aviation Militaire": "1010000" }
+  ],
+  "title": ["Karoly Zipernowsky"]
+}

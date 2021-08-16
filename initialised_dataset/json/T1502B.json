@@ -1,0 +1,30 @@
+{
+  "Born": [
+    { "November 15, 1902, as the City and County of Denver": "0111000" }
+  ],
+  "Died": [{ "May 27, 1937; 81 years ago (1937-05-27)": "1111000" }],
+  "Nationality": [{ "Canadian - Australian": "1010000" }],
+  "Alma mater": [
+    { "Heaton, Newcastle": "1111000" },
+    { "Imperial College London (BSc, PhD)": "0110000" }
+  ],
+  "Known for": [
+    { "Law of the Minimum ": "0010000" },
+    { "Gabor limit": "0010000" }
+  ],
+  "Awards": [{ "Nobel Prize in Physics (1909)": "0000000" }],
+  "Fields": [{ "Chemistry": "0010000" }],
+  "Institutions": [
+    { "Power Memorial (Manhattan, New York)": "0111000" },
+    { "Iwate Prefectural University": "0010000" },
+    { "Central University of Venezuela (UCV)": "1010000" },
+    { "School of the Art Institute of Chicago": "0111000" },
+    { "University of Wurzburg": "0000000" }
+  ],
+  "Doctoral advisor": [{ "A. Kundt": "0000000" }, { "Jim Ring": "0110000" }],
+  "Doctoral students": [
+    { "Patrick Moore": "0111000" },
+    { "A. Schweizer": "0000000" }
+  ],
+  "title": ["Karl Ferdinand Braun"]
+}

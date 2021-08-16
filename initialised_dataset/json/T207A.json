@@ -1,0 +1,15 @@
+{
+  "Type": [{ "Not-for-profit, Private, Government Lobbyist": "0110000" }],
+  "Manufacturer": [{ "Polmos Lancut": "1010000" }],
+  "Introduced": [{ "1981": "1110000" }],
+  "Variants": [
+    { " Pink Grapefruit  (pink) ": "0010000" },
+    { "Burn Tropical ": "0000000" },
+    { " Diet Coke with Citrus Zest": "0010000" },
+    { "Club diet": "0010000" },
+    { "Kas Fruit": "0010000" },
+    { " Diet Coke with Citrus Zest": "0010000" },
+    { "(current) orange, strawberry, pineapple": "1010000" }
+  ],
+  "title": ["Burn Energy"]
+}

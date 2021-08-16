@@ -1,0 +1,17 @@
+{
+  "Type": [{ "Fire, stampede": "0110000" }],
+  "Manufacturer": [{ "DC Comics": "0111000" }],
+  "Country of origin": [{ "Switzerland": "1110000" }],
+  "Introduced": [{ "1948": "1110000" }],
+  "Flavour": [
+    { "Coffee": "1010000" },
+    { "Hoppy, floral and citrus notes with a biscuity finish.": "1010000" },
+    { "Apple": "0000000" },
+    { "Orange ": "1010000" },
+    { "fruity": "1010000" },
+    { "Guarana with Maracuja": "0000000" },
+    { "Bitter, spicy and sweet": "1010000" }
+  ],
+  "Variants": [{ "Chibuku Super": "1010000" }, { "Kas Fruit": "0000000" }],
+  "title": ["Kas"]
+}

@@ -1,0 +1,34 @@
+{
+  "Directed by": [{ "Edgar Wright": "0000000" }],
+  "Produced by": [
+    { "Michihiko Suwa ": "1110000" },
+    { "Bambang Soesatyo": "0111000" },
+    { "Paldo": "1110000" }
+  ],
+  "Written by": [{ "Common Sense": "0111000" }, { "Alisa Cutchen": "0111000" }],
+  "Starring": [{ "Simon Pegg": "0000000" }, { "Nick Frost": "0000000" }],
+  "Music by": [{ "Nicolae Dobrin": "0111000" }],
+  "Cinematography": [{ "Kim Hak-seong": "1110000" }],
+  "Edited by": [{ "Kim Hui-su": "1110000" }],
+  "Production Company": [
+    { "Toho": "1111000" },
+    { "EMI Films": "0010000" },
+    { "Enelmar Productions A.I.E.": "1111000" }
+  ],
+  "Distributed by": [{ "Shinshokan": "1111000" }, { "Atari, Inc.": "0111000" }],
+  "Release date": [
+    { "April 13, 1960 (1960-04-13)": "1110000" },
+    { "April 13, 1960 (1960-04-13)": "1110000" },
+    { "1 January 1912": "0111000" }
+  ],
+  "Running time": [{ "122 minutes": "0010000" }],
+  "Country": [
+    { "United Kingdom": "0000000" },
+    { "United States": "0110000" },
+    { "Jakarta": "0111000" }
+  ],
+  "Language": [{ "English , Somali": "1111000" }],
+  "Budget": [{ "$11 million": "1010000" }],
+  "Box office": [{ "$3.98 billion (2017)": "1111000" }],
+  "title": ["Hot Fuzz"]
+}

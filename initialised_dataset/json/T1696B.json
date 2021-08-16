@@ -1,0 +1,33 @@
+{
+  "Origin": [
+    { "Austin, Texas, United States Midland, Texas, United States": "1010000" }
+  ],
+  "Genres": [
+    { "pop rock ": "1110000" },
+    { "Action/adventure": "1111000" },
+    { " hip hop ": "1110000" },
+    { "folk rock": "0000000" },
+    { "avant-pop": "1110000" }
+  ],
+  "Years active": [
+    { "1993-present": "0010000" },
+    { "2001-present": "0010000" }
+  ],
+  "Labels": [
+    { "RCA": "0110000" },
+    { "Capitol": "0110000" },
+    { "Starz, Inc.": "0111000" },
+    { "Capitol": "1110000" },
+    { "Infinitum Nihil": "0111000" },
+    { "Thrill Jockey": "0010000" }
+  ],
+  "Associated acts": [
+    { "Tommy Brown": "1110000" },
+    { "Sinergy": "0010000" },
+    { "The Company Band": "0010000" },
+    { "Placido Domingo": "1110000" },
+    { "Wild Turkey": "0000000" }
+  ],
+  "Website": [{ "bulletformyvalentine .com": "0010000" }],
+  "title": ["Jethro Tull"]
+}

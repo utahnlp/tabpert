@@ -1,0 +1,28 @@
+{
+  "Born": [{ "1541": "0111000" }],
+  "Died": [
+    {
+      "March 415 AD (aged 44-65)  Alexandria, Province of Egypt, Eastern Roman Empire": "0000000"
+    }
+  ],
+  "Era": [{ "Ancient philosophy": "0000000" }],
+  "Region": [{ "Seoul National Capital Area": "1010000" }],
+  "School": [{ "Neoplatonism": "0000000" }],
+  "Main interests": [
+    { "Medicine": "1111000" },
+    { "Astronomy, astrology, mathematics and natural philosophy": "1111000" }
+  ],
+  "Influences": [
+    { "Plato": "0000000" },
+    { "Chris Lintott": "0110000" },
+    { "Chris Lintott": "0110000" },
+    {
+      "Brad Rheingans , Curt Hennig , Dean Malenko , Doug Basham , Nightmare Danny Davis": "1111000"
+    }
+  ],
+  "Influenced": [
+    { "James Rumbaugh": "1010000" },
+    { "Henry Briggs": "0010000" }
+  ],
+  "title": ["Hypatia"]
+}

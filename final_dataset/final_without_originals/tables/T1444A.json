@@ -1,0 +1,24 @@
+{
+  "Associated acts": [
+    { "Adventures": "0010000" },
+    { "Oasis": "0000100" },
+    { " Junk Logic": "0010000" },
+    { "Clockwise ": "0010000" }
+  ],
+  "Genres": [
+    { "music hall": "0111000" },
+    { " post-apocalyptic": "0111000" },
+    { "pop-rap": "1010000" },
+    { "trap": "0111000" },
+    { "Horror": "0111000" }
+  ],
+  "Labels": [
+    { "Dark Horse Comics": "1111000" },
+    { "Elektra": "1010000" },
+    { "SPV": "0010010" }
+  ],
+  "Origin": [{ "Foxborough, Massachusetts": "1010000" }],
+  "Website": [{ "www .asu .edu": "1110000" }],
+  "Years active": [{ "1958-2003": "1110000" }],
+  "title": ["Kasabian"]
+}

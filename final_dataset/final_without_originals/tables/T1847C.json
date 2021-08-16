@@ -1,0 +1,45 @@
+{
+  "Associated acts": [
+    { "PeroxWhy?Gen": "0010000" },
+    { "Fun": "0000000" },
+    { "Bruce Springsteen, Southside Johnny, Steel Mill": "0010000" },
+    { "Stan Getz": "0010000" },
+    { "Missy Elliott": "0110000" },
+    { "Filthy Frank": "1110000" },
+    { "Pink": "0000000" },
+    { "Culture Club": "1010000" },
+    { "The Gregory Brothers": "1110000" },
+    { "Duke Ellington": "0110000" }
+  ],
+  "Birth name": [{ "Jack Michael Antonoff": "0000000" }],
+  "Born": [{ "1503": "0111000" }],
+  "Genres": [
+    { "rap metal": "0111000" },
+    { "vocal jazz": "0110000" },
+    { "new wave": "0000000" },
+    { "Abstract strategy game ": "1111000" },
+    { "Country pop": "0111000" },
+    { "Mind sport": "1111000" }
+  ],
+  "Instruments": [
+    { "vocals": "1010000" },
+    { "Vocals": "1010000" },
+    { "Vocals ": "1010000" },
+    { "  bass ": "0010000" },
+    { "bass guitar": "0000000" },
+    { "Vocals": "0110000" }
+  ],
+  "Labels": [
+    { "Gazeta Sporturilor": "0111000" },
+    { "Roc-A-Fella": "0010000" },
+    { "Starz, Inc.": "0111000" }
+  ],
+  "Occupation(s)": [
+    { "producer": "1110000" },
+    { "rapper": "1110000" },
+    { "Musician": "0010000" },
+    { "Search and rescue dog": "1111000" }
+  ],
+  "Years active": [{ "1936 - 1946": "0110000" }],
+  "title": ["Jack Antonoff"]
+}

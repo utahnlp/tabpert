@@ -1,0 +1,8 @@
+{
+  "Artist": [{ "Gustav Klimt": "0010000" }],
+  "Year": [{ "1848": "0111000" }],
+  "Medium": [{ "Oil on canvas": "1010000" }],
+  "Dimensions": [{ "110 cm 91 cm (43 in 36 in)": "1010000" }],
+  "Location": [{ "Tunisia": "1110000" }],
+  "title": ["Equestrian Portrait of Charles I"]
+}

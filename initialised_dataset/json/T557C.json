@@ -1,0 +1,18 @@
+{
+  "Type": [{ "Oil on linen": "0110000" }],
+  "Manufacturer": [{ "StudioCanal": "0111000" }],
+  "Country of origin": [{ "Turkey": "1010000" }],
+  "Introduced": [{ "1995": "0010000" }],
+  "Colour": [{ "Tan-pink to white": "1010000" }],
+  "Variants": [
+    { "Diet Coke with Lime ": "0010000" },
+    { "pineapple": "1110000" }
+  ],
+  "Related products": [
+    { "Coca-Cola with Lemon": "0010000" },
+    { "Heaven Hill": "1010000" },
+    { "Coca-Cola with Lemon": "0010000" },
+    { "Maps, Travel guides, Car batteries": "0111000" }
+  ],
+  "title": ["Club (soft drink)"]
+}

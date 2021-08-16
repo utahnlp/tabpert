@@ -1,0 +1,35 @@
+{
+  "Capitaland largest city": [{ "Havana , 23.133; -82.383": "0010000" }],
+  "Official languages": [{ "English": "0000000" }, { "Dutch": "1010000" }],
+  "Ethnic groups": [
+    { "See Ethnic groups section below": "1010000" },
+    { "Over 300 ethnic groups": "0010000" },
+    {
+      "98.5% Japanese (Yamato people, Ainu people, Ryukyuan people)": "0111000"
+    },
+    { "3% White": "0000000" },
+    { "81.3% Maori": "1111000" }
+  ],
+  "Religion": [
+    {
+      "Christianity (Eastern Orthodox) ,  (tolerated after the Edict of Milan in 313; state religion after 380)": "1010000"
+    },
+    { "Islam": "1010000" },
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    },
+    { "Roman Catholicism": "0010000" },
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    }
+  ],
+  "Demonym(s)": [
+    { "Catanesi": "0110000" },
+    { "Motswana (singular)": "0000000" }
+  ],
+  "Government": [{ "Unitary presidential constitutional republic": "0010000" }],
+  "President": [{ "Jair Bolsonaro": "1010000" }],
+  "Vice-President": [{ "Justin Simien": "0111000" }],
+  "Legislature": [{ "Council of Representatives": "0010000" }],
+  "title": ["Republic of Botswana Lefatshe la Botswana  (Tswana)"]
+}

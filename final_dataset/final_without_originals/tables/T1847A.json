@@ -1,0 +1,47 @@
+{
+  "Associated acts": [
+    { " Heavenly Bodies": "0010000" },
+    { "the Hype": "1110000" },
+    { "Last Autumn's Dream ": "0010000" },
+    { "Charli XCX": "0000000" },
+    { "Ne-Yo": "1110000" },
+    { "The Killers": "0010000" },
+    { "August Greene": "0010000" },
+    { "Sinergy": "0010000" },
+    { "Dinah Shore": "0110000" },
+    { "Exo": "1110000" }
+  ],
+  "Birth name": [{ "Christina Maria Aguilera ": "0010000" }],
+  "Born": [{ "Chaser , February 15, 1987, Texas, U.S.": "1110010" }],
+  "Genres": [
+    { "pop": "1110000" },
+    { "rock": "1110000" },
+    { "baroque pop": "1010000" },
+    { "soft rock": "0010000" },
+    { "Mandopop": "0111000" },
+    { "power pop": "0000000" }
+  ],
+  "Instruments": [
+    { "Vocals": "0110000" },
+    { "Guitar": "0010000" },
+    { "Vocals": "0110000" },
+    { "Vocals": "1010000" },
+    { "Vocals": "1110000" },
+    { "mandolin": "0000000" }
+  ],
+  "Labels": [
+    { "Independent (2009 - 2015)": "0110000" },
+    {
+      "Norwegian Nobel Committee on behalf of the estate of Alfred Nobel": "1111000"
+    },
+    { "Decca, Canis Major, Special Friends": "1010000" }
+  ],
+  "Occupation(s)": [
+    { "Singer": "1010000" },
+    { "Ship's mascot": "0111000" },
+    { "record producer": "0000000" },
+    { "  photographer ": "0010000" }
+  ],
+  "Years active": [{ "1997 - present": "1010010" }],
+  "title": ["Jack Antonoff"]
+}

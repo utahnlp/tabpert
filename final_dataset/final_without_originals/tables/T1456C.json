@@ -1,0 +1,25 @@
+{
+  "Aphelion": [{ "152100000 km ,  (94500000 mi; 1.017 AU)": "1010000" }],
+  "Argument of perihelion": [{ "273.867": "0000000" }],
+  "Average orbital speed": [{ "13.07 km/s (8.12 mi/s)": "0000000" }],
+  "Eccentricity": [{ " 0.0489": "0000000" }],
+  "Inclination": [
+    { "150.0\u00b0": "1110000" },
+    { "150.0\u00b0": "1110000" },
+    { "0.32 to invariable plane": "0000000" }
+  ],
+  "Known satellites": [{ "79 (as of  2018)": "0000000" }],
+  "Longitude of ascending node": [
+    { "\u221211.26064\u00b0 to J2000 ecliptic": "1010000" }
+  ],
+  "Mean anomaly": [{ "7000625904740362451\u2660358.617\u00b0": "1010000" }],
+  "Orbital period": [
+    { "85.131 \u00b1 0.1161 d": "1010000" },
+    { "29.15 \u00b1 0.0201 d": "1010000" },
+    { "85.131 \u00b1 0.1161 d": "1010000" }
+  ],
+  "Perihelion": [{ "147095000 km ,  (91401000 mi; 0.98327 AU)": "1010000" }],
+  "Semi-major axis": [{ "0.3456 \u00b1 0.0047 AU": "1010000" }],
+  "Synodic period": [{ "398.88 d": "0000000" }],
+  "title": ["Jupiter"]
+}

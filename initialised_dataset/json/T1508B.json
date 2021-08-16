@@ -1,0 +1,16 @@
+{
+  "Type": [{ "bioinformatics database, Software as a service": "1110000" }],
+  "Manufacturer": [{ "Diageo": "0010000" }],
+  "Country of origin": [{ "Funchal, Madeira, Portugal": "0111000" }],
+  "Introduced": [{ "1876": "1010000" }],
+  "Discontinued": [{ "January 1, 1992 (1992-01-01)": "0110000" }],
+  "Related products": [
+    {
+      "Noodles, Biscuits, Wafers, Cookies, Packaged Baked Goods, Culinary Aids, Beverages": "1111000"
+    },
+    { "List of vodkas": "0010000" },
+    { "Maps, Travel guides, Car batteries": "0111000" },
+    { "Jolt": "0000000" }
+  ],
+  "title": ["Josta"]
+}

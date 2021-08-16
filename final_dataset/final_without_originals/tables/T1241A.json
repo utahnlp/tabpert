@@ -1,0 +1,31 @@
+{
+  "Also known as": [{ "Club Colectiv tragedy": "0110000" }],
+  "Best-selling game": [
+    { "Pac-Man , 7 million  (As of September 1, 2006 )": "0000010" }
+  ],
+  "CPU": [{ "8-bit MOS Technology 6507 @ 1.19 MHz": "0000000" }],
+  "Controller input": [
+    { "Joystick": "0000000" },
+    { "Paddles": "0000000" },
+    { "Driving": "0000000" },
+    { "Keypad": "0000000" },
+    { "Trak-Ball": "0000000" }
+  ],
+  "Discontinued": [{ "January 1, 1992 (1992-01-01)": "0000000" }],
+  "Generation": [{ "Third Generation": "0000010" }],
+  "Introductory price": [{ "US$200 million (May 2017 estimate)": "0111000" }],
+  "Lifespan": [{ "1977-1992": "0000000" }],
+  "Manufacturer": [{ "Atari, Inc.": "0000000" }],
+  "Media": [{ "ROM cartridge": "0000000" }],
+  "Memory": [{ "128 bytes RAM": "0000000" }],
+  "Predecessor": [{ "Wilberforce": "1110000" }],
+  "Release date": [
+    { "October 21, 2016  ( 2016-10-21 )  (United States)": "0110000" },
+    { "EU: 1976": "0000010" },
+    { "2014": "1111000" }
+  ],
+  "Successor": [{ "Atari 8-bit family / Atari 5200": "0000000" }],
+  "Type": [{ "Home video game console": "0000100" }],
+  "Units sold": [{ "30 million  (As of 2004 [update] )": "0000000" }],
+  "title": ["Atari 2600"]
+}

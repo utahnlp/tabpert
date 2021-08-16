@@ -1,0 +1,23 @@
+{
+  "Born": [{ "February 1936 Shanghai, China": "0110000" }],
+  "Died": [
+    {
+      "May 29, 1997 (1997-05-29)  (aged 30) Memphis, Tennessee, U.S.": "1110000"
+    }
+  ],
+  "Era": [{ "Ancient philosophy": "0000000" }],
+  "Region": [{ "Worldwide": "1110000" }],
+  "School": [{ "Neoplatonism": "0000000" }],
+  "Main interests": [
+    { "Polarography ": "1111000" },
+    { "Electrical engineering Physics": "0111000" }
+  ],
+  "Influences": [
+    { "George \u021aucudean": "0111000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1111000" },
+    { "Benjamin Thompson": "1010000" },
+    { "Theon of Alexandria": "0000000" }
+  ],
+  "Influenced": [{ "Damascius": "0000000" }, { "William Thomson": "1010000" }],
+  "title": ["Hypatia"]
+}

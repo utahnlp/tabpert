@@ -1,0 +1,15 @@
+{
+  "Type": [{ "Home video game console": "0110000" }],
+  "Manufacturer": [{ "Monster Beverage": "0000000" }],
+  "Introduced": [{ "1981": "1110000" }],
+  "Variants": [
+    { "Crested Ten, 12 Year Old, 18 Year Old, Gold": "1010000" },
+    { "Club Zero": "0010000" },
+    { " Coconut  (Silver) ": "0010000" },
+    { "Burn Blue ": "0000000" },
+    { "Boeing C-32": "1110000" },
+    { "Burn Original ": "1010000" },
+    { "Bitter Kas": "0010000" }
+  ],
+  "title": ["Burn Energy"]
+}

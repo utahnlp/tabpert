@@ -1,0 +1,51 @@
+{
+  "Motto": [{ "Societas Regalis Edinburgi": "0010000" }],
+  "Motto in English": [
+    {
+      "The welfare of the state depends upon the morals of its citizens": "1010000"
+    }
+  ],
+  "Type": [
+    {
+      "State university , Flagship , Land-grant university , Sea-grant university , Space-grant university": "1010000"
+    }
+  ],
+  "Established": [{ "1636 (1636)": "1010000" }],
+  "Academic affiliations": [
+    { "APLU , ORAU , SURA": "0010000" },
+    { "Universities Research Association": "1010000" },
+    { "Oak Ridge National Laboratory": "0000000" },
+    { "Utah System of Higher Education , APLU": "1010000" },
+    { "APLU , ORAU , SURA": "0010000" },
+    { "University Corporation for Atmospheric Research": "0000000" },
+    { "Universities Research Association": "0000000" }
+  ],
+  "Budget": [{ "$1.7 billion (2017)": "0000000" }],
+  "Chairman": [{ "Leonard Barr (uncle)": "0111000" }],
+  "President": [{ "Ana Mari Cauce": "1010000" }],
+  "Provost": [{ "Mark Searle": "1110000" }],
+  "Academic staff": [{ "1,330 (2017)": "1010000" }],
+  "Administrative staff": [{ "17,498 (Fall 2015)": "1010000" }],
+  "Students": [
+    {
+      "51,869 Tempe campus , 11,737 Downtown Phoenix campus , 4,809 Polytechnic campus , 4,063 West campus , 327 Thunderbird School, 30,000 online": "1110000"
+    }
+  ],
+  "Undergraduates": [{ "83,544": "1110000" }],
+  "Postgraduates": [{ "19,986": "1110000" }],
+  "Location": [
+    {
+      "Ithaca, New York, U.S. , 42\u00b026\u203250\u2033N 76\u00b028\u203259\u2033W\ufeff / \ufeff42.44722\u00b0N 76.48306\u00b0W\ufeff / 42.44722; -76.48306Coordinates: 42\u00b026\u203250\u2033N 76\u00b028\u203259\u2033W\ufeff / \ufeff42.44722\u00b0N 76.48306\u00b0W\ufeff / 42.44722; -76.48306": "1010000"
+    }
+  ],
+  "Campus": [
+    {
+      "Urban , Tempe: 661.6 acres (2.677 km 2 ) , Polytechnic: 574.55 acres (2.3251 km 2 ) , West: 277.92 acres (1.1247 km 2 ) , Downtown Phoenix: 17.97 acres (0.0727 km 2 )": "1110000"
+    }
+  ],
+  "Colors": [{ "Maroon and Gold ,": "1110000" }],
+  "Nickname": [{ "Patriots": "0010000" }],
+  "Sporting affiliations": [{ "NCAA Division I - ACC": "0000000" }],
+  "Website": [{ "jimmyeatworld .com": "0110000" }],
+  "title": ["Florida State University"]
+}

@@ -1,0 +1,23 @@
+{
+  "Directed by": [{ "Chen Chi-hwa": "1010000" }],
+  "Produced by": [{ "Paldo": "1110000" }, { "Elizabeth II": "1111000" }],
+  "Written by": [{ "John Hughes": "1010000" }],
+  "Starring": [
+    { "Patrick McGoohan": "1010000" },
+    { "Raj Singh": "0111000" },
+    { "Melinda Dillon": "0000000" },
+    { "Edward Norton": "1010000" }
+  ],
+  "Music by": [{ "Brian Tyler": "0010000" }],
+  "Cinematography": [{ "Jan de Bont": "0010000" }],
+  "Edited by": [{ "David Rennie": "0010000" }],
+  "Production Company": [{ "View Askew Productions": "1010000" }],
+  "Distributed by": [{ "Columbia Pictures": "0010000" }],
+  "Release date": [{ "August 3, 2017 ( 2017-08-03 )  (MIFF)": "0010000" }],
+  "Running time": [{ "135 minutes": "0000000" }],
+  "Country": [{ "United States": "0000000" }],
+  "Language": [{ "English": "1010000" }],
+  "Budget": [{ "$665 million (2017)": "1111000" }],
+  "Box office": [{ "\u00a320,000,000": "1111000" }],
+  "title": ["Close Encounters of the Third Kind"]
+}

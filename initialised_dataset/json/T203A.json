@@ -1,0 +1,38 @@
+{
+  "Capital and largest city": [{ "Tokyo": "0000000" }],
+  "Official languages": [{ "English": "0111000" }],
+  "National language": [{ "Arabic": "1111000" }],
+  "Demonym(s)": [{ "Catanesi": "0110000" }],
+  "Government": [{ "Unitary parliamentary republic": "0010000" }],
+  "Ethnic groups (2011)": [
+    {
+      "98.5% Japanese (Yamato people, Ainu people, Ryukyuan people)": "0000000"
+    },
+    { " ~2,000 South Asians": "0111000" },
+    { "81.3% Maori": "1010000" },
+    { "0.8% White": "1111000" }
+  ],
+  "Religion": [
+    { "Anglican": "1110000" },
+    { "7.0% Protestatism": "0010000" },
+    { "State secularism  (1991-1996)  , Sunni Islam  (1996-2000)": "1010000" },
+    { "Sunni Islam": "1010000" },
+    { "Islam": "0010000" },
+    { "7% No answer": "0000000" }
+  ],
+  "Emperor ": [{ "Jusuf Kalla": "0111000" }],
+  "Crown Prince ": [{ "G. P. \"Bud\" Peterson": "1111000" }],
+  "Prime Minister ": [{ "Aksel V. Johannesen": "0010000" }],
+  "Deputy Prime Minister ": [{ "ca.  80,000": "1111000" }],
+  "Speaker of the House of Representatives ": [{ "Karl Hanke": "1111000" }],
+  "President of the House of Councillors ": [
+    {
+      "Position established  Himself as Vice President of Executive Council": "1111000"
+    }
+  ],
+  "Chief Justice ": [{ "Naoto otani": "0000000" }],
+  "Legislature": [{ "Parliament": "0110000" }],
+  "Upper house": [{ "Senate": "0010000" }],
+  "Lower house": [{ "Chamber of Deputies": "0010000" }],
+  "title": ["Japan  (Nippon/Nihon)"]
+}

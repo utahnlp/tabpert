@@ -1,0 +1,21 @@
+{
+  "Origin": [{ "Flatbush, New York, U.S.": "0000000" }],
+  "Genres": [{ "swing": "0110000" }, { "technical death metal": "1010000" }],
+  "Years active": [{ "1966-1973": "0010000" }],
+  "Labels": [{ "Island Def Jam  (current) ": "1010000" }],
+  "Associated acts": [
+    { "Jamiroquai": "1110000" },
+    { "RZA ": "0000000" },
+    { "Karma to Burn": "0010000" },
+    { "Exo": "1110000" },
+    { "Nicki Minaj": "0110000" },
+    { "Chad Mitchell Trio": "1110000" },
+    { "Steel Panther": "1010000" },
+    { "Bing Crosby": "0110000" },
+    { "World's Fair ": "0000000" },
+    { "Did You Know Gaming?": "1110000" },
+    { "Exo-K": "1110000" }
+  ],
+  "Website": [{ "jerryleelewis.com": "0010000" }],
+  "title": ["Flatbush Zombies"]
+}

@@ -1,0 +1,23 @@
+{
+  "Country": [{ "United States": "1010000" }],
+  "Breed": [{ "Yorkshire Terrier": "0010000" }],
+  "Brand": [{ "13/6": "1010000" }],
+  "Sex": [{ "Bull": "0000000" }],
+  "Color": [{ "Clear": "0110000" }],
+  "Weight": [{ "250-1000 g.": "1110000" }],
+  "Born": [{ "February 1936 Shanghai, China": "0010000" }],
+  "Years active": [{ "2008-2010": "0000000" }],
+  "Sire": [{ "Curlin": "1010000" }],
+  "Paternal grandsire": [{ "Kish's #624 Wolfman": "0000000" }],
+  "Paternal granddam": [{ "AN #11": "1010000" }],
+  "Dam": [{ "Razyana": "0010000" }],
+  "Maternal grandsire": [{ "Diamond's Ghost": "1010000" }],
+  "Maternal granddam": [{ "Ratjen Breeding": "1010000" }],
+  "Breeder": [{ "Jones Farms": "0000000" }],
+  "Owner": [
+    { "Registered charity No. SC000470": "0110000" },
+    { "Lord Derby , Wally Sturt": "1010000" }
+  ],
+  "Notable riders": [{ "J.B. Mauney": "1010000" }],
+  "title": ["Code Blue"]
+}

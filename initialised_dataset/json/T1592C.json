@@ -1,0 +1,48 @@
+{
+  "Directed by": [{ "City Complex, Gulshan-e-Iqbal Town": "0111000" }],
+  "Produced by": [
+    { "Greg McLean": "0010000" },
+    { "Katsuo Ono": "1111000" },
+    { "Jonathan Gordon": "0000000" },
+    { "Barbara Broccoli": "1010000" },
+    { "William Wyler": "1010000" }
+  ],
+  "Screenplay by": [{ "J.B. Mauney": "0111000" }],
+  "Story by": [
+    { "Miriam Sternberg": "1111000" },
+    { "David O. Russell": "0000000" }
+  ],
+  "Starring": [
+    { "Adewale Akinnuoye-Agbaje": "0010000" },
+    { "Dick Hern": "0111000" },
+    { "Edgar Ramirez": "0000000" },
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Bobby Cannavale": "1010000" },
+    { "Sam Elliott": "1010000" },
+    { "Ptolemy XIII Theos Philopator": "1111000" }
+  ],
+  "Music by": [{ "Johnny Klimek": "0010000" }, { "David Campbell": "0000000" }],
+  "Cinematography": [{ "Gary Slade": "1111000" }],
+  "Edited by": [
+    { "Ron Howard (father)": "1111000" },
+    { "Jay Cassidy": "0000000" },
+    { "Tom Cross": "0000000" },
+    { "Christopher Tellefsen": "0000000" }
+  ],
+  "Distributed by": [{ "Walt Disney Pictures": "1111000" }],
+  "Release date": [
+    { "September 25, 2015 (2015-09-25) (Fantastic Fest)": "0010000" }
+  ],
+  "Running time": [{ "124 minutes": "0000000" }],
+  "Country": [{ "Candlewick": "0111000" }],
+  "Language": [{ "English": "0010000" }],
+  "Budget": [{ "$60 million": "0000000" }],
+  "Box office": [{ "US$200 million (May 2017 estimate)": "0111000" }],
+  "Production company": [
+    { "7": "1110000" },
+    { "7": "1110000" },
+    { "Annapurna Pictures": "0000000" },
+    { "Lynda Obst Productions": "1010000" }
+  ],
+  "title": ["Joy"]
+}

@@ -1,0 +1,28 @@
+table_id	hypothesis	label	strategies	table_rows
+T447A	China's constitution came before the People's Republic was proclaimed.	E	100000	"['Current constitution ', ""Proclamation of the People's Republic ""]"
+T447A	People's Republic of China was declared ahead of the Proclamation.	C	100000	"[""Proclamation of the People's Republic "", ""People's Republic declared ""]"
+T447A	The People's Republic of China had their current constitution written in the 1980s.	C	100000	['Current constitution ']
+T447A	The Proclamation of the People's Republic preceded the People's Republic declaration.	E	100000	"[""People's Republic declared "", ""Proclamation of the People's Republic ""]"
+T447A	The current constitution has been amended many times since its inception.	N	000100	[]
+T447A	The People's Republic of China has had similar foreign policies and never changed it's boundaries since 1949.	N	000100	[]
+T447A	China's imperial rulers never lost to any invaders until British Company in 18th Century.	N	000010	[]
+T447A	The People's Republic of China had a imperial unification from over 1500 years.	E	000100	['First imperial unification ', 'Republic established ']
+T447A	China has had two republic periods followed by a monarchy.	C	000000	"['Last polity admitted ', ""People's Republic declared "", ""Proclamation of the People's Republic "", 'Republic established ']"
+T447B	The Proclamation of the People's Republic succeced the People's Republic declaration.	E	010000	"[""Proclamation of the People's Republic "", ""People's Republic declared ""]"
+T447B	The current constitution established on 10 June 1980 has not changed since its inception.	N	001000	['Current constitution ']
+T447B	People's Republic of China was declared after Proclamation.	C	010000	"[""People's Republic declared "", ""Proclamation of the People's Republic ""]"
+T447B	The People's Republic of China has it's constitution established same year as it's last admitted polity .	E	000010	['Current constitution ', 'Last polity admitted ']
+T447B	The People's Republic of China has had similar political policies since 1980 when it's constitution was established.	N	001000	['Current constitution ']
+T447B	The People's Republic of China had their current constitution written in the 1950s.	C	010000	['Current constitution ']
+T447B	China's constitution came after the People's Republic was proclaimed.	E	010000	"['Current constitution ', ""Proclamation of the People's Republic ""]"
+T447B	China's People's Republic established in 1912 came because of the failings of the the government in place since 1912.	N	001000	['Republic established ']
+T447B	China has already had two republic periods before 1920s.	C	010000	"[""People's Republic declared "", ""Proclamation of the People's Republic "", 'Republic established ']"
+T447C	China has had two republic periods.	E	000000	[]
+T447C	China's People's Republic came because of the failings of the the government in place since 1912.	N	000000	[]
+T447C	China's constitution came before the People's Republic was proclaimed.	C	000000	[]
+T447C	People's Republic of China was declared ahead of the Proclamation.	E	000000	[]
+T447C	The People's Republic of China had their current constitution written in the 1980s.	E	000000	[]
+T447C	The People's Republic of China has had similar political policies since 1949.	N	000000	[]
+T447C	The People's Republic of China has had the same ruling families for over 1000 years.	C	000000	[]
+T447C	The Proclamation of the People's Republic preceded the People's Republic declaration.	C	000000	[]
+T447C	The current constitution has not changed since its inception.	N	000000	[]

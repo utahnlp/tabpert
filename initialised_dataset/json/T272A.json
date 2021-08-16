@@ -1,0 +1,30 @@
+{
+  "Birth name": [{ "Ernesto Zedillo Ponce de Leon": "1110000" }],
+  "Born": [
+    {
+      "December 23, 1929 ( 1929-12-23 )  Yale, Oklahoma, United States": "0000000"
+    }
+  ],
+  "Died": [
+    { "May 13, 1988 (1988-05-13)  (aged 58) Amsterdam, Netherlands": "0000000" }
+  ],
+  "Genres": [
+    { "Pop": "1110000" },
+    { "bebop ": "0000000" },
+    { "Rock ": "0110000" }
+  ],
+  "Occupation(s)": [{ "songwriter": "1010000" }, { "singer": "0000000" }],
+  "Instruments": [
+    { "Vocals  piano": "1110000" },
+    { "Vocals": "0010000" },
+    { "Vocals": "1110000" }
+  ],
+  "Years active": [{ "2008-2010": "0110000" }],
+  "Labels": [{ "Pacific Jazz, RCA, Epic": "0000000" }],
+  "Associated acts": [
+    { "Innosense": "0110000" },
+    { "Jamiroquai": "1110000" },
+    { "Stan Getz": "0000000" }
+  ],
+  "title": ["Chet Baker"]
+}

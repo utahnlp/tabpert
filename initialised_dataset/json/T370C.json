@@ -1,0 +1,21 @@
+{
+  "Origin": [{ "introduced 1813": "1110000" }],
+  "Genres": [
+    { "Alternative rock": "0000000" },
+    { "R&B": "0110000" },
+    { "power pop": "0000000" },
+    { "grunge": "0000000" }
+  ],
+  "Years active": [{ "1991 - present": "0000000" }],
+  "Labels": [
+    { "Decca, Brunswick, Coral": "1010000" },
+    { "Bad Robot Productions": "1111000" },
+    { "Sainsbury's Supermarkets": "1111000" },
+    { "Avatar Press": "0111000" },
+    { "Cleopatra": "0000000" },
+    { "Reprise": "0110000" },
+    { "Wagram, MVKA, Le Plan Recordings": "0010000" }
+  ],
+  "Website": [{ "www .aaa .com": "0110000" }],
+  "title": ["Everclear"]
+}

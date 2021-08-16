@@ -1,0 +1,26 @@
+{
+  "Airport type": [{ "Public": "1010000" }],
+  "Owner": [{ "City of New York": "0000000" }],
+  "Operator": [{ "NASA / JPL": "1110000" }],
+  "Serves": [{ "London, England": "1010000" }],
+  "Location": [{ "Osterreichische Galerie Belvedere,  Vienna": "0110000" }],
+  "Opened": [{ "2004": "1111000" }],
+  "Hub for": [
+    { "Virgin Atlantic": "1111000" },
+    { "British Airways": "1010000" },
+    { "AirAsia": "1111000" }
+  ],
+  "Focus city for": [{ "Singapore Airlines Cargo": "1111000" }],
+  "Time zone": [{ "UTC+7 (Indonesia Western Time)": "1110000" }],
+  "Summer (DST)": [{ "UTC\u22127 (Pacific)": "1110000" }],
+  "Elevation AMSL": [{ "0 m (0 ft)": "1111000" }],
+  "Coordinates": [
+    {
+      "37\u00b049\u203211\u2033N 122\u00b028\u203243\u2033W\ufeff / \ufeff37.81972\u00b0N 122.47861\u00b0W\ufeff / 37.81972; -122.47861Coordinates: 37\u00b049\u203211\u2033N 122\u00b028\u203243\u2033W\ufeff / \ufeff37.81972\u00b0N 122.47861\u00b0W\ufeff / 37.81972; -122.47861": "1110000"
+    }
+  ],
+  "Website": [
+    { "www .heathrow .com & Official Parking Booking Website": "1010000" }
+  ],
+  "title": ["Runways"]
+}

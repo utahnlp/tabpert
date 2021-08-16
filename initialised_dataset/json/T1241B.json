@@ -1,0 +1,33 @@
+{
+  "Also known as": [{ "Otis Wilbury": "0110000" }],
+  "Manufacturer": [{ "The Coca-Cola Company": "0110000" }],
+  "Type": [{ "Fire, stampede": "0110000" }],
+  "Generation": [{ "Second Generation": "0000000" }],
+  "Release date": [
+    { "March 23, 2018  ( 2018-03-23 )  (United States)": "1110000" },
+    { "May 20, 2009  ( 2009-05-20 )  (Cannes)": "1110000" },
+    { "1994-present": "1111000" }
+  ],
+  "Lifespan": [{ "1977-1992": "0000000" }],
+  "Introductory price": [
+    { "US$199 (equivalent to $822.77 in 2018)": "0000000" }
+  ],
+  "Discontinued": [{ "1999": "0110000" }],
+  "Units sold": [{ "30 million  (As of 2004 [update] )": "0000000" }],
+  "Media": [{ "ROM cartridge": "0000000" }],
+  "CPU": [{ "8-bit MOS Technology 6507 @ 1.19 MHz": "0000000" }],
+  "Memory": [{ "128 bytes RAM": "0000000" }],
+  "Controller input": [
+    { "Joystick": "0000000" },
+    { "Paddles": "0000000" },
+    { "Driving": "0000000" },
+    { "Keypad": "0000000" },
+    { "Trak-Ball": "0000000" }
+  ],
+  "Best-selling game": [
+    { "Pac-Man , 7 million  (As of September 1, 2006 [update] )": "0000000" }
+  ],
+  "Predecessor": [{ "Wilberforce": "1110000" }],
+  "Successor": [{ "Sybil": "1110000" }],
+  "title": ["Atari 2600"]
+}

@@ -1,0 +1,28 @@
+table_id	hypothesis	label	strategies	table_rows
+T947A	Confucians make up the smallest religious group in Botswana.	E	010000	['Religion']
+T947A	English is the only language in Havana
+T947A	Jair Bolsonaro has been Botswana's president for over a decade with Justice Simien as his vice president.	N	001000	['President'
+T947A	Republic of Botswana
+T947A	The Republic of Botswana is a majority Christian country.	C	100000	['Religion']
+T947A	The Republic of Botswana is located north of the equator.	E	100000	['Capitaland largest city']
+T947A	The Republic of Botswana's capital city is Gaborone.	C	100000	['Capitaland largest city']
+T947A	There are more who practice the Muslim religion than the Christian religion in the Republic of Botswana.	E	110000	['Religion']
+T947A	Tswana people are the largest ethnic group in Botswana.	C	100000	['Ethnic groups']
+T947B	Christians make up the smallest religious group in Botswana.	N	100000	['Religion']
+T947B	English and Setswana are the only languages in Gaborone
+T947B	Mokgweetsi Masisi has been Botswana's president with Tadomori Oshima as his vice president for one term.	N	000100	['Vice-President'
+T947B	Over one-tenth of the people in Botswana follow more than one religion	E	000010	['Religion']
+T947B	Republic of Botswana
+T947B	The Republic of Botswana is a majority Christian country.	C	100000	['Religion']
+T947B	The Republic of Botswana is located south of the equator.	E	010000	['Capitaland largest city']
+T947B	The Republic of Botswana's largest city is Gaborone.	E	000100	['Capitaland largest city']
+T947B	Tswana people are the largest ethnic group in Botswana.	C	100000	['Ethnic groups']
+T947C	Over 20% of the people in Botswana follow more than one religon.	C	000010	['Religion']
+T947C	The Republic of Botswana is located in the West.	E	000100	['Capitaland largest city']
+T947C	There are thousands of ethnic groups in Botswana.	C	000100	['Ethnic groups']
+T947C	Botswana has multiple vice presidents.	E	000010	['Vice-President']
+T947C	Christians make up the largest religious group in Botswana.	E	010000	['Religion']
+T947C	Republic of Botswana has a monarch.	E	000100	['Government']
+T947C	The Republic of Botswana's current president is a Muslim	N	000000	['President']
+T947C	The Republic of Botswana's economic capital city is also its largest city.	N	000010	['Capitaland largest city']
+T947C	Havana has two official languages.	N	000100	['Capitaland largest city'

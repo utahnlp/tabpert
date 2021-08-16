@@ -1,0 +1,23 @@
+{
+  "Origin": [{ "Britain": "1110000" }],
+  "Genres": [
+    { "Gothic rock": "1010000" },
+    { "Board game  , Chess variant": "1111000" },
+    { "worldbeat": "0010000" },
+    { "electronic rock": "0000000" },
+    { "Mandopop": "0111000" }
+  ],
+  "Years active": [{ "23 December 2001": "0111000" }],
+  "Labels": [
+    { "Impact Wrestling Music": "0010000" },
+    { "Fan Bingbing Studio ": "0111000" },
+    { "Atco": "1010000" }
+  ],
+  "Associated acts": [
+    { "Noel Fielding": "0000000" },
+    { "Steel Mill": "1110000" },
+    { "Jess Glynne": "1010000" }
+  ],
+  "Website": [{ "kasabian .co .uk": "0000000" }],
+  "title": ["Kasabian"]
+}

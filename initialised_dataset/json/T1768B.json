@@ -1,0 +1,23 @@
+{
+  "Also known as": [{ "BGs": "1110000" }, { "Saban's Iznogoud": "1110000" }],
+  "Origin": [{ "Britain": "1110000" }],
+  "Genres": [
+    { "alternative rock": "0110000" },
+    { "Hard rock": "1010000" },
+    { "Science fiction": "1111000" },
+    { "speed metal": "0000000" }
+  ],
+  "Years active": [{ "2008-2010": "0110000" }],
+  "Labels": [
+    { "Gazeta Sporturilor": "0111000" },
+    {
+      "Norwegian Nobel Committee on behalf of the estate of Alfred Nobel": "1111000"
+    }
+  ],
+  "Associated acts": [
+    { "Game Grumps": "1110000" },
+    { "The Killers": "0010000" }
+  ],
+  "Website": [{ "www .icedearth .com": "0000000" }],
+  "title": ["Iced Earth"]
+}

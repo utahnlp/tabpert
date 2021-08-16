@@ -1,0 +1,33 @@
+{
+  "Capitaland largest city": [{ "Havana , 23.133; -82.383": "0010000" }],
+  "Official languages": [{ "English": "0000000" }, { " Setswana": "0000000" }],
+  "Ethnic groups": [
+    { "Over 300 ethnic groups": "0010000" },
+    { "0.4% Chinese": "0111000" },
+    { "0.4% Chinese": "0111000" },
+    { "3% White": "0000000" },
+    {
+      "List Javanese, Chinese, Indian, Madurese, Sundanese, Minangkabau, Batak, Banjar, Balinese, Bugis, Malay, Arabs": "1110000"
+    }
+  ],
+  "Religion": [
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    },
+    {
+      "Islam 80.13% ,  Christianity 18.10% ,  Hinduism 0.26% ,  Buddhism 1.49% ,  Confucianism 0.01%": "1110000"
+    },
+    { "Church of Denmark": "1010000" },
+    { "2.0% Christian": "1010000" },
+    { "Roman Catholicism": "0010000" }
+  ],
+  "Demonym(s)": [
+    { "Batswana (plural)": "0000000" },
+    { "Yerevantsi(s), Yerevanite(s)": "1110000" }
+  ],
+  "Government": [{ "Unitary Islamic absolute , monarchy": "1010000" }],
+  "President": [{ "Mokgweetsi Masisi": "0000000" }],
+  "Vice-President": [{ "Tadamori Oshima": "0111000" }],
+  "Legislature": [{ "National Assembly": "0000000" }],
+  "title": ["Republic of Botswana Lefatshe la Botswana  (Tswana)"]
+}

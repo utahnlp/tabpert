@@ -1,0 +1,26 @@
+{
+  "Type": [{ "Vodka": "0000000" }],
+  "Manufacturer": [{ "Kidinakorner": "1111000" }],
+  "Country of origin": [{ "Switzerland": "1110000" }],
+  "Introduced": [{ "2003": "0000000" }],
+  "Proof (US)": [{ "80": "1010000" }],
+  "Variants": [
+    { "Kas Fruit": "0010000" },
+    { "ATR 72": "1110000" },
+    { " Red Berry  (Red) ": "0000000" },
+    { " kola champagne": "1110000" },
+    { " Peach  (Orange) ": "0000000" },
+    { "Burn Sugarfree ": "0010000" },
+    {
+      "cola, champagne, strawberry, pineapple, orange, soda and dorada": "1010000"
+    },
+    { " Apple  (Green) ": "0000000" },
+    { "Club Zero": "0010000" },
+    { "Kas Fruit": "0010000" },
+    { "Bitter Kas": "0010000" },
+    { "Kas Fruit": "0010000" },
+    { "Beefamato, Nutrimato, X-tra Spicy, The Works": "1010000" }
+  ],
+  "Related products": [{ "List of vodkas": "0000000" }],
+  "title": ["Ciroc"]
+}

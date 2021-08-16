@@ -1,0 +1,51 @@
+{
+  "Directed by": [{ "James Schamus": "1111000" }],
+  "Produced by": [
+    { "Kevin Costner": "1010000" },
+    { "  Masahito Yoshioka": "1110000" },
+    { "Michael Fottrell": "0000000" }
+  ],
+  "Written by": [{ "Cinco Paul": "0010000" }],
+  "Based on": [
+    { "The Fast and the Furious  by Gary Scott Thompson": "0000000" }
+  ],
+  "Starring": [
+    { "Choi Moo-ryong , Kim Jin-kyu , Moon Jeong-suk": "1110000" },
+    { "Vin Diesel ": "0000000" },
+    { "Michelle Rodriguez ": "0000000" },
+    { "Missi Pyle": "0010000" },
+    { "Gal Gadot ": "0000000" },
+    { "William Doyle": "1111000" },
+    { "Tego Calderon ": "0000000" },
+    { "John Ortiz ": "0000000" },
+    { "Jacqui Gettings (Operations Manager)": "1111000" }
+  ],
+  "Music by": [
+    {
+      "Kenji Kodama  (#1-118)  ,  Yasuichiro Yamamoto  (#119-332, #667-currently)  ,  Masato Sato (#333-504)  , Kojin Ochi  (#505-666)": "1111000"
+    }
+  ],
+  "Cinematography": [{ "Chad C. Brown": "1111000" }],
+  "Edited by": [
+    { "Christian Wagner ": "0000000" },
+    {
+      "3 club owners, 2 ISU employees, Mayor Cristian Popescu Piedone and 2 functionaries of Sector 4 Town Hall": "0111000"
+    }
+  ],
+  "Production companies": [
+    { "Fan Bingbing Studio ": "0111000" },
+    { "Sinebrychoff": "1111000" },
+    { "Fan Bingbing Studio ": "0111000" }
+  ],
+  "Distributed by": [{ "Columbia Pictures": "0111000" }],
+  "Release date": [
+    { "April 13, 1960 (1960-04-13)": "1110000" },
+    { "April 3, 2009  ( 2009-04-03 )  (United States)": "0000000" }
+  ],
+  "Running time": [{ "123 minutes": "1010000" }],
+  "Country": [{ "United States": "0010000" }],
+  "Language": [{ "English": "1110000" }],
+  "Budget": [{ "$50.7 billion (2017) [update]": "1111000" }],
+  "Box office": [{ "$585.2 million": "1010000" }],
+  "title": ["Fast & Furious"]
+}

@@ -1,0 +1,18 @@
+{
+  "Species": [{ "Kryptonian": "1010000" }],
+  "Breed": [{ "Pointer": "0010000" }],
+  "Sex": [{ "Stallion": "0010000" }],
+  "Born": [
+    {
+      "(1990-07-18) July 18, 1990 (age 28) , Guadalajara, Jalisco, Mexico": "1110000"
+    }
+  ],
+  "Died": [{ "23 September 1871": "0000000" }],
+  "Nation from": [{ "Egypt": "1010000" }],
+  "Occupation": [{ "Actor, director, producer": "1110000" }],
+  "Known for": [{ "Japanese Prisoner of war": "0010000" }],
+  "Owner": [{ "Our Friends in the North": "1010000" }],
+  "Parent(s)": [{ "Robert Pine ": "1110000" }],
+  "Named after": [{ "Melvil Dewey": "1010000" }],
+  "title": ["Huddersfield Ben"]
+}

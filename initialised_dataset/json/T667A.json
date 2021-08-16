@@ -1,0 +1,38 @@
+{
+  "Directed by": [{ "Kevin Costner": "1010000" }],
+  "Produced by": [
+    { "Thiago Paguioto": "1111000" },
+    { "Haile Selassie I  (last) (1930-1974)": "1111000" },
+    { "Muhammad Hatta Ali": "0111000" },
+    { "Lawrence Bender": "1010000" }
+  ],
+  "Written by": [
+    { "Lydia Hearst ( m.   2016 )": "1111000" },
+    { "Dr Rebekah Widdowfield": "0111000" }
+  ],
+  "Starring": [
+    { "Sandra Dee , Bobby Darin": "1010000" },
+    { "Paul V. McNutt (1937-39)": "0111000" },
+    { "Nick Frost": "0010000" },
+    { "Richard O'Brien": "1010000" },
+    { "Hindustan Thompson Associates": "1111000" }
+  ],
+  "Music by": [{ "Fernando Vel\u00e1zquez": "0000000" }],
+  "Cinematography": [{ "Dan Laustsen": "0000000" }],
+  "Edited by": [{ "Akihito": "0111000" }],
+  "Productioncompany": [
+    { "Plan B Entertainment ": "1111000" },
+    { "View Askew Productions": "1111000" }
+  ],
+  "Distributed by": [{ "Universal Pictures": "0000000" }],
+  "Release date": [
+    { "September 25, 2015 (2015-09-25) (Fantastic Fest)": "0000000" },
+    { "April 13, 1960 (1960-04-13)": "1110000" }
+  ],
+  "Running time": [{ "110 minutes": "1110000" }],
+  "Country": [{ "United Kingdom": "1110000" }],
+  "Language": [{ "English": "0010000" }],
+  "Budget": [{ "$85 million": "0010000" }],
+  "Box office": [{ "$42.9 million": "1010000" }],
+  "title": ["Crimson Peak"]
+}

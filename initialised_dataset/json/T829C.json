@@ -1,0 +1,33 @@
+{
+  "Status": [{ "Sui generis  ; city and county": "0010000" }],
+  "Capital": [{ "United Kingdom": "1111000" }],
+  "Common languages": [{ "Portuguese": "1111000" }, { "Italian": "1111000" }],
+  "Religion": [{ "Christianity (Church of England)": "1010000" }],
+  "Government": [{ "Theocratic monarchy": "1010000" }],
+  "President": [
+    { "Manuel L. Quezon (1935-44)": "0000000" },
+    { "Quim Torra (JuntsxCat)": "0110000" },
+    { "Chairperson  Mohammad Reza Heydari": "1111000" }
+  ],
+  "High Commissioner": [
+    { "Bruce Shand": "0111000" },
+    { "Gayatri": "1111000" },
+    { "Michelle Triola Marvin , (1976-2009; her death)": "0111000" },
+    { "Paul V. McNutt (1945-46)": "0000000" }
+  ],
+  "Vice President": [
+    { "Jusuf Kalla": "0010000" },
+    { "Geoffrey Ma": "1111000" }
+  ],
+  "Legislature": [
+    { "Folketing": "1010000" },
+    { "People's Consultative Assembly (MPR)": "0010000" }
+  ],
+  "Historical era": [{ "Arab Cold War": "1010000" }],
+  "Tydings-McDuffie Act": [{ "1961-2019": "1111000" }],
+  "Independence": [{ "1 October 1949": "0111000" }],
+  "Treaty of Manila": [{ "14 January 1814": "0111000" }],
+  "title": [
+    "Commonwealth of the Philippines Commonwealth de Filipinas (Spanish) Komonwelt ng Pilipinas (Tagalog)"
+  ]
+}

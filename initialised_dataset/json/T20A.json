@@ -1,0 +1,21 @@
+{
+  "Origin": [{ "Pittsburgh, Pennsylvania, U.S.": "0010000" }],
+  "Genres": [{ "K-pop": "1010000" }, { "pop rock": "0010000" }],
+  "Years active": [{ "January 1, 1992 (1992-01-01)": "0111000" }],
+  "Labels": [{ "Impact Wrestling Music": "1010000" }],
+  "Associated acts": [
+    { "Alter Bridge": "1010000" },
+    { "The Quiett ": "0010000" },
+    { "Frank Sinatra": "0110000" },
+    { "Lorde": "0010000" },
+    { "Lou Reed": "1110000" },
+    { "Million Dollar Quartet": "0110000" },
+    { "Bruno Mars": "1010000" },
+    { "Lilith": "0010000" },
+    { "Missy Elliott": "0110000" },
+    { "Higher Brothers ": "0010000" },
+    { "Skepta": "0000000" }
+  ],
+  "Website": [{ "europetheband .com": "0010000" }],
+  "title": ["Flatbush Zombies"]
+}

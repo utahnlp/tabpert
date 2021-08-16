@@ -1,0 +1,24 @@
+{
+  "Country": [{ "United Kingdom": "1010000" }],
+  "Breed": [{ "Labrador Retriever": "1010000" }],
+  "Brand": [{ "644": "0000000" }],
+  "Sex": [{ "Male": "1010000" }],
+  "Color": [{ "Clear": "0110000" }],
+  "Weight": [{ "230 lb (104 kg)": "0110000" }],
+  "Born": [
+    {
+      "(1990-07-18) July 18, 1990 (age 28) , Guadalajara, Jalisco, Mexico": "1110000"
+    }
+  ],
+  "Years active": [{ "October 1970, June 1971 - March 1972": "1111000" }],
+  "Sire": [{ "Gainsborough": "1010000" }],
+  "Paternal grandsire": [{ "Kish's #624 Wolfman": "0000000" }],
+  "Paternal granddam": [{ "G221 Final Countdown": "0000000" }],
+  "Dam": [{ "Wicked Crack (IRE)": "0010000" }],
+  "Maternal grandsire": [{ "Diamond's Ghost": "1010000" }],
+  "Maternal granddam": [{ "Ratjen Breeding": "1010000" }],
+  "Breeder": [{ "John L. Hislop": "0010000" }],
+  "Owner": [{ "WW Bucking Bulls": "0000000" }, { "Shueisha": "1111000" }],
+  "Notable riders": [{ "J.B. Mauney": "1010000" }],
+  "title": ["Code Blue"]
+}

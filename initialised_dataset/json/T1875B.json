@@ -1,0 +1,17 @@
+{
+  "Publisher": [{ "Slave Labor Graphics": "0010000" }],
+  "Schedule": [{ "Monthly": "1010000" }],
+  "Format": [{ "Ongoing series": "0010000" }],
+  "Genre": [{ "Mind sport": "1111000" }],
+  "Publication date": [{ "Empire's End   October - November 1995": "1110000" }],
+  "No. of issues": [{ "7": "1010000" }],
+  "Main character(s)": [
+    { "Sally McRorie": "0111000" },
+    { "Scooby Gang": "1010000" },
+    { "Sally McRorie": "0111000" },
+    { "Superboy-Prime": "1010000" },
+    { "Johnny C., Squee": "0010000" },
+    { "Dave Wylie": "1010000" }
+  ],
+  "title": ["Identity Crisis"]
+}

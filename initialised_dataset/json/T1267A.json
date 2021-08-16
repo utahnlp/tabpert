@@ -1,0 +1,29 @@
+{
+  "Birth name": [{ "James Thurston Nabors": "1110000" }],
+  "Born": [{ "18 - 30 September 1988": "1111000" }],
+  "Genres": [
+    { "Mandopop": "0111000" },
+    { "Pop": "0110000" },
+    { "soft rock": "1110000" },
+    { "Country pop": "0111000" },
+    { "synth-pop": "0000000" },
+    { "Animated comedy": "1111000" },
+    { "insult comedy": "0010000" }
+  ],
+  "Occupation(s)": [{ "Singer-songwriter": "0000000" }, { "actor": "1010000" }],
+  "Instruments": [
+    { "Vocals": "1110000" },
+    { "Vocals": "0110000" },
+    { "Vocals": "0010000" },
+    { "Vocals": "1110000" }
+  ],
+  "Years active": [{ "2001-present": "0000000" }],
+  "Labels": [
+    { "Linkin Park  (exec.)": "0111000" },
+    { "Vertigo": "0000000" },
+    { " Reprise ": "1110000" }
+  ],
+  "Associated acts": [{ "James Rolfe": "1110000" }],
+  "Website": [{ "Crystal Head Vodka": "0110000" }],
+  "title": ["Brandon Flowers"]
+}

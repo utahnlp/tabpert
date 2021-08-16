@@ -1,0 +1,26 @@
+{
+  "Capital": [
+    { "Jakarta": "0111000" },
+    { "Papanui ": "0111000" },
+    { "Jiankang  (317 - 3420)": "0000000" }
+  ],
+  "Common languages": [{ "Portuguese": "1111000" }],
+  "Government": [
+    {
+      "Unitary semi-presidential republic under an authoritarian dictatorship": "1010000"
+    }
+  ],
+  "Emperor": [
+    { "Yekuno Amlak  (first) (1270)": "1010000" },
+    { "419 - 420 (last): Emperor Gong of Jin": "0000000" }
+  ],
+  "Establishment ": [{ "July/August 1978 - September 1986": "0111000" }],
+  "Reunification of China under Jin rule ": [
+    { "July 2016 - January 2017": "0111000" }
+  ],
+  "Jin evacuates to region south of the Huai River, Eastern Jin begins ": [
+    { "317": "0000000" }
+  ],
+  "Abdication to Liu Song ": [{ "18 February 2006": "1111000" }],
+  "title": ["Jin"]
+}

@@ -1,0 +1,22 @@
+{
+  "Also known as": [{ "Force": "0010000" }],
+  "Origin": [{ "Paris, France": "0010000" }],
+  "Genres": [
+    { "avant-garde": "0010000" },
+    { "heavy metal ": "0000000" },
+    { "Indie rock": "1010000" },
+    { "soul": "1110000" }
+  ],
+  "Years active": [{ "2009-2014": "1110000" }],
+  "Labels": [
+    { "Brunswick": "1110000" },
+    { "Green Day": "1111000" },
+    { "Gun ": "0000000" },
+    { "Eagle": "0010000" },
+    { "Jive": "0110000" },
+    { "MUTT Records/No Masters": "1010000" },
+    { "Spinefarm": "0000000" }
+  ],
+  "Website": [{ "www .onlyciara .com": "0110000" }],
+  "title": ["Bullet for My Valentine"]
+}

@@ -1,0 +1,14 @@
+{
+  "Type": [{ "Vodka": "1010000" }],
+  "Manufacturer": [{ "The Coca-Cola Company": "0000000" }],
+  "Country of origin": [{ "Poland": "0010000" }],
+  "Introduced": [{ "Southern California, 2008": "0010000" }],
+  "Variants": [
+    { "Diet Coke with Lime ": "0000000" },
+    { " Diet Coke with Citrus Zest": "0000000" }
+  ],
+  "Related products": [
+    { "Kola Real, Crush Naranja, Concordia, Per\u00fa Cola": "1010000" }
+  ],
+  "title": ["Coca-Cola with Lime/Diet Coke with Citrus Zest"]
+}

@@ -1,0 +1,29 @@
+{
+  "Nickname(s)": [
+    { "The Rams": "1110000" },
+    { "Pearl of Asia (pre-1960s) The Charming City": "1110000" },
+    { "Pearl of Asia (pre-1960s) The Charming City": "1110000" }
+  ],
+  "Years of service": [{ "1898-1911, 1914-1919": "0010000" }],
+  "Commands": [
+    { "U.S. Central Command": "0000000" },
+    { " Marine Corps Combat Development Command ": "1010000" },
+    { " I Marine Expeditionary Force ": "1010000" },
+    { " 7th Marine Regiment ": "1010000" },
+    { "U.S. Central Command ": "1010000" },
+    { " 7th Marines": "1010000" },
+    { " Marine Corps Combat Development Command ": "1010000" },
+    { "U.S. Central Command ": "1010000" },
+    { " U.S. Joint Forces Command ": "1010000" },
+    { " 7th Marines": "1010000" }
+  ],
+  "Battles/wars": [
+    { "Persian Gulf War": "0000000" },
+    { "World War II": "0010000" },
+    { " Iraq War ": "1010000" },
+    { "World War II": "0010000" },
+    { "World War II": "0010000" },
+    { "World War II North African Campaign": "1010000" }
+  ],
+  "title": ["Jim Mattis"]
+}

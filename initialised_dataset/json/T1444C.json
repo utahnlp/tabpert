@@ -1,0 +1,23 @@
+{
+  "Origin": [{ "London, England": "1010000" }],
+  "Genres": [
+    { "Indie rock": "0000000" },
+    { "Pop": "0010000" },
+    { "K-pop": "1010000" },
+    { "electronic rock": "0000000" },
+    { "alternative rock": "0110000" }
+  ],
+  "Years active": [{ "Jerusalem": "0111000" }],
+  "Labels": [
+    { "Columbia": "0000000" },
+    { "Alternative Tentacles": "1010000" },
+    { "Capitol": "0110000" }
+  ],
+  "Associated acts": [
+    { "Innosense": "0110000" },
+    { "Ludacris": "0110000" },
+    { "Kerry Ellis": "0010000" }
+  ],
+  "Website": [{ "Crystal Head Vodka": "0110000" }],
+  "title": ["Kasabian"]
+}

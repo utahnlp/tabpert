@@ -1,0 +1,26 @@
+{
+  "Born": [
+    {
+      "(1961-01-26) January 26, 1961 (age 58) , Brantford, Ontario, Canada": "1010000"
+    }
+  ],
+  "Died": [{ "May 26 1918": "1111000" }],
+  "Era": [{ "Ancient philosophy": "0000000" }],
+  "Region": [{ "Worldwide": "1110000" }],
+  "School": [{ "Neoplatonism": "0000000" }],
+  "Main interests": [
+    { "inventor ": "0111000" },
+    { "Astronomy, Physics, Engineering, Mathematics": "1111000" }
+  ],
+  "Influences": [
+    { "Nicolaus Copernicus , Tycho Brahe": "1010000" },
+    { "Benjamin Thompson": "1010000" },
+    { "Benjamin Thompson": "1010000" },
+    { "Chris Lintott": "0110000" }
+  ],
+  "Influenced": [
+    { "Henry Briggs": "0010000" },
+    { "Michael Faraday": "1010000" }
+  ],
+  "title": ["Hypatia"]
+}

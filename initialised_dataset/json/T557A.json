@@ -1,0 +1,20 @@
+{
+  "Type": [{ "Lime flavoured, citrus flavoured cola Cola": "0010000" }],
+  "Manufacturer": [{ "Britvic Ireland": "0000000" }],
+  "Country of origin": [{ "Mexico": "1010000" }],
+  "Introduced": [{ "1995": "0010000" }],
+  "Colour": [{ "Carmine": "1010000" }],
+  "Variants": [
+    { " Black Raspberry (Black)": "0010000" },
+    { "New-Bru": "1010000" }
+  ],
+  "Related products": [
+    { "List of vodkas": "0010000" },
+    {
+      "Container shipping and terminals, logistics and freight forwarding, ferry and tanker transport, semi-submersible drilling rigs and FPSOs, oil and gas exploration and production, shipyards, store retail": "1111000"
+    },
+    { "List of vodkas": "0010000" },
+    { "Maps, Travel guides, Car batteries": "0111000" }
+  ],
+  "title": ["Club (soft drink)"]
+}

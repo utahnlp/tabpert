@@ -1,0 +1,21 @@
+{
+  "Publisher": [{ "Marvel Comics": "1010000" }],
+  "Schedule": [{ "Monthly": "1010000" }],
+  "Format": [{ "Ongoing series": "0010000" }],
+  "Publication date": [{ "Empire's End   October - November 1995": "1110000" }],
+  "No. of issues": [{ "50": "0010000" }],
+  "Main character(s)": [
+    {
+      "Ben Nighthouse Campbell (January 3, 2005 \u2013 January 3, 2007)": "0111000"
+    },
+    { "Jesse": "1111000" },
+    { "L. I. Mandelshtam": "0111000" },
+    { "Superman (Kal-El)": "0000000" },
+    { " various DC mystics": "1010000" },
+    { "Mike Posey": "0111000" },
+    { "Scooby Gang": "1010000" },
+    { "Peter Lee (brother) ": "1111000" },
+    { "Sabrina the Teenage Witch": "1010000" }
+  ],
+  "title": ["Crisis on Infinite Earths"]
+}

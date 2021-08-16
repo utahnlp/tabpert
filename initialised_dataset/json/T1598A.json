@@ -1,0 +1,21 @@
+{
+  "Species": [{ "Dog": "0010000" }],
+  "Other names": [{ "John Whiteside Parsons": "1110000" }],
+  "Breed": [{ "American Bucking Bull": "0010000" }],
+  "Born": [{ "1865 Huddersfield, England": "0010000" }],
+  "Died": [
+    {
+      "22 February 2015(2015-02-22) (aged 68) , Isle of Skye, Scotland": "1110000"
+    }
+  ],
+  "Resting place": [{ "Jerusalem": "1111000" }],
+  "Occupation": [{ "Ship's mascot": "0000000" }],
+  "Employer": [{ "Spencer Public Library": "1010000" }],
+  "Years active": [{ "1997-2006": "1010000" }],
+  "Known for": [
+    { "Foundation sire of the Yorkshire Terrier breed": "0010000" }
+  ],
+  "Appearance": [{ "Piebald": "1010000" }],
+  "Awards": [{ "Dickin Medal": "0000000" }],
+  "title": ["Judy"]
+}

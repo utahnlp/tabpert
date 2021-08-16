@@ -1,0 +1,14 @@
+{
+  "Type": [{ "Bitters": "1010000" }],
+  "Manufacturer": [{ "EMI Films": "0111000" }],
+  "Country of origin": [{ "Poland": "1010000" }],
+  "Introduced": [{ "1999": "1110000" }],
+  "Discontinued": [{ "1465": "0111000" }],
+  "Related products": [
+    { "Maps, Travel guides, Car batteries": "0111000" },
+    { "Maps, Travel guides, Car batteries": "0111000" },
+    { "Maps, Travel guides, Car batteries": "0111000" },
+    { "Maps, Travel guides, Car batteries": "0111000" }
+  ],
+  "title": ["Josta"]
+}

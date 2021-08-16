@@ -1,0 +1,18 @@
+{
+  "Born": [
+    {
+      "( 1935-08-30 ) August 30, 1935  Parris Island, South Carolina, U.S.": "1110000"
+    }
+  ],
+  "Died": [{ "21 September 1949": "0111000" }],
+  "Nationality": [{ "USA": "1010000" }],
+  "Alma mater": [{ "University of Southern California": "1010000" }],
+  "Known for": [
+    { "Logarithms": "0000000" },
+    { "Party of Five  ": "0110000" },
+    { "Being the youngest dolphin at CMA, only 6 years old": "1110000" }
+  ],
+  "Fields": [{ "Mathematics": "0111000" }],
+  "Influenced": [{ "James Rumbaugh": "1010000" }],
+  "title": ["John Napier"]
+}
