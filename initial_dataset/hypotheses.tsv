@@ -1,0 +1,514 @@
+table_id	hypothesis	label
+T14	Flatliners is pretty close to two hours long.	E
+T14	Rick Bieber put more money into Flatliners than Michael Douglas did.	N
+T14	Flatliners made 50 million over it's budget at the box office.	C
+T14	Flatliners was a film that was able to net money at the box office.	E
+T14	Flatliners was mostly produced by Michael Douglas.	N
+T14	Flatliners was a movie that was over two hours long.	C
+T14	Flatliners made over double what it cost to make at the box office.	E
+T14	Flatliners was Peter Filardi's first writing credit.	N
+T14	Flatliners was released in the winter of 1990.	C
+T20	The rappers Flatbush Zombies got their start on the east coast.	E
+T20	The rappers Flatbush Zombies have been signed by a big label.	N
+T20	The rappers Flatbush Zombies are known for performing with rock bands.	C
+T20	Flatbush Zombies have made music for over five years now.	E
+T20	Flatbush Zombies have worked with rappers outside of New York.	N
+T20	Flatbush Zombies are signed to RCA records.	C
+T20	Flatbush Zombies are named, in part, after the city they are from.	E
+T20	Flatbush Zombies preferred making music with RecordsWarner over The Glorious Dead.	N
+T20	Flatbush Zombies have been active as a band for over 10 years.	C
+T146	Jeff Bridges has been a performer since they were 2 years old.	E
+T146	Jeff Bridges has lived their entire life in California.	N
+T146	Jeff Bridges has had five children.	C
+T146	Jeff Bridges was born in the Winter of 1949.	E
+T146	Jeff Bridges prefers singing to composing things.	N
+T146	Jeff Bridges has been active in his career for less than 60 years.	C
+T146	Jeff Bridges was born in the winter of 1949.	E
+T146	Jeff Bridges has a brother and a sister.	N
+T146	Beau Bridges mother is Susan Geston.	C
+T203	The capital of Japan is located in Tokyo.	E
+T203	The government of Japan has a constitution.	N
+T203	The majority of people that live in Japan are ethnically Korean.	C
+T203	Japan's House of Councillors is higher than the house of representatives.	E
+T203	The Ainu people are the most popular type of Japan's native ethnic group.	N
+T203	Judaism is the most popular religion in Japan.	C
+T203	Over half of the people in Japan practice Folk Shinto as a religion or have no religion.	E
+T203	If the Prime Minister of Japan dies, the Deputy Prime Minister immediately takes his place.	N
+T203	Japan is made up of between 90 and 95% Japanese people.	C
+T207	Burn Energy was introduced relatively close to the Millenium.	E
+T207	The Burn Lemon Ice variety is more popular than the Burn Blue variety.	N
+T207	Burn Energy comes in over ten varieties or flavors.	C
+T207	Burn Energy was made by the same company that makes Monster.	E
+T207	Burn Energy was successful at increasing energy for people that drank it.	N
+T207	Burn energy came in a chocolate flavor.	C
+T207	Burn Energy comes in many different flavors.	E
+T207	Burn Energy is Monster's top selling energy drink.	N
+T207	All Burn Energy drinks are sugar free.	C
+T274	Fawad Khan is a Pakistani entertainer.	E
+T274	Fawad Khan studied to become a computer programmer before becoming an entertainer.	N
+T274	Fawad Khan married his spouse before he became active in the entertainment industry.	C
+T274	Fawad Khan is a very famous model and actor not only just a musician.	E
+T274	Fawad Khan has won many awards including a gramy in the USA.	N
+T274	Fawad Khan did a record with Jay Z that was very popular.	C
+T274	Fawad Khan was signed to Lips Music when he married Sadaf Khan.	E
+T274	Fawad Khan's children are both in their teens.	N
+T274	Fawad Khan has been performing music for over twenty years.	C
+T306	Europe is originally from a northern European country.	E
+T306	Europe has been touring the world for the past fifteen years.	N
+T306	Europe has been active nonstop for the past forty years.	C
+T306	Europe has had a long career in the Hard Rock business.	E
+T306	Europe has several number one hits in the billboards charts.	N
+T306	Europe is a Pop French band that recorded with Universal.	C
+T306	Europe has been active off and on since the 70s.	E
+T306	The labels for Europe are major Swedish companies.	N
+T306	Europe started in 1979 and been making music uninterrupted since.	C
+T323	The Czech Republic came out of Czechoslovakia.	E
+T323	Bohemians and Czechs are the same people.	N
+T323	The Czech Republic was part of the European Union before independence.	C
+T323	Czech Republic separated from the Austria-Hungary Empire over 100 years ago.	E
+T323	.Czech Republic was one of the first countries to join the European Union.	N
+T323	Kingdom of Bohemia was esatablished before the Duchy of Bohemia.	C
+T323	Czech Republic gained independence in late the 20th century.	E
+T323	Czech Republic joined the European Union for protection from Russia.	N
+T323	Czech Republic lost independence in 2004.	C
+T331	Bryan Adams is a Canadian Pop Singer.	E
+T331	Bryan Adams owns the record label A&M.	N
+T331	Bryan Adams was born in Hamilton in Ontario.	C
+T331	Bryan Adams is a Canadian musician.	E
+T331	"Bryan Adams wrote and performed ""Everything I Do."""	N
+T331	Bryan Adams has been active since his twenties.	C
+T331	Bryan Adams was originally born in Canada in the winter of 1959.	E
+T331	The singer Bryan Adams learned piano before he could sing.	N
+T331	The musician Bryan Adams spent the majority of his life in the United States.	C
+T370	Everclear is an American rock band.	E
+T370	Everclear is made up of four members.	N
+T370	Everclear disbanded and reunited multiple times.	C
+T370	Everclear has been active for more than a quarter of a century.	E
+T370	The Cleopatra record label is located in Portland, Oregon.	N
+T370	Everclear's music can only be categorized into a single genre.	C
+T370	Everclear are from the Pacific Northwest region of the United States.	E
+T370	Everclear were signed to Capitol records throughout the 1990's.	N
+T370	Everclear have been performing grunge music for over thirty years.	C
+T433	The movie Concussion was written and directed by the same person.	E
+T433	The movie Concussion was based on a popular book.	N
+T433	Concussion came out in the United States before being shown at AFI fest.	C
+T433	Concussion is an American film.	E
+T433	Concussion is about the NFL treatment of injuries to the brains of their players.	N
+T433	Concussion made more at the box office than its budget.	C
+T433	'Concussion' was written and directed by Peter Landesman.	E
+T433	Columbia Pictures distributed 'Concussion' to the AFI Fest first to gain notoriety.	N
+T433	'Concussion's' box office was greater than its highest budget estimate.	C
+T447	China has had two republic periods.	E
+T447	China's People's Republic came because of the failings of the the government in place since 1912.	N
+T447	China's constitution came before the People's Republic was proclaimed.	C
+T447	The People's Republic of China had their current constitution written in the 1980s.	E
+T447	The People's Republic of China has had similar political policies since 1949.	N
+T447	The People's Republic of China has had the same ruling families for over 1000 years.	C
+T447	People's Republic of China was declared ahead of the Proclamation.	E
+T447	The current constitution has not changed since its inception.	N
+T447	The Proclamation of the People's Republic preceded the People's Republic declaration.	C
+T458	Contract bridge is a multi-player card game.	E
+T458	Contract bridge is limited to only 4 players.	E
+T458	Contract bridge is purely luck based.	C
+T458	The game Contract bridge is often played in a group of people.	E
+T458	The game Contract bridge has been professionally played.	N
+T458	The game Contract bridge uses the joker card.	C
+T458	Bridge is a trick-taking game.	E
+T458	4 players divide the deck of 52 amongst themselves.	N
+T458	Each of the 4 players use a different skill.	C
+T535	The first issue of Crisis on Infinite Earths was released in spring of 1985.	E
+T535	DC Comics ended Crisis on Infinite Earths due to bad sales.	N
+T535	Crisis on Infinite Earths was a novel released in the winter of 1985.	C
+T535	Crisis on Infinite Earth was a DC comic that ran monthly for about a year in the 80's.	E
+T535	Crisis on Infinite Earths was George R.R. Martin's first foray into fantasy writing.	N
+T535	Crisis on Infinite Earth's main character was Batman, whom gets killed by Dumbledore in the last issue.	C
+T535	Crisis on Infinite Earths is an old American comic book series from the 80s.	E
+T535	Crisis on Infinite Earths contained many cameo appearances by other well-known DC superheroes.	N
+T535	Crisis on Infinite Earths celebrates its 35th year anniversary since publication.	C
+T544	Despicable Me 3 is an animated movie distributed by Universal Pictures in 2017.	E
+T544	Despicable Me 3 is actually the 4th movie of the Despicable Me franchise, despite the 3 in the title.	N
+T544	Despicable Me 3 first made its box offie run starring in the summer of 2016.	C
+T544	Despicable Me 3 is a Hollywood movie.	E
+T544	Despicable Me 3 is an animated movie.	N
+T544	Despicable Me 3 was a box office disappointment.	C
+T544	Despicable Me 3 was shown at Annecy two weeks before it's nationwide release.	E
+T544	Despicable Me 3 has the same cast as the first two movies of the same title.	N
+T544	Despicable Me 3 was not a box office success compared to it's original budget.	C
+T557	Club is an Irish soft drink.	E
+T557	Club comes in many different flavors, like Orange and Grape.	N
+T557	Club is the most popular soft drink in the world.	C
+T557	Club is a Carbonated soft drink Manufactured by Britvic Ireland	E
+T557	Club is Manufactured only in Ireland	N
+T557	Club is an orange juice	C
+T557	Club is an Irish beverage.	E
+T557	Club is a sweet sugary beverage.	N
+T557	Club has never changed their recipe for the drink.	C
+T578	Close Encounters of the Third Kind was a Hollywood film, written and directed by a famous director.	E
+T578	Close Encounters of the Third Kind was a science-fiction movie.	N
+T578	Close Encounters of the Third Kind was a failure at the box office.	C
+T578	Close Encounters of the Third Kind is science fiction film directed by Stephen Spielberg.	E
+T578	Close Encounters of the Third Kind has inspired many future films and TV shows, namely the show Stranger Things.	N
+T578	Close Encounters of the Third Kind was inspired by another Spielberg Film, E.T., which was released before Close Encounters of the Third Kind in 1982.	C
+T578	Close Encounters of the Third Kind grossed over a quarter billion dollars at the box office over it's budget.	E
+T578	A husband and wife duo produced Close Encounters of the Third Kind.	N
+T578	Close Encounters of the Third Kind was produced and distributed by the same company.	C
+T667	Crimson Peak made $19.7 million in profit after it's box office run completed.	E
+T667	Guilllermo Del Toro and Universal Pictures have long been partners.	N
+T667	Crimson Peak was released to Blu-Ray in 2014.	C
+T667	Crimson Peak is just slightly under two hours long.	E
+T667	Crimson Peak is the first time Guillermo del Toro did not write his movie's script alone.	N
+T667	Crimson Peak premiered in the winter of 2015.	C
+T667	Crimson Peak is 21st century American independent film.	E
+T667	Crimson Peak won much praise from critics and movie reviewers.	N
+T667	Crimson Peak made a significant profit at the box office.	C
+T680	Camp Kill Yourself is grunge rock band that's been active for over 30 years in the music industry.	E
+T680	Camp Kill Yourself is sometimes known as CKY so as to not offend some critics and listeners of their music.	N
+T680	Camp Kill Yourself has been signed to Universal and Paramount.	C
+T680	CKY is an American rock band that still performs to this day.	E
+T680	CKY has won many awards for its music.	N
+T680	CKY has worked with only a few labels throughout its career.	C
+T680	Camp Kill Yourself is from West Chester, Pennsylvania.	E
+T680	Camp Kill Yourself has been on the Entertainment One label since 1998.	N
+T680	Camp Kill Yourself has been on more labels than they have associated acts.	C
+T709	Crack-Up is a music album recorded and released over a two-year period.	E
+T709	Crack-Up is studio album by the band Fleet Foxes.	N
+T709	Crack-Up was primarily recorded in Washington state.	C
+T709	Crack-Up is an indie rock album released in 2017.	E
+T709	Crack-Up was originally inspired by Cracked magazine.	N
+T709	Crack-Up was produced by Barry Gordy and recorded in 2003.	C
+T709	Crack-Up took roughly half a year to finish recording.	E
+T709	Robin Pecknold produces music only at Electric Lady studios.	N
+T709	Crack-Up has recorded at several studios only on the east coast.	C
+T719	Cristiano Ronaldo is a famous forward in his 30's.	E
+T719	Cristiano Ronaldo is a famous footballer for Juventus.	N
+T719	Ronaldo stands over 6 and a half feet tall.	C
+T719	Cristiano Ronaldo plays an offensive position rather than defensive.	E
+T719	Cristiano Ronaldo has always lived in Portugal.	N
+T719	Cristiano Ronaldo is shorter than 6 feet tall.	C
+T719	Cristiano Ronaldo is a European athlete..	E
+T719	Cristiano Ronaldo plays in the Spanish La Liga.	N
+T719	Cristiano Ronaldo is a British Millenial.	C
+T738	The Cockerel FabergŽ egg is made up of several different precious gems.	E
+T738	The bird within the Cockerel FabergŽ egg flaps its wings.	N
+T738	The person who made the Cockerel FabergŽ egg is capable of giving birth.	C
+T738	The Cockerel FabergŽ egg has a bird inside of it.	E
+T738	The Cockerel FabergŽ egg is very valuable.	N
+T738	The Cockerel FabergŽ egg is over a foot tall.	C
+T738	The Cockerel FabergŽ egg is a gold and diamond infused object about half a foot tall.	E
+T738	The Cockerel FabergŽ egg was Perkhin's first Faberge egg creation.	N
+T738	The Cockerel FabergŽ egg displays over 10 different materials used.	C
+T741	David Duchovny was once married to Tea Leona for about over 15 years.	E
+T741	Duchovny is well-known for his role on The X-Files as Fox Mulder.	N
+T741	Duchovny has been acting for about 10 years.	C
+T741	David Duchovny went to college in the USA.	E
+T741	David Duchovny had both his children with TŽa Leoni.	N
+T741	David Duchovny has been acting since the 1960s.	C
+T741	David Duchovny lives in the western U.S.	E
+T741	David Duchovny studied English at Princeton.	N
+T741	David Duchovny made his big screen debut at the age of 24.	C
+T745	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was an athletic event.	E
+T745	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was a cross-country skiing event dominated by Russians.	N
+T745	Men's 50 kilometre freestyle at the XXII Olympic Winter Games was held in America.	N
+T745	The men's 50 kilometre freestyle at the XXII Olympic Winter Games had more than 50 competitors.	E
+T745	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was very cold.	N
+T745	The men's 50 kilometre freestyle at the XXII Olympic Winter Games was completed in under an hour.	C
+T745	The Men's 50 kilometre freestyle at the XXII Olympic Winter Games ran for one day in February.	E
+T745	The Men's 50 kilometre freestyle was the first event Michael Phelps won a gold medal in.	N
+T745	The winner of the Men's 50 kilometre freestyle at the XXII Olympic Winter Games finished with a time just over 2 minutes.	C
+T778	Crystal Head Vodka originated north of the U.S.	E
+T778	Crystal Head Vodka has a blue and gold label.	N
+T778	Crystal Head Vodka is more than half alcohol by volume.	C
+T778	Crystal Head Vodka was introduced in a different country from where it originated.	E
+T778	Crystal Head Vodka was developed in Canada for years before 2008.	N
+T778	Crystal Head Vodka cannot be seen through.	C
+T778	Crystal Head Vodka was released in the USA.	E
+T778	Crystal Head Vodka is sold in Canada.	N
+T778	Crystal Head Vodka is known for having a pink color.	C
+T785	The album Ctrl took three years to record.	E
+T785	The album Ctrl had many people singing on it.	N
+T785	The album Ctrl is over an hour long.	C
+T785	Ctrl began recording three years before it was released.	E
+T785	Ctrl is half alternative R&B and half neo soul.	N
+T785	Ctrl was not produced by anyone who has their own studio.	C
+T785	Ctrl is an R&B album distributed by Top Dawg Entermtainment in 2017.	E
+T785	Ctrl was SZA's debut studio album.	N
+T785	Ctrl took just weeks to record in 2016.	C
+T794	David with the Head of Goliath is an oil painting by the artist Caravaggio.	E
+T794	The Galleria Borghese also contains the Mons Venus and The Mona Lisa.	N
+T794	David with the Head of Goliath is a small painting, measuring just a foot tall and 2 feet wide.	C
+T794	David with the Head of Goliath was painted in the 17th century.	E
+T794	David with the Head of Goliath took several years to make.	N
+T794	David with the Head of Goliath is located in Spain.	C
+T794	David with the Head of Goliath was completed in the 17th Century.	E
+T794	David with the Head of Goliath was painted in Italy.	N
+T794	David with the Head of Goliath is the size of a postage stamp.	C
+T816	The XXIII Olympic Winter Games took place in 2018.	E
+T816	Some nations only contributed women to Curling at the XXIII Olympic Winter Games.	N
+T816	Curling at the Gangneug Gymnasium during the Olympics had no women's events.	C
+T816	The Curling at the XXIII Olympic Winter Games happened in february.	E
+T816	Both men and women competed together in the Curling at the XXIII Olympic Winter Games.	N
+T816	There were over 150 countries involved.	C
+T816	Curling in the XXIII Olympic Winter Games took place over 2 weeks with 3 main events.	E
+T816	Curling originally originated as a sport in Sweden.	N
+T816	Curling in the 2018 Winter Olympics saw under 100 men and women compete over 4 weeks.	C
+T899	Chengdu is a provincial city that sits around 1,600 feet in the air.	E
+T899	Chengdu is the capital city of the Sichuan province.	N
+T899	Chengdu is the only city in China that lays below sea level.	C
+T899	Chengdu is a large area with many different classifications.	E
+T899	Chengdu's biggest area is nearly 10x bigger than its smallest area.	N
+T899	Chengdu's downtown and Urban areas is larger than the Metro area.	C
+T899	Chengdu's highest elevation is over 5,000 meters.	E
+T899	Chengdu's downtown area contains the lowest elevation.	N
+T899	Chengdu's lowest elevation is sea level.	C
+T928	Charlie and the Chocolate Factory is a film adaptation of a novel.	E
+T928	Charlie and the Chocolate Factory earned the majority of its money in the United States.	N
+T928	Charlie and the Chocolate Factory was released in four countries.	C
+T928	Charlie and the Chocolate Factory earned more than triple its budget at the box office.	E
+T928	Several of the actors in Charlie and the Chocolate Factory were from Australia.	N
+T928	The narrator and editor of Charlie and the Chocolate Factory have the same first name.	C
+T928	Tim Burton's film adaptation of Charlie and the Chocolate Factory was a commercial success.	E
+T928	Charlie and the Chocolate Factory was Roald Dahl's most popular novel.	N
+T928	Tim Burton's film adaptation of Charlie and the Chocolate Factory was not released in the United States until it had already achieved commercial success in the United Kingdom.	C
+T947	Republic of Botswana, run under a unitary parliament, has a president and a vice-president.	E
+T947	English is the only language in Gaborone, the capital of the Republic of Botswana.	N
+T947	There are more who practice the African traditional religion than the Christian religion in the Republic of Botswana.	C
+T947	Tswana people are the largest ethnic group in Botswana.	E
+T947	Mokgweetsi Masisi has been Botswana's president for over a decade.	N
+T947	Christians make up the smallest religious group in Botswana.	C
+T947	The Republic of Botswana is a majority Christian country.	E
+T947	The Republic of Botswana's capital city is Gaborone.	N
+T947	The Republic of Botswana is located north of the equator.	C
+T1002	Catalonia is a constitutional monarchy with congressional deputies and senators.	E
+T1002	Catalonia is a region is Spain that is trying to secede from Spain.	N
+T1002	Catalonia is mostly communist in nature and does not have republic representation.	C
+T1002	Catalonia has 16.5% of senators.	C
+T1002	Quim Torra was elected by the general public.	N
+T1002	Catalonia has 50% of the deputies in the Congress of Deputies.	C
+T1002	Catalonia is governed by elected officials and overseen by a monarchy.	E
+T1002	Catalonia is a region of Spain known for separatist leanings.	N
+T1002	Catalonia have no voice or representational governance in place.	C
+T1047	Changsha is a city in China.	E
+T1047	Changsha is the birthplace of Mao Zedong.	N
+T1047	Changsha is both a city and a prefecture.	E
+T1047	Changsha's prefecture density is lower than its urban density.	E
+T1047	Changsha's population rank in China has increased much.	N
+T1047	Changsha has more people in its urban area than in its metro area.	C
+T1047	Changsha is in the top twenty largest cities in China.	E
+T1047	More people live in Changsha today than ten years ago.	N
+T1047	Changsha's metro area includes an extra million people more than the urban population.	C
+T1131	George Mason University is a public university established in 1949.	E
+T1131	George Mason University is headquartered in Arlington, VA.	N
+T1131	George Mason University has more postgraduates than undergraduates.	C
+T1131	George Mason University has been operating for the past 68 years.	E
+T1131	APLU is affiliated only to George Mason University.	N
+T1131	The dominant colors of George Mason University are red and violet.	C
+T1131	George Mason University has more than 35,000 students.	E
+T1131	George Mason University has more male students than female students.	N
+T1131	George Mason University's mascot is the whale.	C
+T1212	Glacier National Park is over a million acres and more than a century old.	E
+T1212	Glacier National Park is an American park that contains many wild animals.	N
+T1212	Glacier National Park was designated a park less than a century ago.	C
+T1212	Glacier National Park is in two counties near Columbia Falls.	E
+T1212	Glacier National Park is part of the world's first international peace park.	N
+T1212	Glacier National Park has more acres than 2018 visitors.	C
+T1212	Glacier National Park had more that 2 million visitors in the year 2018.	E
+T1212	Glacier National Park, which is part of the Waterton-Glacier International Peace Park, was established in the spring of 1910.	N
+T1212	Glacier National Park is comprised of one county, Flathead County, in Montana.	C
+T1241	Atari 2600 is an American video game console.	E
+T1241	Atari 2600 came with multiple controller inputs included.	N
+T1241	Atari 2600 was sold only domestically.	C
+T1241	Atari 2600 also known as Atari VCS is manufactured Atari, Inc. is a second generation home video game console.	E
+T1241	Atari 2600's introductory price was US$199 in 1977 and it was the most expensive home video game console at that time.	N
+T1241	Atary 2600 had 64 bytes RAM and 16-bit MOS Technology 6507 @ 1.19 MHz.	C
+T1241	The Atari 2600 was discontinued 14 years after being released in Europe.	E
+T1241	Atari 2600 cost $199 when it was discontinued.	N
+T1241	Consoles with 128 bytes of RAM are not compatible with joysticks.	C
+T1311	Royal Society of Edinburgh has over 1600 fellow members.	E
+T1311	Professor Dame Anne Glover is the only president of Royal Society of Edinburgh.	N
+T1311	Royal Society of Edinburgh has focus only on Science and technology.	C
+T1311	Royal Society of Edinburgh is a British charity.	E
+T1311	Royal Society of Edinburgh relies on hundreds of volunteers.	N
+T1311	Royal Society of Edinburgh was formed to promote British royalty.	C
+T1311	The Royal Society of Edinburgh has its origings in 1737 and is found in Scotland.	E
+T1311	The Royal Society of Edinburgh's motto is in Latin.	N
+T1311	The Royal Society of Edinburgh has more founders than focuses.	C
+T1390	Cape Cross is a stallion sharing a history with Ahonoora and Green Desert.	E
+T1390	Ireland is the country where Cape Cross was fouled in 1994.	N
+T1390	Godolphin Racing has been the owner of Cape Cross since 1994.	C
+T1390	The horse Cape Cross was a male horse.	E
+T1390	The horse Cape Cross won most of their races.	N
+T1390	The horse Cape Cross made over a million dollars.	C
+T1390	Cape Cross' sire was Green Desert and his grandsire was Danzig.	E
+T1390	Cape Cross was bred for Godolphin Racing.	N
+T1390	Cape Cross' color is the same as its sire's name.	C
+T1436	Kate Micucci's Birthday falls on the last day of the month.	E
+T1436	Kate Micucci was a comedian before she was a singer-songwriter.	N
+T1436	Kate Micucci has had a career for more than two decades.	C
+T1436	Kate Micucci got married when she was in her 30s.	E
+T1436	Kate Micucci lived on the east coast all her life.	N
+T1436	Kate Micucci has been performing since she was in her teens.	C
+T1436	Kate Micucci got married when they were 38 years old.	E
+T1436	Kate Micucci began singing before they became a comedian.	N
+T1436	Kate Micucci went to college in the same state they were born in.	C
+T1444	Kasabian has been performing for over twenty years.	E
+T1444	Kasabian was first signed to RCA.	N
+T1444	Kasabian is a band from the US.	C
+T1444	Kasabian is an English rock band.	E
+T1444	Kasabian has won numerous awards for their music.	N
+T1444	Kasabian has only worked with smaller independent labels.	C
+T1444	Kasabian has been performing for over 20 years.	E
+T1444	Kasabian has recorded an album with Oasis.	N
+T1444	Kasabian is known for playing jazz music.	C
+T1456	Jupiter takes over 10 years to orbit the sun.	E
+T1456	Jupiter is the largest planet in the solar system.	N
+T1456	Jupiter has a very high eccentricity.	C
+T1456	Jupiter has more than a dozen known satellites.	E
+T1456	Scientists are still studying to find satellites of Jupiter.	N
+T1456	The orbital speed of Jupiter is less than 5 km/s.	C
+T1456	The inclination of Jupiter to the Sun's equator is greater than half a dozen degrees.	E
+T1456	More satellites were found orbiting Jupiter since 2018.	N
+T1456	The orbital period of Jupiter is more than 12 times as long as Earth's.	C
+T1464	John James Rickard Macleod was in his fifties when he died.	E
+T1464	John James Rickard Macleod was at the top of his class when he attended the University of Aberdeen.	N
+T1464	John James Rickard Macleod died in a country outside of where he was born.	C
+T1464	John James Rickard Macleod, FRS faced death in the Spring of 1935.	E
+T1464	John James Rickard Macleod, FRS shared the Nobel Prize in Physiology or Medicine with the other co-discoverer(s) of insulin.	N
+T1464	John James Rickard Macleod, FRS was born early in the 19th century.	C
+T1464	John James Rickard Macleod, FRS was a British Nobel Prize winner.	E
+T1464	John James Rickard Macleod, FRS discovered insulin while still in university.	N
+T1464	The Nobel Prize was awarded to John James Rickard Macleod, FRS while in his twenties.	C
+T1473	Jimson Weed is a work of art created by a woman.	E
+T1473	Jimson Weed was Georgia O'keeffe's most famous artwork.	N
+T1473	Jimson Weed is a 19th century work of art.	C
+T1473	Jimson Weed is by a female artist and currently in Indiana.	E
+T1473	Jimson Weed was sold to the Indianpolis Museum of Art for two million dollars.	N
+T1473	The art piece Jimson Weed was made two years after Georgia O'Keeffe's death.	C
+T1473	Jimson Weed is located in the capital of Indiana.	E
+T1473	Jimson Weed was Georgia O'Keefe's first sold painting.	N
+T1473	Jimson Weed is wider than it is tall.	C
+T1491	Judith and the Head of Holofernes is less than a foot and a half wide at it's narrower point.	E
+T1491	The …sterreichische Galerie has Judith and the Head of Holofernes because it is on loan.	N
+T1491	Judith and the Head of Holofernes was painted at the end of the 19th century.	C
+T1491	Judith and the Head of Holofernes was painted in the 1900s.	E
+T1491	The painter of Judith and the Head of Holofernes was from Vienna.	N
+T1491	Judith and the Head of Holofernes is done in charcoal.	C
+T1491	Judith and the Head of Holofernes is a 20th century work of art.	E
+T1491	Gustav Klimt's favorite painting was Judith and the Head of Holofernes.	N
+T1491	Judith and the Head of Holofernes was painted on a massive canvas.	C
+T1508	Josta lasted less than five years before being discontinued.	E
+T1508	Josta was PepsiCo's least sold soft drink during the 1990's.	N
+T1508	PepsiCo has never tried to make an energy soft drink.	C
+T1508	Josta was first made in the last 10 years of the 20th century.	E
+T1508	Josta is more like Jolt than Surge.	N
+T1508	Josta was still being made in the 21st century.	C
+T1508	Josta is a drink that was popular in the 1990s.	E
+T1508	People began to ban Josta in 1998.	N
+T1508	No one has been able to drink Josta since 1997	C
+T1516	Justice League Dark runs for over an hour.	E
+T1516	Justice League Dark is the only production Jay Oliva directs.	N
+T1516	Justice League Dark was released in the 1990s.	C
+T1516	Justice League Dark has a run time that is under 1.5 hours long.	E
+T1516	Ernie Altbacker came up with the story for Justice League Dark before J. M. DeMatteis started helping him.	N
+T1516	Justice League Dark was first released in the Summer of 2017.	C
+T1516	Justice League Dark had a story and screenplay by the same person.	E
+T1516	Justice League Dark made a profit at the box office.	N
+T1516	Justice League Dark had a team that wrote the music.	C
+T1518	The Summer of 1993 is when Jurassic Park first made it's premiere.	E
+T1518	Sam Neill wasn't originally supposed to star in Jurassic Park.	N
+T1518	Jurassic Park's run time is less than two hours.	C
+T1518	Jurassic Park was based on a book.	E
+T1518	Jurassic Park was released in countries other than the US in the same year.	N
+T1518	Jurassic Park runs for less than two hours.	C
+T1518	Jurassic Park was a novel turned Hollywood film.	E
+T1518	Jurassic Park was the highest grossing film of 1993.	N
+T1518	Jurassic Park was not profitable for the film studio.	C
+T1600	K?roly Zipernowsky was born in 19th century Vienna.	E
+T1600	K?roly Zipernowsky studied electrical engineering at University.	N
+T1600	K?roly Zipernowsky died where he was born.	C
+T1600	K?roly Zipernowsky was born as Carl Zipernowsky in 1853.	E
+T1600	K?roly Zipernowsky's nationality is Hungarian and Austrian.	N
+T1600	K?roly Zipernowsky didn't go to school to become an engineer.	C
+T1600	K?roly Zipernowsky was known by another name.	E
+T1600	K?roly Zipernowsky was the top of his class at the Technical University of Budapest.	N
+T1600	K?roly Zipernowsky was over one hundred years old when he died.	C
+T1601	Jimmy Eat World is from the state of Arizona.	E
+T1601	The band Jimmy Eat World has continued touring to this day.	N
+T1601	The band Jimmy Eat World has only been on 2 labels over their music career.	C
+T1601	Emo pop group, Jimmy Eat World is from the southwest United States.	E
+T1601	They've won many awards throughout their long career.	N
+T1601	Jimmy Eat World have largely been loyal to their original label.	C
+T1601	Jimmy Eat World has been making music for more than 25 years.	E
+T1601	Jimmy Eat World made more music on the Capitol label than Dreamworks.	N
+T1601	Jimmy Eat World was started in the South Eastern part of the US.	C
+T1614	John Paul Getty III was known for being taken away from his family.	E
+T1614	John Paul Getty III was kidnapped while playing in a park.	N
+T1614	John Paul Getty III was born in the early part of the 1900s.	C
+T1614	John Paul Getty III was kidnapped during his lifetime.	E
+T1614	He was named after his paternal grandfather.	N
+T1614	John Paul Getty III married in his twenties.	C
+T1614	There are 3 males with the same name in John Paul Getty's family.	E
+T1614	Balthazar Getty was born in the United Kingdom.	N
+T1614	John Paul Getty III died within 100 miles of his birthplace.	C
+T1618	Jupiter and Io is a 16th century work of art.	E
+T1618	Jupiter and Io was Antonio da Correggio's final work.	N
+T1618	Jupiter and Io is housed in a private collection.	C
+T1618	Jupiter and lo, an oil painting at the Kunsthistorisches Museum, is a work from the 16th century.	E
+T1618	The painting, Jupiter and lo, is on display at the Kunsthistorisches Museum.	N
+T1618	The painting, Jupiter and lo, is a fine example of watercolors.	C
+T1618	At it's widest point, Jupiter and Io was more than five feet long.	E
+T1618	Jupiter and Io is on loan to the Kunsthistorisches Museum.	N
+T1618	Jupiter and Io took half a decade to paint.	C
+T1713	John Cho was born in the Summer of 1972.	E
+T1713	The mother of both of John Cho's kids is Kerri Higuchi.	N
+T1713	John Cho has been acting for more than two and a half decades.	C
+T1713	John Cho was born in the 20th century.	E
+T1713	John Cho is married with two daughters.	N
+T1713	John Cho has been active since his teens.	C
+T1713	John Cho has been married for over ten years.	E
+T1713	John Cho graduated from UC Berkley in the 1990s.	N
+T1713	John Cho began his career right out of high school, skipping college.	C
+T1728	Kaput and Zšsky: The Ultimate Obliterators is an entertainment production.	E
+T1728	Kaput and Zšsky: The Ultimate Obliterators is a cartoon for kids.	N
+T1728	Kaput and Zšsky: The Ultimate Obliterators is produced and distributed by the same company.	C
+T1728	Kaput and Zšsky: The Ultimate Obliterators takes about a half an hour to watch.	E
+T1728	Paul Cabieux did more production work on Kaput and Zšsky: The Ultimate Obliterators than Philippe Delarue.	N
+T1728	Kaput and Zšsky: The Ultimate Obliterators had a handful of distributors.	C
+T1728	Kaput and Zšsky: The Ultimate Obliterators was produced by two people.	E
+T1728	Kaput and Zšsky: The Ultimate Obliterators ran on basic cable.	N
+T1728	Kaput and Zšsky: The Ultimate Obliterators had only one production company.	C
+T1730	Jon Hamm graduated from the University of his home state.	E
+T1730	Jon Hamm graduated with a bachelor's degree in business.	N
+T1730	Jon Hamm and Jennifer Westfeldt married before Hamm began acting.	C
+T1730	Jon Hamm graduated from college.	E
+T1730	Jon Hamm was a producer before he was an actor.	N
+T1730	Jon Hamm has been active for more than 25 years.	C
+T1730	Jon Hamm is a middle-aged actor.	E
+T1730	Jon Hamm has won awards for his acting roles.	N
+T1730	Jon Hamm has been active since his teens.	C
+T1819	Hugo is a multi-national film starring well-known Hollywood actors.	E
+T1819	Hugo is won praise from critics and fans alike.	N
+T1819	Hugo stars a largely unknown cast.	C
+T1819	Hugo is based on The Invention of Hugo Cabret	E
+T1819	Hugo is an english movie.	N
+T1819	Hugo was a big flop	C
+T1819	Hugo has a running time of 126 minutes.	E
+T1819	Hugo was the largest box office grossing film in November 2011.	N
+T1819	Hugo was originally in French.	C
+T1847	Jack Antonoff has been active since his teens.	E
+T1847	Jack Antonoff is a self-taught guitar and piano player.	N
+T1847	Jack Antonoff has performed with smaller acts.	C
+T1847	Jack Antonoff was born in the spring.	E
+T1847	Jack Antonoff learned to play the guitar before the drums.	N
+T1847	Jack Antonoff has been performing for over twenty years.	C
+T1847	Jack Antonoff was born in NJ	E
+T1847	Jack Antonoff is involved in music.	N
+T1847	Jack Antonoff is not anyone special.	C
+T1882	Jack of Fables was a monthly comic book series.	E
+T1882	Jack of Fables became a collector's item.	N
+T1882	Jack of Fables published weekly for six years.	C
+T1882	Jack of Fables is a comic series	E
+T1882	It has 50 issues	N
+T1882	it is still being produced today	C
+T1882	Jack of Fables is published on a monthly schedule.	E
+T1882	Jack of Fables gained popularity with its 10th issue.	N
+T1882	Jack of Fables is a limited series.	C
