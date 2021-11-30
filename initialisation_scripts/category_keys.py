@@ -8,15 +8,15 @@ import collections
 
 def config(parser):
     parser.add_argument('--data_dir', default=os.getcwd() +
-                        '/../../data/tables/', type=str)
+                        '/../initial_dataset/all_data/', type=str)
     parser.add_argument('--splits_dir', default=os.getcwd() +
-                        '/../../data/maindata/', type=str)
+                        '/../initial_dataset/all_data/hypotheses/', type=str)
     parser.add_argument('--save_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/category_keys/', type=str)
+                        '/temp/category_keys/', type=str)
     parser.add_argument(
-        '--json_dir', default="./../../data/tables/json/", type=str)
+        '--json_dir', default="./../initial_dataset/all_data/tables/", type=str)
     parser.add_argument(
-        '--splits', default=["train", "dev", "test_alpha1", "test_alpha2", "test_alpha3"], action='store', type=str, nargs='*')
+        '--splits', default=["train", "test_alpha1"], action='store', type=str, nargs='*')
     return parser
 
 '''
@@ -71,6 +71,7 @@ if __name__ == "__main__":
             # add the table to the appropriate category in our output dict
             split_categories[category]['tables'].append(table)
             # for each key in the table, add the key to our output dict
+            json_file = open("./T10.json", "r")
             json_file = open(args['json_dir'] + table + ".json", "r")
             data = json.load(
                 json_file, object_pairs_hook=collections.OrderedDict)

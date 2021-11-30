@@ -7,9 +7,9 @@ import random
 
 def config(parser):
     parser.add_argument('--key_categories_file', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/key_categories/key_categories.json', type=str)
+                        '/temp/key_categories/key_categories.json', type=str)
     parser.add_argument('--save_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/reversed_key_categories/', type=str)
+                        '/temp/reversed_key_categories/', type=str)
     return parser
 
 '''

@@ -9,29 +9,27 @@ from bs4 import BeautifulSoup
 
 def config(parser):
     parser.add_argument('--data_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/category_keys/', type=str)
+                        '/temp/category_keys/', type=str)
     parser.add_argument('--reversed_file', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/reversed_key_categories/reversed_key_categories.json', type=str)
+                        '/temp/reversed_key_categories/reversed_key_categories.json', type=str)
     parser.add_argument('--tables_dir', default=os.getcwd() +
-                        '/../../data/tables/json/', type=str)
+                        '/../initial_dataset/all_data/tables/', type=str)
     parser.add_argument('--key_categories_file', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/key_categories/key_categories.json', type=str)
+                        '/temp/key_categories/key_categories.json', type=str)
     parser.add_argument('--save_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/counterfactual_tables/', type=str)
+                        '/initialised_tables/', type=str)
     parser.add_argument(
-        '--reversed_dir', default=os.getcwd() + "/../../temp/infotabs_extension/reversed_category_keys/", type=str)
+        '--reversed_dir', default=os.getcwd() + "/temp/reversed_category_keys/", type=str)
     parser.add_argument(
-        '--swap_all_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_all/", type=str)
+        '--swap_all_dir', default=os.getcwd() + "/temp/swap_all/", type=str)
     parser.add_argument(
-        '--swap_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap/", type=str)
+        '--swap_dir', default=os.getcwd() + "/temp/swap/", type=str)
     parser.add_argument(
-        '--swap_all_other_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_all_other/", type=str)
+        '--swap_all_other_dir', default=os.getcwd() + "/temp/swap_all_other/", type=str)
     parser.add_argument(
-        '--swap_other_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_other/", type=str)
+        '--swap_other_dir', default=os.getcwd() + "/temp/swap_other/", type=str)
     parser.add_argument(
-        '--json_dir', default="./../../data/tables/json/", type=str)
-    parser.add_argument(
-        '--html_dir', default="./../../data/tables/html/", type=str)
+        '--json_dir', default="/../initial_dataset/all_data/tables/", type=str)
     parser.add_argument(
         '--for_split', default="test_alpha1", type=str)
     parser.add_argument(
@@ -251,11 +249,12 @@ def split_diff_same(split, key, category, table, reversed_dir, data_dir):
 
 
 if __name__ == "__main__":
-    # TODO: pick values from swap lists to generate 3 tables
     # priority: other category, same table, same category
     parser = argparse.ArgumentParser()
     parser = config(parser)
     args = vars(parser.parse_args())
+    os.mkdir(args['save_dir'])
+    os.mkdir(args['save_dir'] + '/json')
     split = args['for_split']
     other_split = 'train'
     category_tables_file = open(

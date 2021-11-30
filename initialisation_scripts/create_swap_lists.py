@@ -7,27 +7,27 @@ import random
 
 def config(parser):
     parser.add_argument('--data_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/category_keys/', type=str)
+                        '/temp/category_keys/', type=str)
     parser.add_argument('--reversed_file', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/reversed_key_categories/reversed_key_categories.json', type=str)
+                        '/temp/reversed_key_categories/reversed_key_categories.json', type=str)
     parser.add_argument('--tables_dir', default=os.getcwd() +
-                        '/../../data/tables/json/', type=str)
+                        '/../initial_dataset/all_data/tables/', type=str)
     parser.add_argument('--key_categories_file', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/key_categories/key_categories.json', type=str)
+                        '/temp/key_categories/key_categories.json', type=str)
     parser.add_argument('--save_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/swap_lists/', type=str)
+                        '/temp/swap_lists/', type=str)
     parser.add_argument(
-        '--reversed_dir', default=os.getcwd() + "/../../temp/infotabs_extension/reversed_category_keys/", type=str)
+        '--reversed_dir', default=os.getcwd() + "/temp/reversed_category_keys/", type=str)
     parser.add_argument(
-        '--swap_all_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_all/", type=str)
+        '--swap_all_dir', default=os.getcwd() + "/temp/swap_all/", type=str)
     parser.add_argument(
-        '--swap_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap/", type=str)
+        '--swap_dir', default=os.getcwd() + "/temp/swap/", type=str)
     parser.add_argument(
-        '--swap_all_other_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_all_other/", type=str)
+        '--swap_all_other_dir', default=os.getcwd() + "/temp/swap_all_other/", type=str)
     parser.add_argument(
-        '--swap_other_dir', default=os.getcwd() + "/../../temp/infotabs_extension/swap_other/", type=str)
+        '--swap_other_dir', default=os.getcwd() + "/temp/swap_other/", type=str)
     parser.add_argument(
-        '--splits', default=["train", "dev", "test_alpha1", "test_alpha2", "test_alpha3"], type=str, nargs='*')
+        '--splits', default=["train", "test_alpha1"], type=str, nargs='*')
     parser.add_argument('--lower_threshold', default=5, type=int)
     parser.add_argument('--upper_threshold', default=20, type=int)
     parser.add_argument('--perc', default=20, type=int)

@@ -8,13 +8,11 @@ import random
 
 def config(parser):
     parser.add_argument('--data_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/category_keys/', type=str)
-    parser.add_argument('--tables_dir', default=os.getcwd() +
-                        '/../../data/tables/json/', type=str)
+                        '/temp/category_keys/', type=str)
     parser.add_argument('--save_dir', default=os.getcwd() +
-                        '/../../temp/infotabs_extension/reversed_category_keys/', type=str)
+                        '/temp/reversed_category_keys/', type=str)
     parser.add_argument(
-        '--splits', default=["train", "dev", "test_alpha1", "test_alpha2", "test_alpha3"], type=str, nargs="*")
+        '--splits', default=["train","test_alpha1"], type=str, nargs="*")
     return parser
 
 '''
