@@ -102,7 +102,7 @@ def save_tables():
     data = request.get_json()
     print(data, file=sys.stdout)
 
-    save_dir = os.curdir
+    save_dir = os.curdir + '/output'
     tables_dir = save_dir + '/tables/T' + data['id']
     hypotheses_file = save_dir + '/hypotheses/T' + data['id'] + '.tsv'
 

@@ -71,7 +71,6 @@ if __name__ == "__main__":
             # add the table to the appropriate category in our output dict
             split_categories[category]['tables'].append(table)
             # for each key in the table, add the key to our output dict
-            json_file = open("./T10.json", "r")
             json_file = open(args['json_dir'] + table + ".json", "r")
             data = json.load(
                 json_file, object_pairs_hook=collections.OrderedDict)
