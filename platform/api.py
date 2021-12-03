@@ -25,11 +25,11 @@ def get_table():
         return "Error: No table id provided"
     # save_dir = os.cwd() + '/../../data/infotabs_extension/refined'
     # TODO: remove next line and replace with previous line
-    save_dir = os.curdir
+    save_dir = os.curdir + '/output'
     new_json = {}
 
     original_hypotheses_filename = os.curdir + \
-        '/../../data/maindata/infotabs_test_alpha1.tsv'
+        '/../initial_dataset/hypotheses.tsv'
     df = pd.read_csv(original_hypotheses_filename,
                      delimiter="\t", encoding='utf-8')
     original_rows = df.loc[df['table_id'] == ('T' + id)]
@@ -56,7 +56,7 @@ def get_table():
         print(new_json, file=sys.stdout)
     else:
         counter_table_dir = str(
-            os.curdir + '/../../temp/infotabs_extension/counterfactual_tables/json/T' + id)
+            os.curdir + '/../initialised_dataset/json/T' + id)
         new_json['ah'] = {original_hypothesis: [original_hypotheses[original_hypothesis], '000000', [], idx] for idx, original_hypothesis in enumerate(original_hypotheses)}
         new_json['bh'] = {original_hypothesis: [original_hypotheses[original_hypothesis], '000000', [], idx] for idx, original_hypothesis in enumerate(original_hypotheses)}
         new_json['ch'] = {original_hypothesis: [original_hypotheses[original_hypothesis], '000000', [], idx] for idx, original_hypothesis in enumerate(original_hypotheses)}
@@ -64,7 +64,7 @@ def get_table():
 
     # get tables
     original_table_file = open(os.path.join(os.path.dirname(
-        __file__), './../../data/tables/json', 'T' + id + '.json'), 'r')
+        __file__), './../initial_dataset/tables/json/', 'T' + id + '.json'), 'r')
     table_A_file = open(counter_table_dir + 'A.json', 'r')
     table_B_file = open(counter_table_dir + 'B.json', 'r')
     table_C_file = open(counter_table_dir + 'C.json', 'r')
@@ -91,7 +91,7 @@ def get_table():
 @app.route('/api/cats')
 def key_cats():
     data_file = os.curdir + \
-        '/../../temp/infotabs_extension/reversed_key_categories/reversed_key_categories.json'
+        '/../initialisation_scripts/temp/reversed_key_categories/reversed_key_categories.json'
     cat_file = open(data_file, 'r')
     key_cats = json.load(cat_file)
     return(key_cats)
