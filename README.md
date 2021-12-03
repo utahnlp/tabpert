@@ -1,7 +1,24 @@
-# TabPert
- TabPert: An Effective Platform for Tabular Perturbation
- 
- Official website:  [tabpert.github.io](http://tabpert.github.io "tabpert.github.io")
+# TabPert: An Effective Platform for Tabular Perturbation
+
+Implementation of the semi-structured inference model in our [EMNLP 2021](https://2021.emnlp.org/) paper: [TabPert: An Effective Platform for Tabular Perturbation](https://aclanthology.org/2021.emnlp-demo.39/). To explore the dataset online visit the [project page](tabpert.github.io).
+
+ ```
+ @inproceedings{jain-etal-2021-tabpert,
+    title = "{T}ab{P}ert : An Effective Platform for Tabular Perturbation",
+    author = "Jain, Nupur  and
+      Gupta, Vivek  and
+      Rai, Anshul  and
+      Kumar, Gaurav",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-demo.39",
+    pages = "350--360",
+    abstract = "To grasp the true reasoning ability, the Natural Language Inference model should be evaluated on counterfactual data. TabPert facilitates this by generation of such counterfactual data for assessing model tabular reasoning issues. TabPert allows the user to update a table, change the hypothesis, change the labels, and highlight rows that are important for hypothesis classification. TabPert also details the technique used to automatically produce the table, as well as the strategies employed to generate the challenging hypothesis. These counterfactual tables and hypotheses, as well as the metadata, is then used to explore the existing model{'}s shortcomings methodically and quantitatively.",
+}
+ ```
  
  ## Filestructure
  ### initial_dataset
@@ -34,7 +51,9 @@ First, replace all the files in `initial_dataset` with your own. These files mus
  You must have `npm` and `Flask` installed on your system to use the TabPert platform. Head over to [docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm "docs.npmjs.com/downloading-and-installing-node-js-and-npm") and [pypi.org/project/Flask/](https://pypi.org/project/Flask/ "pypi.org/project/Flask/") to install these.
  
  Navigate to `platform` and  run 
+ ```
  $ npm init 
+ ```
  and follow the instructions. This will set up the platform for use.
  
  To open the TabPert platform on your browser, navigate to `platform` and follow these steps: 
