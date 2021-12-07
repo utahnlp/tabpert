@@ -1,3 +1,5 @@
+<p align="center"><img width="80%" src="tabpert.png" /></p>
+
 # TabPert: An Effective Platform for Tabular Perturbation
 
 Implementation of the semi-structured inference model in our [EMNLP 2021](https://2021.emnlp.org/) paper: [TabPert: An Effective Platform for Tabular Perturbation](https://aclanthology.org/2021.emnlp-demo.39/). To explore the dataset online visit the [project page](tabpert.github.io).
